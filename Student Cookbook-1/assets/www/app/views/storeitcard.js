@@ -1,0 +1,8 @@
+CookingApp.views.Storeitcard = Ext.extend(Ext.Panel, {
+	id: 'storeitcard',
+	styleHtmlContent: true,
+	scroll: 'vertical',
+	html: '<h2 class="titleAngle">Store it!</h2><div class="boxAngle"><ul><li>Veg such as potatoes, carrots and onions should be stored in a dry, dark place such as a cupboard.</li><li>Frozen food needs to be placed into the freezer or freezer compartment of the fridge as soon as you get back with your shopping. If thawed do not re-freeze.</li><li>Chilled foods need to go immediately into the fridge. Ideally, raw meat & fish should be covered and placed on the bottom shelf. Dairy & cooked foods placed in the top area. However, if you only have one shelf for your use, wrap everything carefully especially raw meat &amp; fish - put in containers, do not allow to drip on other foods.</li><li>Store any leftover food in the fridge, covered with cling film and eat/re-heat the next day or freeze in a container or freezer bag.</li><li>Your fridge should always feel cold and should operate at a temp of between 0&deg;C- 5&deg;C. Report it if your fridge isn\'t cold and your food is going off - it could be dangerous to eat if it\'s not chilled as bacteria could multiply and cause food poisoning.</li><li>Keep your fridge clean and throw out items that are past their \'use by date\', you don\'t want to be conducting an unplanned penicillin experiment!</li></ul></div>'
+});
+
+Ext.reg('storeitcard', CookingApp.views.Storeitcard);

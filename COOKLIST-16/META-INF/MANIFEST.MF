@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_20 (Sun Microsystems Inc.)
+
+Name: assets/www/sencha/sencha-touch.js
+SHA1-Digest: iYq5X9ytoziic6GzV0YarHrQgaY=
+
+Name: assets/www/src/ChildBrowser.js
+SHA1-Digest: re9B2ml5jr4prZbKjoC/+owITRQ=
+
+Name: assets/www/release/Cooklist-408.js
+SHA1-Digest: 6U6tnlTNoNUXBbGRRFC3dDay6ro=
+
+Name: res/drawable-hdpi/splash.png
+SHA1-Digest: ucFrrpgnNH3tXIKrZyvgmf2X+H4=
+
+Name: assets/www/i18n/gettext-makejs.py
+SHA1-Digest: lfvLoF+mAee22n+KGsTa/ebmbvs=
+
+Name: resources.arsc
+SHA1-Digest: SwbNqam5ef1ctad6KLb2JMjcktU=
+
+Name: assets/www/cl_small.png
+SHA1-Digest: JhrQgDv9nQpYVTFbpeKcbwCc1+8=
+
+Name: assets/www/src/settings.js
+SHA1-Digest: yGrakbhAyTleOPYUwXC7/2qHIwo=
+
+Name: assets/www/i18n/en/LC_MESSAGE/cooklist-en.mo
+SHA1-Digest: /+kGJxiJda4aQgfejzccIA5o0es=
+
+Name: assets/www/apple-touch-icon.png
+SHA1-Digest: KuNZ3uCTeUN7RHgvkBpCshYQFt0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: pMcgg7zTc6Yh5Sujdz0wtV6l2zk=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: zUu7u4m9F6TBJv/iCDhgDIrpOsk=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: AqrtkQCnSaMVg+929qEYyQWCTHI=
+
+Name: res/drawable-mdpi/splash.png
+SHA1-Digest: ucFrrpgnNH3tXIKrZyvgmf2X+H4=
+
+Name: assets/www/phonegap.0.9.5.js
+SHA1-Digest: v+YV0bxcXtndEZ9BqdrM24RarwY=
+
+Name: assets/www/i18n/lang-en.js
+SHA1-Digest: 9eR4nnHHRgWPLeKxpZ+Wdci6PFo=
+
+Name: assets/www/src/facebook.js
+SHA1-Digest: JYqmjRmiApRm6X+yZqJ60DMkhsk=
+
+Name: assets/www/sass_build/css/cl.css
+SHA1-Digest: w1/DJTsyChEtcldSx/PLjstzSK4=
+
+Name: assets/www/i18n/en/LC_MESSAGE/cooklist-en.po
+SHA1-Digest: PhJf+ixH1qwL8tKT7EqLO9dTmrY=
+
+Name: classes.dex
+SHA1-Digest: AUk1ouMniToyrN4hJbAedQay10g=
+
+Name: assets/www/apple-splash.png
+SHA1-Digest: 0k0XwQzZ1H9xA4/mubgO2P1NfD4=
+
+Name: res/layout/main.xml
+SHA1-Digest: lT7mTG9UpP3lj/CU0QYUyRRgRNc=
+
+Name: assets/www/tablet_startup.png
+SHA1-Digest: 6aTFAVj49kH5eUX9Q4tMpu4JbO0=
+
+Name: res/drawable-ldpi/splash.png
+SHA1-Digest: ym8PA/eHOSKiDbumUn8XwzwfW5Y=
+
+Name: assets/www/index.html
+SHA1-Digest: hS/snU8/F7Met0DvV8vcckklkdo=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 0HB0Hcn+VCFXPC8htfeq8aYBCPU=
+

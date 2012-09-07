@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/main.xml
+SHA1-Digest: Qvtm49Dd2anJK4nlSVNSF3GphsQ=
+
+Name: assets/www/mobile.html
+SHA1-Digest: 5hpofIS3ZnnQnGocF/mivS+B8Oo=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: iHfWgxKYCKUyMBtT6qML00RNC+8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: oemcTtP6DxtOciCOkJnPhcX3KqY=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: thHxRUWh52X8im/NOqyxq2sDY5g=
+
+Name: resources.arsc
+SHA1-Digest: ufzAAxYYIxzkz2h0MRQVofr0jss=
+
+Name: assets/www/index.html
+SHA1-Digest: uqwNDdjTSJDTlxNqDokBNDiMTwc=
+
+Name: classes.dex
+SHA1-Digest: Bi2hWl3cg9lAvgstQbMD8ZdjCZc=
+
+Name: assets/www/error_no_internet.html
+SHA1-Digest: AafLewPaOeGlcje/hOuUTDRMtYU=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: DmSLFP1K48mUY4FeBTsUx/vXETk=
+
+Name: assets/www/images/splash.jpg
+SHA1-Digest: CvPUxoerCQjb9Dghqwu0ce4z89E=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: W/4aQk1DH/nERRFjX3VY/qtAyEQ=
+

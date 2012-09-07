@@ -1,0 +1,8 @@
+CookingApp.views.Cleanitcard = Ext.extend(Ext.Panel, {
+	id: 'cleanitcard',
+	styleHtmlContent: true,
+	scroll: 'vertical',
+	html: '<h2 class="titleAngle">Clean it!</h2><div class="boxAngle"><p>It\'s essential that you follow basic hygiene rules to ensure you and your housemates keep unwanted pests and food poisoning at bay!</p><ul><li>Always wash your hands before, during and after cooking, especially if handling raw meat and fish - also wash the utensils/boards used straight after you\'ve started cooking to ensure they are clean for finishing the dish, this will avoid any chance of cross contamination from raw and cooked food.</li><li>Keep all work surfaces clean.</li><li>Wipe up any spills as you go along especially cooking spills as once they have dried on the hob it\'s very difficult to get it clean and takes longer!</li><li>Wash up as you go along and straight after you\'ve eaten - it\'s not fair on other students to find your dirty dishes piled up in the sink. Use hot water and washing up liquid for washing up.</li><li>Once you get to know your housemates you might be able to organise a cleaning and cooking rota.</li><li>Empty bins regularily before they overflow and take them out daily and don\'t leave food and leftovers around the kitchen overnight so you don\'t attract any furry friends!</li><li>Wash your cloths and tea towels often as bacteria thrive in dirty cloths!</li></ul></div>'
+});
+
+Ext.reg('cleanitcard', CookingApp.views.Cleanitcard);

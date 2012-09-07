@@ -1,0 +1,40 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: ZaDdHA3m+h0ne0Svk7K+i0WI/FU=
+
+Name: res/layout/main.xml
+SHA1-Digest: ID0paax/v+FdGc5dGPswwi80nLA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: W8e26vC4tT4OUrX8tpHvbKoCg18=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: ifYeJCNOV/AVIsDNCHVgfgchPFc=
+
+Name: assets/www/app-android.js
+SHA1-Digest: i+MHCcTS8iLHg449JrRNSWhTfio=
+
+Name: assets/www/style.css
+SHA1-Digest: I7jQksaWbed7O70+Zm10UPqhEys=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: oJJj6+9h8lVFCNOkLzoOyr3a/9s=
+
+Name: res/xml/cordova.xml
+SHA1-Digest: cxj4ox7HF2F+fVnC7T0fQtO2dCk=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: 3k1ao3F8MAX+AlM0xViyaaNFVwU=
+
+Name: assets/www/index.html
+SHA1-Digest: XA0/ZXDBqKDY1LLaLApkygF3MKc=
+
+Name: resources.arsc
+SHA1-Digest: IUCAOGgACKwKBk4PxjEC2MYvTmM=
+
+Name: classes.dex
+SHA1-Digest: xAc99aqTGiBU7QI1c9QNlkKG3qc=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: /HRjgeyhHBwEoayR+AnlNWW5uEE=
+

@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <title>Jasmine Test Runner - Test Reporter</title>
+
+        <link rel="stylesheet" type="text/css" href="reporter/resources/reporter.css">
+        <script type="text/javascript" src="jasmine-1.0.1/jasmine.js"></script>
+
+        <script type="text/javascript" src="jasmine-extensions/Browser.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/CodeHighLighter.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/Dom.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/Spec.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/DomSandbox.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/BadGlobals.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/StringPrettyPrinter.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/Utils.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/panels/Namespace.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/panels/SpecBlocks.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/panels/SpecDomSandbox.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/panels/SpecInfos.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/panels/SpecStackTrace.js"></script>
+        <script type="text/javascript" src="jasmine-extensions/panels/TabPanel.js"></script>
+        <script type="text/javascript" src="reporter/src/Reporter.js"></script>
+
+        <!-- include source files here... --
+
+        <!-- include spec files here... -->
+        <script type="text/javascript" src="spec/jasmine-extensions/panels/SpecBlocks.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/panels/SpecDomSandbox.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/panels/SpecInfos.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/panels/SpecStackTrace.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/panels/TabPanel.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/BadGlobals.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/Browser.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/CodeHighLighter.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/Dom.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/DomSandbox.js"></script>
+        <script type="text/javascript" src="spec/jasmine-extensions/Utils.js"></script>
+        <script type="text/javascript" src="spec/Reporter.js"></script>
+
+    </head>
+    <body>
+
+        <!-- Boot -->
+        <script type="text/javascript">
+          jasmine.getEnv().addReporter(new SenchaReporter());
+          jasmine.getEnv().execute();
+        </script>
+
+    </body>
+</html>

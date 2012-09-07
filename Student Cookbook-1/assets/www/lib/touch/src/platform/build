@@ -1,0 +1,1 @@
+./builder/JSBuilder.sh -d ./deploy -p platform.jsb3

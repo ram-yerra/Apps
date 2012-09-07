@@ -1,0 +1,8 @@
+CookingApp.views.Aboutcard = Ext.extend(Ext.Panel, {
+	id: 'aboutcard',
+	styleHtmlContent: true,
+	scroll: 'vertical',
+	html: '<h2 class="titleAngle">About</h2><div class="boxAngle"><p>In making this app we\'ve actually used real students - to enable us to fully understand your concerns with preparing and cooking food. We\'ve included information and tips on storing food, basic hygiene rules, kitchen must haves and using up leftovers. The recipes have also been tried and tested by the students so they really do work!</p></div><h2 class="titleAngle">Sorted!</h2><div class="boxAngle"><p>The recipes have been designed to feed 2-6 but can easily be adjusted if cooking for yourself, and when you think about it you might as well make the full amount and then keep some for the next day or freeze it. It\'ll save you money and time in the long run and it\'s great to have a meal ready to heat up when you get in after a hard day of lectures! Most of the recipes are quick and easy to prepare. We\'ve rated them from 1-3 for ease of preparation. Making a rating of 3 doesn\'t mean it\'s difficult. It just means there\'s a bit more prep &amp; chopping. Most of the recipes also cook quickly but some like the curry recipe will take a bit longer to tenderise the meat - but well worth the wait!</p><p>In many of the recipes we\'ve included step-by-step photographs to make it easier for you and help you along your way.</p></div>'
+});
+
+Ext.reg('aboutcard', CookingApp.views.Aboutcard);

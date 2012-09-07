@@ -1,0 +1,126 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/resources/images/restaurants_android.png
+SHA1-Digest: ZbfchZlzX1eXECVkXjnkoez7svg=
+
+Name: res/drawable-hdpi/splash.png
+SHA1-Digest: Ryh3WbsAGDDb3Ut801+8PAl2HR0=
+
+Name: assets/www/lib/touch/sencha-touch.js
+SHA1-Digest: iYq5X9ytoziic6GzV0YarHrQgaY=
+
+Name: resources.arsc
+SHA1-Digest: amGxzHRvxPTPcrFbeSjp+36ZW9g=
+
+Name: assets/www/resources/images/phone2.png
+SHA1-Digest: SQ0umxrALmU+cdUMA+ad5Z7x2ss=
+
+Name: assets/www/resources/images/berlinmap.png
+SHA1-Digest: LF/aUl8ZpQ/bUaWwvy1jTtdXu7A=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 4IvJb8W3Vk8yyOPt+ZWZt4BjouI=
+
+Name: assets/www/lib/android/phonegap.0.9.6.min.js
+SHA1-Digest: CxJnzXjwTq7YCfaCDKy45hgz6oQ=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: m+xrGD1BqOPIqwfigX2IggoyZ9M=
+
+Name: assets/www/resources/images/icon.png
+SHA1-Digest: cPbD6z73hNhU9x38eoRMrK6H+3o=
+
+Name: res/drawable-mdpi/splash.png
+SHA1-Digest: Z5SblvNXc86VBAz5i5YX3ZenpPM=
+
+Name: assets/www/index-min.js
+SHA1-Digest: QHh5wgqdv+YhJXWz+DS/kpFAbv4=
+
+Name: assets/www/resources/images/ice-cream.jpg
+SHA1-Digest: uh6bFRfphaKCWGtHCjR5ME77tUo=
+
+Name: assets/www/resources/images/karte_icon_weiss.png
+SHA1-Digest: 9l9OgI8urr3vy9IdXOdPdKFnlEA=
+
+Name: assets/www/resources/images/restaurants.png
+SHA1-Digest: JmBQFbFWtQm+Y1hd6JYdaswppwU=
+
+Name: assets/www/resources/images/background.png
+SHA1-Digest: B4n0IYGfbIlmyVrNTRDpnArok/o=
+
+Name: assets/www/resources/images/stern.gif
+SHA1-Digest: BEMThkVrxtKGw4Ygn97j/SesjuA=
+
+Name: assets/www/resources/images/doc2.png
+SHA1-Digest: oljo3gmWSbBKjzIL5HEf4RnMWDk=
+
+Name: assets/www/resources/images/cafes_android.png
+SHA1-Digest: ZBdHLz40efgv86eYKbPux+ipWG4=
+
+Name: assets/www/resources/css/index-240px.css
+SHA1-Digest: jf6y2MLZx+lIWRY9xp3me+/LXdU=
+
+Name: assets/www/resources/images/icecafes_android.png
+SHA1-Digest: /DPYWSz3LByl0c5iNBVBrXmjC+w=
+
+Name: assets/www/resources/images/imbiss_android.png
+SHA1-Digest: R6Hx/JLtTk9XqRb/15jeN+n7ixQ=
+
+Name: assets/www/resources/images/shopping_android.png
+SHA1-Digest: N5My6f0PeWrRNd1xmCK5fB4uBRs=
+
+Name: classes.dex
+SHA1-Digest: ff06py5dgtH1BPJeSHC+kP21Tuw=
+
+Name: assets/www/resources/css/index.css
+SHA1-Digest: pRWBXmjTbS6kdDFLtxP+y6S7x8I=
+
+Name: res/layout/main.xml
+SHA1-Digest: Qvtm49Dd2anJK4nlSVNSF3GphsQ=
+
+Name: assets/www/resources/images/globe2.png
+SHA1-Digest: ESEIPkI3gq2NpxjIa1FOQESZqWA=
+
+Name: assets/www/resources/images/cafes.png
+SHA1-Digest: 4Kz5e3y0BtV4BBaWyHFS+B7USxA=
+
+Name: assets/www/resources/images/background.gif
+SHA1-Digest: yyseOGjL6hNHWhxNUSl+iP74rt4=
+
+Name: assets/www/lib/android/webintent.js
+SHA1-Digest: BafscKgtoJsCeEC9ueuDtDZywn8=
+
+Name: assets/www/resources/images/icecafes.png
+SHA1-Digest: oFeP2T2yKlSrA0w567mqzzrbIJY=
+
+Name: assets/www/resources/css/iphone.css
+SHA1-Digest: 3kpsvoaEs/QWNwy3ZcdnSqi1+yw=
+
+Name: assets/www/resources/images/splashscreen.png
+SHA1-Digest: zzPvUwmD/395DRa4ygwVGn2/Ioc=
+
+Name: assets/www/index.html
+SHA1-Digest: 1b/MY7YZLI+nwyancaEOawsu514=
+
+Name: assets/www/resources/images/emergency.png
+SHA1-Digest: BaFiz5BoJm3iSWMo7X68pKxUWBw=
+
+Name: assets/www/resources/images/imbiss.png
+SHA1-Digest: CSztxAUeqMwgH9F86QqhRcI3+UI=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: B71AWilhURZmr8nFNDjrzOZFni0=
+
+Name: assets/www/resources/images/shopping.png
+SHA1-Digest: sXzi10r6H6OJLzpNX0xChu3Lnt8=
+
+Name: assets/www/resources/images/info2.png
+SHA1-Digest: co60GoZyX49rcXlgaZl9oA94KaM=
+
+Name: assets/www/resources/images/iphone3g_frame.png
+SHA1-Digest: ooHzwyts3QEJhbH+NraRVgN8qGo=
+
+Name: assets/www/resources/css/android.css
+SHA1-Digest: 8UB3vTtHeTM33rTFtct7qPA9/NY=
+

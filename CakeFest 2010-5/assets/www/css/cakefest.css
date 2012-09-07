@@ -1,0 +1,146 @@
+.x-tabbar.x-docked-bottom .x-tab img.twitter {
+-webkit-mask-box-image: url(../images/icon_post.png);
+}
+.x-tabbar.x-docked-bottom .x-tab img.map {
+-webkit-mask-box-image: url(../images/icon_blog.png);
+}
+.x-tabbar.x-docked-bottom .x-tab img.beer {
+-webkit-mask-box-image: url(../images/88-beermug.png);
+}
+.x-tabbar.x-docked-bottom .x-tab img.heart {
+-webkit-mask-box-image: url(../images/icon_favorities.png);
+}
+
+/**
+ * Sponsors
+ * ------------------------------
+ */
+.x-list .x-list-group-items .sponsor,
+.x-list.x-list-flat .x-list-parent .sponsor {
+	padding: 0.5em;
+}
+.sponsor {
+	text-align: center;
+}
+.sponsor .url {
+	color: #bbb;
+	font-size: 0.7em;
+}
+.sponsor a {
+	display: block;
+}
+.sponsor img {
+	width: 220px;
+	height: 93px;
+}
+
+/**
+ * Schedule
+ * ------------------------------
+ */
+.x-list .x-list-group-items .schedule,
+.x-list.x-list-flat .x-list-parent .schedule {
+	padding: 0.5em;
+}
+.schedule .time,
+.schedule .content {
+	font-size: 0.85em;
+}
+.schedule .time {
+	width: 60px;
+	float: left;
+	color: darkgreen;
+	font-weight: bold;
+}
+.break .title {
+	color: #0D87BC;
+}
+.social .title {
+	color: #90c;
+}
+.schedule .content {
+	display: block;
+	margin-left: 65px;
+}
+.schedule .subtitle,
+.schedule .time .finish {
+	font-size: 0.9em;
+	color: #999;
+	font-weight: normal;
+}
+
+/**
+ * Twitter
+ * ------------------------------
+ */
+.twitter {
+	font-size: 0.85em;
+	background-color: #F7F7F7;
+}
+.twitter .tweet {
+	border-top: solid #fff 1px;
+	border-bottom: solid #EAEAEA 1px;
+	padding: 0.5em;
+}
+.twitter .tweet .avatar {
+	float: left;
+	width: 32px;
+}
+.twitter .tweet .avatar img {
+	width: 32px;
+	height: 32px;
+}
+.twitter .tweet .tweet-content {
+	display: block;
+	margin-left: 45px;
+}
+.twitter .tweet .tweet-content h2 {
+	font-size: 1.1em;
+	color: #0D87BC;
+	margin-bottom: 0.5em;
+}
+.twitter .tweet .tweet-content p {
+	color: #999;
+}
+.twitter .tweet .tweet-content a {
+	text-decoration: none;
+	color: #0D87BC;
+}
+.twitter .tweet .tweet-content a.hashtag {
+	color: #666;
+}
+.twitter .tweet .tweet-content .time {
+	color: #aaa;
+	font-size: 0.8em;
+}
+
+/**
+ * Twitter
+ * ------------------------------
+ */
+.information {
+	font-size: 0.85em;
+	background-color: #F7F7F7;
+}
+.information .section {
+	border-top: solid #fff 1px;
+	border-bottom: solid #EAEAEA 1px;
+	padding: 0.5em;
+}
+.information h2 {
+	font-size: 1.1em;
+	color: #0D87BC;
+	margin-bottom: 0.5em;
+}
+.information h3 {
+	color: #90c;
+	margin: 0.5em 0 0.2em;
+	margin-left: 15px;
+}
+.information p {
+	margin-left: 15px;
+}
+.information a {
+	text-decoration: none;
+	color: #0D87BC;
+}

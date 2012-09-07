@@ -1,0 +1,315 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <title>Jasmine Test Runner - Platform</title>
+
+        <link rel="stylesheet" type="text/css" href="lib/reporter/resources/reporter.css">
+        <script type="text/javascript" src="lib/jasmine-1.0.1/jasmine.js"></script>
+        
+        <script type="text/javascript" src="lib/jasmine-extensions/Browser.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/CodeHighLighter.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/Dom.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/Spec.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/DomSandbox.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/BadGlobals.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/StringPrettyPrinter.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/Utils.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/panels/Namespace.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/panels/SpecBlocks.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/panels/SpecDomSandbox.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/panels/SpecInfos.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/panels/SpecStackTrace.js"></script>
+        <script type="text/javascript" src="lib/jasmine-extensions/panels/TabPanel.js"></script>
+        <script type="text/javascript" src="lib/reporter/src/Reporter.js"></script>
+        
+        
+        <!-- include source files here... -->
+        <script type="text/javascript" src="resources/MockAjax.js"></script>
+        <script type="text/javascript" src="resources/FakeScope.js"></script>
+        
+        <!-- Base -->
+        <script type="text/javascript" src="../../src/Ext.js"></script>
+        <script type="text/javascript" src="../../src/Support.js"></script>
+        <script type="text/javascript" src="../../src/core/Ext.js"></script>
+        <script type="text/javascript" src="../../src/core/Adapter.js"></script>
+
+        <!-- Util -->
+
+        <script type="text/javascript" src="../../src/util/Function.js"></script>
+        <script type="text/javascript" src="../../src/util/Date.js"></script>
+        <script type="text/javascript" src="../../src/native/Array.js"></script>
+        <script type="text/javascript" src="../../src/util/Number.js"></script>
+        <script type="text/javascript" src="../../src/util/Observable.js"></script>
+        <script type="text/javascript" src="../../src/util/HashMap.js"></script>
+        <script type="text/javascript" src="../../src/util/MixedCollection.js"></script>
+        <script type="text/javascript" src="../../src/util/Filter.js"></script>
+        <script type="text/javascript" src="../../src/util/Sorter.js"></script>
+        <script type="text/javascript" src="../../src/util/AbstractManager.js"></script>
+        <script type="text/javascript" src="../../src/util/DelayedTask.js"></script>
+        <script type="text/javascript" src="../../src/util/GeoLocation.js"></script>
+        <script type="text/javascript" src="../../src/util/OfflineDebug.js"></script>
+        <script type="text/javascript" src="../../src/util/Region.js"></script>
+        <script type="text/javascript" src="../../src/util/Format.js"></script>
+        <script type="text/javascript" src="../../src/util/Template.js"></script>
+        <script type="text/javascript" src="../../src/util/XTemplate.js"></script>
+
+
+        <!-- Core -->
+        <script type="text/javascript" src="../../src/ComponentMgr.js"></script>
+        <script type="text/javascript" src="../../src/PluginMgr.js"></script>
+        <script type="text/javascript" src="../../src/ViewManager.js"></script>
+        <script type="text/javascript" src="../../src/app/ApplicationManager.js"></script>
+        <script type="text/javascript" src="../../src/app/ControllerManager.js"></script>
+        <script type="text/javascript" src="../../src/EventManager.js"></script>
+
+        <script type="text/javascript" src="../../src/core/DomHelper.js"></script>
+
+        <script type="text/javascript" src="../../src/core/DomQuery.js"></script>
+        <script type="text/javascript" src="../../src/core/Element.js"></script>
+        <script type="text/javascript" src="../../src/core/Element.traversal.js"></script>
+        <script type="text/javascript" src="../../src/core/Element.insertion.js"></script>
+        <script type="text/javascript" src="../../src/core/Element.style.js"></script>
+        <script type="text/javascript" src="../../src/core/Element.position.js"></script>
+        <script type="text/javascript" src="../../src/core/Element.scroll.js"></script>
+        <script type="text/javascript" src="../../src/core/Element.fx.js"></script>
+        <script type="text/javascript" src="../../src/core/Element.static.js"></script>
+        <script type="text/javascript" src="../../src/core/Fx.js"></script>
+        <script type="text/javascript" src="../../src/core/CompositeElementLite.js"></script>
+        <script type="text/javascript" src="../../src/core/TaskMgr.js"></script>
+        <script type="text/javascript" src="../../src/core/JSON.js"></script>
+
+        <!-- MVC -->
+        <script type="text/javascript" src="../../src/app/Controller.js"></script>
+        <script type="text/javascript" src="../../src/app/Interaction.js"></script>
+        <script type="text/javascript" src="../../src/util/Stateful.js"></script>
+        <script type="text/javascript" src="../../src/View.js"></script>
+        <script type="text/javascript" src="../../src/app/Application.js"></script>
+        <script type="text/javascript" src="../../src/app/Router.js"></script>
+        <script type="text/javascript" src="../../src/app/Route.js"></script>
+        <script type="text/javascript" src="../../src/app/Dispatcher.js"></script>
+
+        <!-- Data Foundation -->
+        <script type="text/javascript" src="../../src/data/Connection.js"></script>
+        <script type="text/javascript" src="../../src/data/Batch.js"></script>
+        <script type="text/javascript" src="../../src/data/Model.js"></script>
+        <script type="text/javascript" src="../../src/data/Field.js"></script>
+        <script type="text/javascript" src="../../src/data/SortTypes.js"></script>
+        <script type="text/javascript" src="../../src/data/Types.js"></script>
+        <script type="text/javascript" src="../../src/data/ModelMgr.js"></script>
+        <script type="text/javascript" src="../../src/data/Operation.js"></script>
+        <script type="text/javascript" src="../../src/data/ProxyMgr.js"></script>
+        <script type="text/javascript" src="../../src/data/ReaderMgr.js"></script>
+        <script type="text/javascript" src="../../src/data/Request.js"></script>
+        <script type="text/javascript" src="../../src/data/ResultSet.js"></script>
+        <script type="text/javascript" src="../../src/data/stores/AbstractStore.js"></script>
+        <script type="text/javascript" src="../../src/data/Store.js"></script>
+        <script type="text/javascript" src="../../src/data/stores/TreeStore.js"></script>
+        <script type="text/javascript" src="../../src/data/NestedSetStore.js"></script>
+        <script type="text/javascript" src="../../src/data/StoreMgr.js"></script>
+        <script type="text/javascript" src="../../src/data/WriterMgr.js"></script>
+        <script type="text/javascript" src="../../src/data/Tree.js"></script>
+        <script type="text/javascript" src="../../src/data/Node.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/Proxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/ServerProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/AjaxProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/RestProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/ScriptTagProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/ClientProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/MemoryProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/WebStorageProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/LocalStorageProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/proxies/SessionStorageProxy.js"></script>
+        <script type="text/javascript" src="../../src/data/readers/Reader.js"></script>
+        <script type="text/javascript" src="../../src/data/writers/Writer.js"></script>
+        <script type="text/javascript" src="../../src/data/Validations.js"></script>
+        <script type="text/javascript" src="../../src/data/Errors.js"></script>
+        <script type="text/javascript" src="../../src/data/Association.js"></script>
+        <script type="text/javascript" src="../../src/data/BelongsToAssociation.js"></script>
+        <script type="text/javascript" src="../../src/data/HasManyAssociation.js"></script>
+        <script type="text/javascript" src="../../src/data/PolymorphicAssociation.js"></script>
+
+
+        <!-- Data JSON -->
+        <script type="text/javascript" src="../../src/data/writers/JsonWriter.js"></script>
+        <script type="text/javascript" src="../../src/data/readers/JsonReader.js"></script>
+        <script type="text/javascript" src="../../src/data/readers/TreeReader.js"></script>
+        <script type="text/javascript" src="../../src/data/readers/ArrayReader.js"></script>
+        <script type="text/javascript" src="../../src/data/stores/ArrayStore.js"></script>
+        <script type="text/javascript" src="../../src/data/stores/JsonStore.js"></script>
+        <script type="text/javascript" src="../../src/data/stores/JsonPStore.js"></script>
+
+        <!-- Data XML -->
+        <script type="text/javascript" src="../../src/data/writers/XmlWriter.js"></script>
+        <script type="text/javascript" src="../../src/data/readers/XmlReader.js"></script>
+        <script type="text/javascript" src="../../src/data/stores/XmlStore.js"></script>
+
+        <!-- Fx -->
+        <script type="text/javascript" src="../../src/fx/Manager.js"></script>
+        <script type="text/javascript" src="../../src/fx/Anim.js"></script>
+        <script type="text/javascript" src="../../src/fx/Animator.js"></script>
+        <script type="text/javascript" src="../../src/fx/Target.js"></script>
+        <script type="text/javascript" src="../../src/fx/Easing.js"></script>
+        <script type="text/javascript" src="../../src/fx/DefaultPropHandler.js"></script>
+        <script type="text/javascript" src="../../src/fx/ColorHandler.js"></script>
+        <script type="text/javascript" src="../../src/fx/PathHandler.js"></script>
+        <script type="text/javascript" src="../../src/fx/TransformHandler.js"></script>
+        
+        <!-- Layouts -->
+        <script type="text/javascript" src="../../src/layout/LayoutManager.js"></script>
+        <script type="text/javascript" src="../../src/layout/Layout.js"></script>
+        <script type="text/javascript" src="../../src/layout/component/ComponentLayout.js"></script>
+        <script type="text/javascript" src="../../src/layout/component/AutoComponentLayout.js"></script>
+        
+        <!-- Component base -->
+        <script type="text/javascript" src="../../src/ComponentQuery.js"></script>
+        <script type="text/javascript" src="../../src/Component.js"></script>
+        <script type="text/javascript" src="../../src/Container.js"></script>
+        <script type="text/javascript" src="../../src/Panel.js"></script>
+
+        <script type="text/javascript" src="spec/fixtures/readers/AssociationLoad.js"></script>
+
+        <!-- include spec files here... -->
+        <script type="text/javascript" src="spec/Ext.js"></script>
+        <script type="text/javascript" src="spec/PluginMgr.js"></script>
+
+        <!-- Data -->
+        <script type="text/javascript" src="spec/data/Connection.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/Proxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/ServerProxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/ClientProxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/AjaxProxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/RestProxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/ScriptTagProxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/WebStorageProxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/LocalStorageProxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/SessionStorageProxy.js"></script>
+        <script type="text/javascript" src="spec/data/proxies/MemoryProxy.js"></script>
+        <script type="text/javascript" src="spec/data/ProxyMgr.js"></script>
+        <script type="text/javascript" src="spec/data/Field.js"></script>
+        <script type="text/javascript" src="spec/data/ModelMgr.js"></script>
+        <script type="text/javascript" src="spec/data/Model.js"></script>
+        <script type="text/javascript" src="spec/data/AbstractStore.js"></script>
+        <script type="text/javascript" src="spec/data/Store.js"></script>
+        <script type="text/javascript" src="spec/data/Tree.js"></script>
+        <script type="text/javascript" src="spec/data/Node.js"></script>
+        <script type="text/javascript" src="spec/data/Request.js"></script>
+        <script type="text/javascript" src="spec/data/ResultSet.js"></script>
+        <script type="text/javascript" src="spec/data/Operation.js"></script>
+        <script type="text/javascript" src="spec/data/Batch.js"></script>
+        <script type="text/javascript" src="spec/data/Types.js"></script>
+        <script type="text/javascript" src="spec/data/ArrayReader.js"></script>
+        <script type="text/javascript" src="spec/data/Reader.js"></script>
+        <script type="text/javascript" src="spec/data/JsonReader.js"></script>
+        <script type="text/javascript" src="spec/data/XmlReader.js"></script>
+        <script type="text/javascript" src="spec/data/Validation.js"></script>
+        <script type="text/javascript" src="spec/data/Errors.js"></script>
+        <script type="text/javascript" src="spec/data/Association.js"></script>
+        <script type="text/javascript" src="spec/data/BelongsToAssociation.js"></script>
+        <script type="text/javascript" src="spec/data/HasManyAssociation.js"></script>
+        <script type="text/javascript" src="spec/data/PolymorphicAssociation.js"></script>
+
+        <!-- Util -->
+        <script type="text/javascript" src="spec/util/Router.js"></script>
+        <script type="text/javascript" src="spec/util/Route.js"></script>
+        <script type="text/javascript" src="spec/util/Dispatcher.js"></script>
+        <script type="text/javascript" src="spec/util/Sorter.js"></script>
+        <script type="text/javascript" src="spec/util/Filter.js"></script>
+        <script type="text/javascript" src="spec/util/Format.js"></script>
+        <script type="text/javascript" src="spec/util/HashMap.js"></script>
+        <script type="text/javascript" src="spec/util/MixedCollection.js"></script>
+        <script type="text/javascript" src="spec/util/Template.js"></script>
+        <script type="text/javascript" src="spec/util/XTemplate.js"></script>
+        <script type="text/javascript" src="spec/util/GeoLocation.js"></script>
+        <script type="text/javascript" src="spec/util/Functions.js"></script>
+        <script type="text/javascript" src="spec/util/Region.js"></script>
+        <script type="text/javascript" src="spec/util/Date.js"></script>
+        <script type="text/javascript" src="spec/util/Observable.js"></script>
+        <script type="text/javascript" src="spec/util/Stateful.js"></script>
+        
+        <!-- Core -->
+        <script type="text/javascript" src="spec/core/Element.js"></script>
+        <script type="text/javascript" src="spec/core/Element.insertion.js"></script>
+        <script type="text/javascript" src="spec/core/Element.traversal.js"></script>
+        <script type="text/javascript" src="spec/core/Element.static.js"></script>
+        
+        <script type="text/javascript" src="spec/core/JSON.js"></script>
+
+        <!-- Native -->
+        <script type="text/javascript" src="spec/native/Array.js"></script>
+        <script type="text/javascript" src="spec/native/Number.js"></script>
+
+        <!-- App -->
+        <script type="text/javascript" src="spec/app/Application.js"></script>
+        <script type="text/javascript" src="spec/app/ApplicationManager.js"></script>
+        <script type="text/javascript" src="spec/app/Controller.js"></script>
+        <script type="text/javascript" src="spec/app/ControllerManager.js"></script>
+
+
+        <!-- Fx -->
+        <script type="text/javascript" src="spec/fx/Anim.js"></script>
+
+        <!-- Support -->
+        <script type="text/javascript" src="spec/Support.js"></script>
+
+        <!-- Component Base -->
+        <script type="text/javascript" src="spec/Component.js"></script>
+        <script type="text/javascript" src="spec/Container.js"></script>
+        
+        <!-- Growl notifier. Served from a CDN to minimise hassle -->
+<!--
+        <script src="http://cdn.socket.io/stable/socket.io.js"></script>         
+-->
+<!--
+        <script type="text/javascript">
+            if(window.io) {
+                var socket = new io.Socket('localhost', {port: 3001});
+                var socketReconnect;
+
+                socket.on('connect', function(){ 
+                    console.log('Socket.IO Connected OK');
+                    if(socketReconnect) {
+                        window.location.reload(); // Re-run the tests if we have to re-connect
+                    } else {
+                        socket.send("RUNNING"); // Sending the 'Running Tests' command                        
+                    }
+                }) ;
+                socket.on('message', function(msg){
+                    var shouldReload = msg.match(/updated/i);
+                    if(shouldReload) { // There's been a change in the source
+                        window.location.reload();
+                    }
+                }) 
+                socket.on('disconnect', function() { 
+                    console.log('Socket.IO Disconnected')
+                    // Try to reconnect every 5 seconds to the backend
+                    socketReconnect = setInterval(function() {
+                        console.log('Attempting Socket.IO reconnect');
+                        socket.connect();
+                    }, 5000)
+                });
+                socket.connect();
+                
+                SenchaReporter.prototype._renderResults = SenchaReporter.prototype.renderResults;
+                SenchaReporter.prototype.renderResults = function(runner) {
+                    this._renderResults(runner);
+                    var fails = jasmine.getEnv().currentRunner().results().failedCount;
+                    if(socket) socket.send("ERRORS: " + fails)
+                }
+            } else {
+                console.log("The Socket.IO script was not loaded")
+            }
+        </script>
+-->
+        <!-- End of Growl notifier -->
+    </head>
+    <body>
+
+        <!-- Boot -->
+        <script type="text/javascript">
+          jasmine.getEnv().addReporter(new SenchaReporter());
+          jasmine.getEnv().execute();
+        </script>
+
+    </body>
+</html>

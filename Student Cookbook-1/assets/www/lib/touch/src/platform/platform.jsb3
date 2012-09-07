@@ -1,0 +1,170 @@
+{
+    "projectName": "Sencha Touch",
+    "licenseText": "Copyright(c) 2011 Sencha Inc.\nlicensing@sencha.com",
+    "targets": [
+        {
+            "name"  : "Platform Util",
+            "target": "pkgs/util.js",
+            "id"    : "platform-util",
+            "files" : [
+                {"path": "src/",        "name": "Ext.js"},
+                {"path": "src/native/", "name": "Function.js"},
+                {"path": "src/native/", "name": "String.js"},
+                {"path": "src/native/", "name": "Date.js"},
+                {"path": "src/native/", "name": "Array.js"},
+                {"path": "src/native/", "name": "Number.js"},
+                {"path": "src/util/",   "name": "Observable.js"},
+                {"path": "src/util/",   "name": "HashMap.js"},
+                {"path": "src/util/",   "name": "MixedCollection.js"},
+                {"path": "src/util/",   "name": "Filter.js"},
+                {"path": "src/util/",   "name": "Sorter.js"},
+                {"path": "src/util/",   "name": "AbstractManager.js"},
+                {"path": "src/util/",   "name": "DelayedTask.js"},
+                {"path": "src/util/",   "name": "GeoLocation.js"},
+                {"path": "src/util/",   "name": "OfflineDebug.js"},
+                {"path": "src/util/",   "name": "Point.js"},
+                {"path": "src/util/",   "name": "Offset.js"},
+                {"path": "src/util/",   "name": "Region.js"},
+                {"path": "src/util/",   "name": "Format.js"},
+                {"path": "src/util/",   "name": "Template.js"},
+                {"path": "src/util/",   "name": "XTemplate.js"},
+                {"path": "src/core/",   "name": "JSON.js"}
+            ]
+        },
+        {
+            "name": "Platform FX",
+            "target": "pkgs/fx.js",
+            "id": "platform-fx",
+            "files": [
+                {"path": "src/fx/", "text": "Manager.js"},
+                {"path": "src/fx/", "text": "Anim.js"},
+                {"path": "src/fx/", "text": "Animator.js"},
+                {"path": "src/fx/", "text": "Target.js"},
+                {"path": "src/fx/", "text": "Easing.js"},
+                {"path": "src/fx/", "text": "DefaultPropHandler.js"},
+                {"path": "src/fx/", "text": "ColorHandler.js"},
+                {"path": "src/fx/", "text": "PathHandler.js"},
+                {"path": "src/fx/", "text": "TransformHandler.js"}
+            ]
+        },
+        {
+            "name"  : "Platform Core",
+            "target": "pkgs/core.js",
+            "id"    : "platform-core",
+            "files" : [
+                {"path": "src/", "name": "ComponentMgr.js"},
+                {"path": "src/", "name": "PluginMgr.js"},
+                {"path": "src/", "name": "ViewManager.js"},
+                {"path": "src/", "name": "EventManager.js"}
+            ]
+        },
+        {
+            "name"  : "Platform MVC",
+            "target": "pkgs/mvc.js",
+            "id"    : "platform-mvc",
+            "files" : [
+                {"path": "src/app/",  "name": "Controller.js"},
+                {"path": "src/app/",  "name": "ControllerManager.js"},
+                {"path": "src/app/",  "name": "Interaction.js"},
+                {"path": "src/util/", "name": "Stateful.js"},
+                {"path": "src/app/",  "name": "Application.js"},
+                {"path": "src/app/",  "name": "ApplicationManager.js"},
+                {"path": "src/app/",  "name": "Router.js"},
+                {"path": "src/app/",  "name": "Route.js"},
+                {"path": "src/app/",  "name": "Dispatcher.js"}
+            ]
+        },
+        
+        {
+            "name": "Data Foundation",
+            "id": "data-foundation",
+            "target": "pkgs/data-foundation.js",
+            "files": [
+                {"path": "src/data/",         "name": "Connection.js"},
+                {"path": "src/data/",         "name": "Batch.js"},
+                {"path": "src/data/",         "name": "Model.js"},
+                {"path": "src/data/",         "name": "Field.js"},
+                {"path": "src/data/",         "name": "SortTypes.js"},
+                {"path": "src/data/",         "name": "Types.js"},
+                {"path": "src/data/",         "name": "ModelMgr.js"},
+                {"path": "src/data/",         "name": "Operation.js"},
+                {"path": "src/data/",         "name": "ProxyMgr.js"},
+                {"path": "src/data/",         "name": "ReaderMgr.js"},
+                {"path": "src/data/",         "name": "Request.js"},
+                {"path": "src/data/",         "name": "ResultSet.js"},
+                {"path": "src/data/stores/",  "name": "AbstractStore.js"},
+                {"path": "src/data/",         "name": "Store.js"},
+                {"path": "src/data/stores/",  "name": "TreeStore.js"},
+                {"path": "src/data/",         "name": "NestedSetStore.js"},
+                {"path": "src/data/",         "name": "StoreMgr.js"},
+                {"path": "src/data/",         "name": "WriterMgr.js"},
+                {"path": "src/data/",         "name": "Tree.js"},
+                {"path": "src/data/",         "name": "Node.js"},
+                {"path": "src/data/proxies/", "name": "Proxy.js"},
+                {"path": "src/data/proxies/", "name": "ServerProxy.js"},
+                {"path": "src/data/proxies/", "name": "AjaxProxy.js"},
+                {"path": "src/data/proxies/", "name": "RestProxy.js"},
+                {"path": "src/data/proxies/", "name": "ScriptTagProxy.js"},
+                {"path": "src/data/proxies/", "name": "ClientProxy.js"},
+                {"path": "src/data/proxies/", "name": "MemoryProxy.js"},
+                {"path": "src/data/proxies/", "name": "WebStorageProxy.js"},
+                {"path": "src/data/proxies/", "name": "LocalStorageProxy.js"},
+                {"path": "src/data/proxies/", "name": "SessionStorageProxy.js"},
+                {"path": "src/data/readers/", "name": "Reader.js"},
+                {"path": "src/data/writers/", "name": "Writer.js"}
+            ]
+        },
+        {
+            "name": "Data - Json",
+            "id": "data-json",
+            "target": "pkgs/data-json.js",
+            "files": [
+                {"path": "src/data/writers/", "name": "JsonWriter.js"},
+                {"path": "src/data/readers/", "name": "JsonReader.js"},
+                {"path": "src/data/readers/", "name": "TreeReader.js"},
+                {"path": "src/data/readers/", "name": "ArrayReader.js"},
+                {"path": "src/data/stores/",  "name": "ArrayStore.js"},
+                {"path": "src/data/stores/",  "name": "JsonStore.js"},
+                {"path": "src/data/stores/",  "name": "JsonPStore.js"}
+            ]
+        },
+        {
+            "name": "Data - XML",
+            "id": "data-xml",
+            "target": "pkgs/data-xml.js",
+            "files": [
+                {"path": "src/data/writers/", "name": "XmlWriter.js"},
+                {"path": "src/data/readers/", "name": "XmlReader.js"},
+                {"path": "src/data/stores/",  "name": "XmlStore.js"}
+            ]
+        },
+        
+        {
+            "name": "Scaffold",
+            "id": "scaffold",
+            "target": "pkgs/scaffold.js",
+            "files": [
+                {"path": "src/scaffold/", "name": "Index.js"},
+                {"path": "src/scaffold/", "name": "Form.js"},
+                {"path": "src/scaffold/", "name": "New.js"},
+                {"path": "src/scaffold/", "name": "Edit.js"}
+            ]
+        },
+        
+        {
+            "name": "Sencha Platform",
+            "id": "all",
+            "target": "sencha-platform.js",
+            "debug": true,
+            "packages": [
+                "platform-util",
+                "platform-core",
+                "platform-mvc",
+                "platform-fx",
+                "data-foundation",
+                "data-json",
+                "data-xml"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Cevado</title>
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+<style>
+body 
+{
+	width: 320px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #EEE;
+	font-family: Helvetica, Arial, sans-serif;
+	/* ensure that we don't get the default callout following a long touch on
+  an element, which is a default behavior in Mobile Safari 
+  -webkit-touch-callout: none;*/
+	/* disable the Mobile Safari default behavior to adjust font size automatically
+  to improve readability */
+  -webkit-text-size-adjust: none;
+}
+
+body.landscape 
+{   width: 480px;   }
+
+#browser 
+{
+	float: left;
+	/* ensure we always fill the whole screen */
+	min-height: 416px;
+}
+
+body.landscape #browser 
+{   min-height: 268px;  }
+
+body.nointernet #browser 
+{
+	background: url(images/splash.jpg);
+	min-height: 480px;
+	min-width: 320px;
+}
+
+body.nointernet .message 
+{
+	background: rgba(255,255,255,0.95);
+	-webkit-border-radius: 12px;
+	box-shadow: 0 0 20px #000;
+	-webkit-box-shadow: 0 0 20px #000;
+	color: #C00;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 260px 0 0 30px;
+	padding: 20px;
+	text-align: center;
+	width: 220px;
+}
+</style>
+</head>
+
+<body class="nointernet">
+<div id="browser">
+  <div class="message">We're sorry, but it appears your device isn't connected to the internet.
+  <br /><br />
+  Please check your internet settings and try again.</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/main.xml
+SHA1-Digest: Rxr7f8FGi1xug50mVkRrlCf0ya4=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: tGKj9ahAOMpLPsnm7zrFZAAF4kw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: K0tLiosBbUhJynbokbAqUnwG9HQ=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: xsjj5t0CYREHRK2NhURCENOCA7A=
+
+Name: assets/www/style.css
+SHA1-Digest: G7AfscMG9lRssD5sF059mIiV7S8=
+
+Name: assets/www/app-android.js
+SHA1-Digest: 8ZKG83hcY85OoXdNUB/8BEjXZnU=
+
+Name: res/xml/cordova.xml
+SHA1-Digest: 1key6Zx8otC1HohAIkgcyNIGgwI=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: 7kqABmBcZmG/ltodWsB6zcdDnSM=
+
+Name: resources.arsc
+SHA1-Digest: zsrExJpS0BEl5yVSKftvEsbObSk=
+
+Name: assets/www/index.html
+SHA1-Digest: nE9LgyijCk1AyDxP+MTLlwItyyw=
+
+Name: classes.dex
+SHA1-Digest: vTIWCDqO42pS7u9R5BURgR3qBrE=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: PPCDUF8tWj19YuGHp8PpvU1uSQM=
+

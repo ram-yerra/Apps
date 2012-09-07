@@ -1,0 +1,1708 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: I+sMtBMM9S6qRTl0cUjv9vf+8iA=
+
+Name: assets/www/resource/logo-facebook.png
+SHA1-Digest: y5fMx4NWdrhv0aelUR3HWDhZj8M=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/fixtures/Rea
+ derRailsFormat.json
+SHA1-Digest: gVLxu0m3ObMAD5D2lVu9/25ZI1Y=
+
+Name: assets/www/resource/bnr/wraps-sm.jpg
+SHA1-Digest: 6THWFqR1+ND4dMGK9CbK30pxpJ8=
+
+Name: assets/www/resource/icon/pre-night-out.png
+SHA1-Digest: oG7dETJrpaLIy3cH0ZvXQOJ34XM=
+
+Name: assets/www/lib/touch/src/widgets/TabPanel.js
+SHA1-Digest: SEx4aEKVzpG5xCPFYNdjvhYxxPY=
+
+Name: assets/www/app/views/recipecard.js
+SHA1-Digest: gqA7lGyP2iT4zDAacMVT/VjgEog=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/warning.png
+SHA1-Digest: tCkcFId/O18vsRQKj6WNtaMNWlA=
+
+Name: assets/www/lib/touch/src/widgets/Toolbar.js
+SHA1-Digest: 0H3lsB1V6xZDxQNuGyEUrRugqu0=
+
+Name: assets/www/lib/touch/resources/themes/images/default/loading.gif
+SHA1-Digest: zjhFCssbz3qcGFEs0LdPsNPErGg=
+
+Name: assets/www/lib/touch/src/platform/src/ComponentQuery.js
+SHA1-Digest: mLGNU6Im9Txkj79qerU1EI4OlEo=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Format.
+ js
+SHA1-Digest: M0775TDYvoMPcdYW9o+I5Fb41X0=
+
+Name: assets/www/lib/touch/src/platform/src/data/BelongsToAssociation.
+ js
+SHA1-Digest: GvdG9P5DbN4gklMXxVpcLq5+Cfk=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/Updates.js
+SHA1-Digest: epZU9Nze0N0FoheXslj1xD+21z4=
+
+Name: assets/www/lib/touch/src/platform/src/core/Element.position.js
+SHA1-Digest: 6Z7tPEGTSXlvuRzGLzS4vXB2TI8=
+
+Name: assets/www/lib/touch/src/widgets/Button.js
+SHA1-Digest: 1oUiZ+ynQj+j6XzRNGWV8UPrLp4=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Connect
+ ion.js
+SHA1-Digest: VTHHgFIsb4aIy6Nt2P8+wXnxZu4=
+
+Name: assets/www/lib/touch/resources/css/apple.css
+SHA1-Digest: hRf2p7GxlIW94TGgapiYbt3Gfwc=
+
+Name: assets/www/resource/method/shoulder-lamb-5.jpg
+SHA1-Digest: /XTVMvDxVGuTPIjvnLcwdgUARMI=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Tree.js
+SHA1-Digest: ItIhY80kWtfv76zopdjyrGLeQhI=
+
+Name: assets/www/app/views/tipcard.js
+SHA1-Digest: 3zmpzg21/ECwViRKaeMDjURnOvg=
+
+Name: assets/www/lib/touch/src/platform/src/data/stores/TreeStore.js
+SHA1-Digest: 0q5TdeoTYYgAedp99c5NZec8f3g=
+
+Name: assets/www/lib/touch/src/core/Element.position.js
+SHA1-Digest: R0Wv4bmEUGwZVDIIdLvJYU2UOP8=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/app/Controll
+ er.js
+SHA1-Digest: BPeVwcLisVtvO86jigluaRpUyL4=
+
+Name: assets/www/lib/touch/src/core/Element.static-more.js
+SHA1-Digest: OZQom6Gy/1ghmiV0u6TLmC3ohqI=
+
+Name: assets/www/lib/touch/src/platform/src/data/writers/XmlWriter.js
+SHA1-Digest: eIxulrr+LjVulL+0ajcS+ZrTV7k=
+
+Name: assets/www/resource/bnr/nachos.jpg
+SHA1-Digest: bmZ6Qqnl0S5S+t2vf1lM3KAR6EU=
+
+Name: assets/www/lib/touch/src/platform/src/util/Stateful.js
+SHA1-Digest: fTAxDFjAgZyfFgfA8h4Fjk1NuT8=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /Proxy.js
+SHA1-Digest: l/i+iU+3fOIezmsrziFAL+hVVRw=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/Ext.js
+SHA1-Digest: Sk1Kb64gpCRfuRY0z3f1lr9gXHI=
+
+Name: assets/www/lib/touch/src/platform/src/draw/engines/SVG.js
+SHA1-Digest: oBNYlSn/tF1yLpDm2HRKfQnKOHk=
+
+Name: assets/www/lib/touch/src/platform/src/util/AbstractManager.js
+SHA1-Digest: Dzgm7xmCS3ie2Vqb4gfnWhPDV/0=
+
+Name: assets/www/lib/touch/src/platform/src/chart/PieSeries.js
+SHA1-Digest: ML+4UtuQwjTkNCBeeuMgeRZD6kY=
+
+Name: assets/www/lib/touch/src/platform/src/data/stores/JsonStore.js
+SHA1-Digest: ACBPOe0dgE4wwVR8jQxaHS8DMKQ=
+
+Name: assets/www/lib/touch/resources/sass/sencha-touch.scss
+SHA1-Digest: UgjjTwEY9TiunoBtzzAEnmOKUVM=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/CodeHighLighter.js
+SHA1-Digest: QvFCvaeoK8Fwu+lBXDUQJjAAVhA=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /ClientProxy.js
+SHA1-Digest: 9Ct86aBtnHM59LN+gAFe6axS02o=
+
+Name: assets/www/lib/touch/src/platform/src/ViewManager.js
+SHA1-Digest: 5xrUn8LBsBmGZaIF07THrljquro=
+
+Name: assets/www/lib/touch/resources/themes/images/default/disclosure.
+ png
+SHA1-Digest: KDMLXcc8WPBacrqBZ5fidRNRG7A=
+
+Name: assets/www/lib/touch/src/platform/test/unit/data/GroupingStore.j
+ s
+SHA1-Digest: ktRjQjy2Qq48fOdDejhFVCDtcu8=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Functio
+ ns.js
+SHA1-Digest: sGtBJZdShfhpfYpl4fpkca2jKcQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/resources/MockAja
+ x.js
+SHA1-Digest: q206FGBcmRS8LmYuSSJ4YEy79C4=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/logo-sencha-sm.png
+SHA1-Digest: F4988N+hixQ6tTEfxU+N7mIHJYo=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/Spec.js
+SHA1-Digest: TlPIz73kbshpurdncoHjW7RJu1I=
+
+Name: assets/www/lib/touch/src/gestures/Gesture.js
+SHA1-Digest: MsQOALBL97fj3omC2Jue0Uymmf4=
+
+Name: assets/www/lib/touch/src/platform/src/core/Element.style.js
+SHA1-Digest: sIBd4Qu0+OfIb4f3UPXrGX3slRY=
+
+Name: assets/www/resource/bnr/wraps.jpg
+SHA1-Digest: fVgufnWEB4YcIBBGePFVd+H/f2Y=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/suite.png
+SHA1-Digest: q+bEgANWUiKoL02vGjuNNwFllls=
+
+Name: assets/www/lib/touch/src/platform/src/data/stores/AbstractStore.
+ js
+SHA1-Digest: hQgNeD1MDHwx/FXky+x2lIrYvY4=
+
+Name: assets/www/lib/touch/src/widgets/Sheet.js
+SHA1-Digest: D5IjGsaRwvsoJmlNjvhp9MeJE6g=
+
+Name: assets/www/app/views/healthcard.js
+SHA1-Digest: Shlt217UUJy7oGWmNosZXG3LB1Y=
+
+Name: assets/www/lib/touch/resources/themes/images/default/togglemask.
+ png
+SHA1-Digest: 3OpIXpnwgA2lV7iMjcSCdAD55/c=
+
+Name: assets/www/lib/touch/src/platform/src/draw/Surface.js
+SHA1-Digest: LcBYh2C2g2GwSVtY+qtAHk4fWsI=
+
+Name: assets/www/app/stores/recipeStore.js
+SHA1-Digest: pRnicBJ1qam4c5wSuIuC6TduCj0=
+
+Name: assets/www/lib/touch/src/platform/src/data/Node.js
+SHA1-Digest: e4n172XyXuYfnq2AH57OT3HUf+Y=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/WebStoragePro
+ xy.js
+SHA1-Digest: ekqC14yqawanDFIuEN40d0adamU=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/ResultS
+ et.js
+SHA1-Digest: /A6PgLiTHRO9tufBywKFZnBZDw8=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/pass.png
+SHA1-Digest: cIy6V5AdjKcxw4Gs0VxWbfnFoHI=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/panels/Namespace.js
+SHA1-Digest: OMWxYR26lm7bzEtp471Puhk64P0=
+
+Name: assets/www/lib/touch/src/platform/src/layout/component/AutoCompo
+ nentLayout.js
+SHA1-Digest: em0V0HMxVgHyxv+7t6I11iUqcLQ=
+
+Name: assets/www/lib/touch/src/platform/src/data/stores/JsonPStore.js
+SHA1-Digest: HtG0rRCWiamBwdNEm+FSnGK8J48=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/panels/SpecInfos.js
+SHA1-Digest: niGwnQyVlb8o24vbDqEeqmv6ezI=
+
+Name: assets/www/lib/touch/src/platform/core.jsb3
+SHA1-Digest: 72eY/glFXVcxecteaTKKM3LFMMk=
+
+Name: assets/www/lib/touch/src/platform/src/app/Interaction.js
+SHA1-Digest: pCG0w3xaM2VMUVya2/Iyj63PHnE=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Store.j
+ s
+SHA1-Digest: +MnkIRHPgfv+fgwyU7XuC9zmSHQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Filter.
+ js
+SHA1-Digest: +iXgtw8sL+BegDwM5mC3JK8P7WI=
+
+Name: assets/www/lib/touch/src/platform/src/core/TaskMgr.js
+SHA1-Digest: wph24d1fN6Lah3Igo/QxMOcpT98=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Types.j
+ s
+SHA1-Digest: GrN8Qi5QAn2hhpPmnPZNJXBkLlk=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/app/Controll
+ erManager.js
+SHA1-Digest: cK1QYaxy4cCIqS61aLX2bCG32WY=
+
+Name: assets/www/lib/touch/src/widgets/List.js
+SHA1-Digest: /qfoHj3dxL+pPgPVoxiYexfpwQc=
+
+Name: assets/www/lib/touch/src/platform/src/app/Application.js
+SHA1-Digest: cLEHWytQJSwcE9xJF/oJJQsvtXU=
+
+Name: assets/www/lib/touch/src/util/Scroller.js
+SHA1-Digest: 3RpaP3j4TVFS/3tAy9gmlBNq7S0=
+
+Name: assets/www/app/views/takeupsportcard.js
+SHA1-Digest: wg6wm7c9QkTU4UCrf1Iy85yXsDY=
+
+Name: assets/www/lib/touch/src/gestures/Touch.js
+SHA1-Digest: GoC1Yu4lZyI3r+7nc+DXUiKcVgw=
+
+Name: assets/www/lib/touch/src/core/Element.style.js
+SHA1-Digest: JaskBb25PrNDnVzN9NpOAJ2l9fQ=
+
+Name: assets/www/lib/touch/src/widgets/form/TextArea.js
+SHA1-Digest: 30Ao7iWmU18MqFAieyipBsM1YPk=
+
+Name: assets/www/lib/touch/src/platform/src/fx/Anim.js
+SHA1-Digest: tS0zf3owg4bQgFVmurTU6Ut5KqM=
+
+Name: assets/www/lib/touch/src/platform/src/data/Field.js
+SHA1-Digest: 9cPrU+aGdmDUgmW7E1hR3Vuizoc=
+
+Name: assets/www/lib/touch/resources/themes/images/default/dotgrid.png
+SHA1-Digest: DiIGgWUnif+9+h8d3lzgJCMCTSw=
+
+Name: assets/www/lib/touch/src/platform/src/util/Function.js
+SHA1-Digest: 4E5o/grRwkxzRIh4bIw8/KHiIuw=
+
+Name: assets/www/lib/touch/src/platform/src/core/Adapter.js
+SHA1-Digest: G5lu+hH3/dBQzF7+6QZNTEV8wTg=
+
+Name: assets/www/lib/touch/src/util/Timeline.js
+SHA1-Digest: 020Emi0RO1GE9DqrLwmxKNL1YfQ=
+
+Name: assets/www/lib/touch/src/core/DomQuery.js
+SHA1-Digest: vGfWbq4neVpFUXLdELAPe4Og+yw=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/DomSandbox.js
+SHA1-Digest: AHj4K2eyX2P86h/AtAK/ifjL19Q=
+
+Name: assets/www/lib/touch/src/platform/src/fx/ColorHandler.js
+SHA1-Digest: OdHjJtMSvHDm7vsKPMhuOr8pHVw=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Associa
+ tion.js
+SHA1-Digest: zTE+ELGMgkc+a7rDDdElivWPUvQ=
+
+Name: assets/www/lib/touch/src/platform/src/data/readers/Reader.js
+SHA1-Digest: TKGghyKT2mD2HKDxSx1yTY++1bU=
+
+Name: assets/www/lib/touch/src/platform/src/misc/AbstractStoreSelectio
+ nModel.js
+SHA1-Digest: +T3LQHgDqE43Y8LmGAp1PxMZmnw=
+
+Name: assets/www/lib/touch/sencha-touch.js
+SHA1-Digest: +0pjU7oeDEVoermA04sespgIVp0=
+
+Name: assets/www/lib/touch/src/gestures/Tap.js
+SHA1-Digest: Wkn9mgGkV0fUixIkfeuooBlWlkg=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/SpecRunner.html
+SHA1-Digest: 5cy/374TNRgBfpEgg7k0ZYPrG9k=
+
+Name: assets/www/phonegap-1.0.0.js
+SHA1-Digest: 2VPfr0yab5JyZGzu5ujfYuciS2U=
+
+Name: assets/www/app/views/recipedetail.js
+SHA1-Digest: g8M5nx8uNYiT2uzCFY7lIj3+Dxk=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/Browser.js
+SHA1-Digest: zavcQRktLZwNy8KSWDx/8wzTIpo=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/MixedCo
+ llection.js
+SHA1-Digest: /GRhf+VE8b5ViF49aaMk/MnNb4s=
+
+Name: assets/www/app/views/storeitcard.js
+SHA1-Digest: auooDup07tDps2bQI1Z+ReJ4Bto=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Model.j
+ s
+SHA1-Digest: wuIzw+t063AzKuWty8Z1ICLaumQ=
+
+Name: assets/www/lib/touch/src/platform/src/native/Array.js
+SHA1-Digest: wfNYe+8M4J6SOchV9AZTYyMtAiw=
+
+Name: assets/www/lib/touch/src/platform/src/fx/PathHandler.js
+SHA1-Digest: PnehK9boZ0GqKpspjlN8HeM8dWw=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/src/
+ Reporter.js
+SHA1-Digest: q6pt3qz5BroP03UN6PMXZ2K/dro=
+
+Name: assets/www/lib/touch/src/platform/src/draw/Draw.js
+SHA1-Digest: l18Z+5zCyxrQvihktn0GWWmTEC0=
+
+Name: assets/www/lib/touch/src/widgets/Video.js
+SHA1-Digest: QvNQ22B8sJM9lu5Wg1T3JeBn/Yg=
+
+Name: res/drawable-mdpi/splash.jpg
+SHA1-Digest: yih/m74mr5WItiEvEBwxLSjk6Uk=
+
+Name: assets/www/lib/touch/pkgs/platform/native.js
+SHA1-Digest: VqPEFoX4W2oiteVxwNfLzJSNlb8=
+
+Name: assets/www/lib/touch/src/widgets/form/Email.js
+SHA1-Digest: m5bd0e6iaCK/6X+Du4SOf49rcU4=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/core/JSON.js
+SHA1-Digest: dH6Hnu0i67oSmYT0JXdp711swJg=
+
+Name: assets/www/lib/touch/src/platform/src/core/JSON.js
+SHA1-Digest: w321nbTZpGFNnzdaypJMH6XoU10=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/Protocol.js
+SHA1-Digest: Omu7wVIZtwImISYKyRrQt0yTqtg=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/panels/SpecDomSandbox.js
+SHA1-Digest: sv6VwgesAIkys7xUyiwyrm0Os5U=
+
+Name: assets/www/app/views/balanceitcard.js
+SHA1-Digest: amK8h2ZiLxd1BTLqX2pzhEE95PM=
+
+Name: assets/www/lib/touch/src/platform/src/data/Tree.js
+SHA1-Digest: kt7c87zfFPBznmuGnh0zNM5ESd4=
+
+Name: assets/www/lib/touch/src/platform/src/chart/Shapes.js
+SHA1-Digest: kk8Wlc/pSHgEeYXrLCEU63bw44U=
+
+Name: assets/www/lib/touch/src/platform/src/data/Errors.js
+SHA1-Digest: r2Cu1fqJXBYmKRTuwx5Lpw4OEUA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: etOPOu0W4Pm7hNwCVsP1rmzNr/o=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/Dom.js
+SHA1-Digest: vC++1qIfwijD8nhbaLQgHrciTco=
+
+Name: assets/www/lib/touch/src/platform/src/core/Fx.js
+SHA1-Digest: 8sE2FLTzpI30KK2T94zVE3rhv9E=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/native/Numbe
+ r.js
+SHA1-Digest: SoYUbd51zE76olrGaVBNTh64uy8=
+
+Name: assets/www/lib/touch/resources/themes/compass_init.rb
+SHA1-Digest: bsnvdGnDhMLKymLJzbg594/kcB4=
+
+Name: assets/www/lib/touch/resources/themes/images/default/check.png
+SHA1-Digest: HPi39WXIPZpWWY/6MnbIIt/98DA=
+
+Name: assets/www/resource/bnr/pizza.jpg
+SHA1-Digest: mgporA6d1DIqlCa6+ub1tQNrEjg=
+
+Name: assets/www/lib/touch/src/core/History.js
+SHA1-Digest: xVCAmmRE1WhPRYZADju9FHFu7nM=
+
+Name: assets/www/lib/touch/src/widgets/form/FieldSet.js
+SHA1-Digest: bcvq7WkgI4VSxRr67Kl5h1CLuSo=
+
+Name: assets/www/resource/bnr/stir-fry.jpg
+SHA1-Digest: lJ44JHfmJfTEEw8zatptpyrYNME=
+
+Name: assets/www/lib/touch/pkgs/platform/data-json.js
+SHA1-Digest: vk/+l/ee2QdUGrEe+yDpSZCNfvo=
+
+Name: assets/www/resource/globe.png
+SHA1-Digest: TyxwiGbC3tVHTkWo9Ta7bB1KJjQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Batch.j
+ s
+SHA1-Digest: HfjnG0ExpQFgXGzJUEp+4T/mFf0=
+
+Name: assets/www/app/views/shoppingcard.js
+SHA1-Digest: iR0VLu6QPJ2xl5D7YcYW5AuLc0M=
+
+Name: assets/www/app/views/budgetingcard.js
+SHA1-Digest: O3vWvpDLUzSzRthYS1JLFIovWiU=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/SessionStorag
+ eProxy.js
+SHA1-Digest: KpCBQpmcClXMN1Iq+YBH6jKLPRM=
+
+Name: assets/www/resource/bnr/pasta.jpg
+SHA1-Digest: GvEHVE+uX0h7iNOMV87IOrfZVOY=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-1.0.1
+ /MIT.LICENSE
+SHA1-Digest: R41MWcBa/pN8Fzwi8g1VPGVUYTY=
+
+Name: assets/www/lib/touch/resources/css/sencha-touch.css
+SHA1-Digest: 9ua2X5Y/OdikClm3vTw8Lmk6h1o=
+
+Name: assets/www/lib/touch/pkgs/platform/util.js
+SHA1-Digest: z/wCFwkYqLZyS2pQnhKTJzCoRWA=
+
+Name: assets/www/lib/touch/src/platform/src/scaffold/Form.js
+SHA1-Digest: 4atfIeSzOaltmHHA7zHJUI5TvK0=
+
+Name: assets/www/lib/touch/src/widgets/Carousel.js
+SHA1-Digest: +GnoYx5r1Q8Gjq9F+8ul+fkV+D0=
+
+Name: assets/www/lib/touch/src/platform/src/data/Batch.js
+SHA1-Digest: zy+GxuFSRqfh//hbo7ciIEv6dME=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Belongs
+ ToAssociation.js
+SHA1-Digest: D9iD2seV11iMoXJdjotfs8w+vkY=
+
+Name: assets/www/lib/touch/src/core/Viewport.js
+SHA1-Digest: sqrwD3BFDmrkKvxVmxI2WPYSgIg=
+
+Name: assets/www/lib/touch/pkgs/platform/mvc.js
+SHA1-Digest: Lyla/WrNdcI9rBbmHy9Z8KC3wiw=
+
+Name: assets/www/lib/touch/src/widgets/form/Search.js
+SHA1-Digest: J24i+jS4eTGQeCRZWRnmv9aT7zM=
+
+Name: assets/www/lib/touch/src/widgets/form/Text.js
+SHA1-Digest: 4AebPlE363oAnzUAa1khUDPUmdg=
+
+Name: assets/www/lib/touch/src/platform/src/draw/SpriteGroup.js
+SHA1-Digest: yobONl7F1e1c1eQ1dlzj57+oDfk=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/core/Element
+ .insertion.js
+SHA1-Digest: gFbP2b9GUBWX1jS9sTT3vsThQlw=
+
+Name: assets/www/lib/touch/src/platform/src/layout/container/FitLayout
+ .js
+SHA1-Digest: tVE+z3rp/SRRPBru1WeyeFunjps=
+
+Name: assets/www/lib/touch/src/util/TapRepeater.js
+SHA1-Digest: +oI0EpDYfTa5NOPnS+y8tlRWLls=
+
+Name: assets/www/lib/touch/src/widgets/form/Field.js
+SHA1-Digest: Xh6zxI7j9uTLUsMFSEHaLwjBuKs=
+
+Name: assets/www/lib/touch/src/platform/src/chart/Series.js
+SHA1-Digest: ZOudxDG4q1bum3Kt/NNv0lzFFR4=
+
+Name: assets/www/resource/bnr/burgers.jpg
+SHA1-Digest: cpXtU+o6tGkYlBRe9PwGT0QT1YI=
+
+Name: assets/www/resource/bnr/shepherds-pie-sm.jpg
+SHA1-Digest: uU245OLK+EDkHX2fFu6dkGRqbtc=
+
+Name: assets/www/lib/touch/src/platform/src/data/Association.js
+SHA1-Digest: pSZf683gx0XVIdcCaOB2ZtdNbbA=
+
+Name: assets/www/lib/touch/src/platform/src/fx/ObjectHandler.js
+SHA1-Digest: aKG4iwkw/M64Jx7MmTQJtfqINOc=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/app/Applicat
+ ionManager.js
+SHA1-Digest: O/5c91GtGDTCUDHDNHICGYKbjX8=
+
+Name: assets/www/lib/touch/src/platform/src/util/GeoLocation.js
+SHA1-Digest: u0aCly3lXtfIi7OO/MvESvMmGeQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/Browser.js
+SHA1-Digest: eCX4KFN+vYGZ2BTtFRWzzJtr4uU=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /LocalStorageProxy.js
+SHA1-Digest: eO1+DkbuXiaBt8g/51hBziAqCAk=
+
+Name: assets/www/lib/touch/resources/themes/images/default/trackmask_o
+ uter.png
+SHA1-Digest: NZ+f3igP6lcGXhAs845GFgdpuJQ=
+
+Name: assets/www/lib/touch/src/platform/test/unit/data/TreeStore.js
+SHA1-Digest: mibNGakkuQerrj91ny2cVZBTTFs=
+
+Name: assets/www/lib/touch/src/widgets/Panel.js
+SHA1-Digest: Hbr5DjdeBWj/kaIkpLKb3mhKo3Y=
+
+Name: assets/www/lib/touch/src/widgets/Audio.js
+SHA1-Digest: Rp1oNeu89eeaGAN5cxKIM/NJa1c=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/panels/SpecStackTrace.js
+SHA1-Digest: ilOEYmMPVA9ySdVPfYZDhvRlnsk=
+
+Name: assets/www/lib/touch/src/platform/platform.jsb3
+SHA1-Digest: EoaqLznq+vVEcXf1gkZilu4qL+E=
+
+Name: assets/www/lib/touch/src/core/DomHelper.js
+SHA1-Digest: Vl40t/2J3RfpbgtwbPFcPiX8d4U=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Rg5hIk2j6QdxU/sx0I/c4W3/KRY=
+
+Name: assets/www/resource/method/shoulder-lamb-4.jpg
+SHA1-Digest: xuKri2z56jbwnIJV7ud3cWwIEjM=
+
+Name: assets/www/lib/touch/src/platform/src/chart/LineSeries.js
+SHA1-Digest: 5qeGgtyXnZ2OPd/N6CajyjA41hY=
+
+Name: assets/www/lib/touch/src/platform/src/util/Offset.js
+SHA1-Digest: yqNUXRg3bThIAEf2Vfej/6DyYI8=
+
+Name: assets/www/lib/touch/src/platform/src/fx/Easing.js
+SHA1-Digest: ySn9EpzYS5VvogcwXDBC+uUIFg0=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Dispatc
+ her.js
+SHA1-Digest: AR9S90LCzDbGYiFayDyPVxiCRu0=
+
+Name: assets/www/lib/touch/src/widgets/TabBar.js
+SHA1-Digest: juKPAPDwHM+TMqlJYXlak5cAGJs=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/Reporter
+ .js
+SHA1-Digest: 6/+bP+bqTq0kYID+8o1DEcXmsew=
+
+Name: assets/www/resource/icon/cheap-night-in.png
+SHA1-Digest: J54m165Jg2MOO7gtDDxIJic/Lqk=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/panels/TabPanel.js
+SHA1-Digest: LZXSPsPOp7eJtqhZx9Iut6dsn1Y=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/core/Element
+ .traversal.js
+SHA1-Digest: qPNg3seyC8NPSsci12n9ZdsvFrI=
+
+Name: assets/www/lib/touch/src/platform/src/data/PolymorphicAssociatio
+ n.js
+SHA1-Digest: ZAxEHpKmWdphjdbiGP2AkDdUKkM=
+
+Name: assets/www/lib/touch/src/widgets/Component.js
+SHA1-Digest: wh4MObg8ERGtCzYqlFhzQLtt8UQ=
+
+Name: assets/www/resource/method/beef-curry-2.jpg
+SHA1-Digest: ovXnwMdlher9mCMkUU9VNhd8240=
+
+Name: assets/www/lib/touch/src/widgets/Map.js
+SHA1-Digest: R9scWTyxl9CCxSBNgoWIQgBuU+o=
+
+Name: assets/www/resource/icon/hangover.png
+SHA1-Digest: 1UtFVYM3HdC6u0ku+/wTepVwkXo=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/GeoLoca
+ tion.js
+SHA1-Digest: Q5py+2trAKbSsF286Ro0S5cNCAg=
+
+Name: assets/www/lib/touch/src/widgets/form/DatePicker.js
+SHA1-Digest: TQG4a7OGyr254mymPuMwVbJUkRw=
+
+Name: assets/www/lib/touch/src/platform/src/data/ideas.js
+SHA1-Digest: EBYjFrr8yYu1oc2b+Z5xNi7V3Kc=
+
+Name: classes.dex
+SHA1-Digest: cOc7gyM3RHtZtDHaxhTPvvArPxU=
+
+Name: assets/www/lib/touch/src/platform/src/layout/container/AutoConta
+ inerLayout.js
+SHA1-Digest: CFkf0eo40vSoirkbuOouRUEtyPM=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/DomSandbox.js
+SHA1-Digest: wb5LNnpwaxi+K109ovf0lvj0s0w=
+
+Name: assets/www/lib/touch/src/platform/src/util/Number.js
+SHA1-Digest: 53ED+MnVwRM5Eas7XBvFnk2jHMU=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/ServerProxy.j
+ s
+SHA1-Digest: LcLhM0QCEpEaeGolCFgVsyiH1ak=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Router.
+ js
+SHA1-Digest: rEgzuf9wUcnk6NbrtVARTa60FK0=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/JsonRea
+ der.js
+SHA1-Digest: P5p5U6Zq4qvFy8HYv5bwFD5svE4=
+
+Name: assets/www/lib/touch/resources/themes/templates/project/sencha-t
+ ouch.scss
+SHA1-Digest: DDtITfRU8ePb8IW77oKmOBGbBnM=
+
+Name: assets/www/resource/bnr/sausage-bean.jpg
+SHA1-Digest: 3yRf5dFBeUqW1EsoX1cHSuMRdb4=
+
+Name: assets/www/lib/touch/src/platform/src/data/ResultSet.js
+SHA1-Digest: 9FJW0YJjk/ho4enkQwFZqyEbeLs=
+
+Name: assets/www/resource/bnr/stir-fry-sm.jpg
+SHA1-Digest: aJqKzIYHEk9czP8OfUN37ULhhAo=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Validat
+ ion.js
+SHA1-Digest: Q2ieCNhg+oeNdXLAnCzEBef4QSY=
+
+Name: assets/www/lib/touch/src/platform/src/core/DomQuery.js
+SHA1-Digest: /VvKw2TrBpdAM3HWzxQJ2Ls/X1U=
+
+Name: assets/www/resource/bnr/shoulder-lamb.jpg
+SHA1-Digest: oPxLE8OilR16JMhGuWQ5qa1ndyg=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/panels/SpecBlocks.js
+SHA1-Digest: xbfvsysF3o1CUgH8pMYOyxpeuKg=
+
+Name: assets/www/lib/touch/resources/sass/apple.scss
+SHA1-Digest: zMZDlGtAuym654VmSBXJSBha6mQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/app/Applicat
+ ion.js
+SHA1-Digest: 0mrteXnZqqeixDSX5J9CqKDxHYw=
+
+Name: assets/www/lib/touch/src/platform/src/data/readers/TreeReader.js
+SHA1-Digest: TJblD49hV/ybD9PnXggMUrsfYUA=
+
+Name: assets/www/lib/touch/src/platform/src/app/Route.js
+SHA1-Digest: Cc7v3d6Y1eACJwZDuQjhcD2u2Gk=
+
+Name: assets/www/lib/touch/src/platform/src/app/ControllerManager.js
+SHA1-Digest: RPMmCCyYwVQT9erpLhLGnhBv6M4=
+
+Name: assets/www/app/views/linkcard.js
+SHA1-Digest: 4OMWsfuNUa4btulmf3mbcLBHdDU=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Region.
+ js
+SHA1-Digest: NXEvQi0AxUQk4BSJhpU80zapg5c=
+
+Name: assets/www/lib/touch/resources/themes/images/default/togglethumb
+ bg.png
+SHA1-Digest: ZX7hTK5he8KQtoDZ8WDfIPK7B2c=
+
+Name: assets/www/lib/touch/src/util/Date.js
+SHA1-Digest: IZiLHdIRc0HiVlTBCjDjNbLX7II=
+
+Name: assets/www/lib/touch/src/platform/src/chart/ScatterSeries.js
+SHA1-Digest: ycXW7KYqhqZ9dsoZGbX7N6g7rEY=
+
+Name: assets/www/lib/touch/src/widgets/NestedList.js
+SHA1-Digest: N8+P18Klb+zMaWHuTk560mhQBlQ=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: KN+BRHNgOnBIwLBe5T6dF+pmBRY=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/Utilities.js
+SHA1-Digest: N0RnuZm8oG8XGiL9C4TsBTUy1pI=
+
+Name: assets/www/lib/touch/src/platform/src/core/DomHelper.js
+SHA1-Digest: caMRJY3DYouHx3DV9IftwbNYWR8=
+
+Name: assets/www/lib/touch/src/platform/src/layout/component/DrawLayou
+ t.js
+SHA1-Digest: NzOnUtSuU4Tn9PxDTRptUqgRvIc=
+
+Name: assets/www/resource/method/stir-fry-3.jpg
+SHA1-Digest: iGu314ppz2W9QtB8VA116+MlzL0=
+
+Name: assets/www/resource/bnr/nachos-sm.jpg
+SHA1-Digest: FVq6EammjMJ0jJhTd4tEBL6QuuI=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/fixtures/rea
+ ders/AssociationLoad.js
+SHA1-Digest: foGnf1qFZWmkzDIz79uTszu/Xnc=
+
+Name: assets/www/resource/method/beef-curry-3.jpg
+SHA1-Digest: 0oU6AU/xTauLUIvkGYmAhdXrPs4=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/ClientProxy.j
+ s
+SHA1-Digest: hwOeR1FlNV1feaYNTPpjoCCe4Gk=
+
+Name: assets/www/resource/method/beef-curry-4.jpg
+SHA1-Digest: yZHzECxLWSzOSdAeL+vQztTZe3g=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/LocalStorageP
+ roxy.js
+SHA1-Digest: lC12lPQaqpLJf6il0Q3HZJpNZ7w=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /WebStorageProxy.js
+SHA1-Digest: VNeGlpKuZrD5QsteMfBetMGfUf8=
+
+Name: assets/www/resource/bnr/sausage-bean-sm.jpg
+SHA1-Digest: ie8zHPOUd3L8qxHLyqIt67nQslo=
+
+Name: assets/www/resource/method/shoulder-lamb-1.jpg
+SHA1-Digest: SFHPtfyNmez59wQNSn2KaSr9a28=
+
+Name: assets/www/lib/touch/src/platform/src/app/Controller.js
+SHA1-Digest: y3GV0xEzCXMqTinyAFryJB6ERQI=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/PluginMgr.js
+SHA1-Digest: zE8hZFsHQDFH1qzxZQ66ssLtneo=
+
+Name: assets/www/index.html
+SHA1-Digest: 4yKsXN1tbJE13iUOO4GCwRFjcvY=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/panels/SpecDomSandbox.js
+SHA1-Digest: ZGh0dhzmy/OWptes/1MN6dRh/Q8=
+
+Name: assets/www/lib/touch/src/widgets/Tab.js
+SHA1-Digest: 1X6v2RZhH7KVPvZqSXh0F1BucsU=
+
+Name: assets/www/lib/touch/src/gestures/Event.js
+SHA1-Digest: 3AGwzJX8CyQ9hUo5HPFWTrhDAOg=
+
+Name: assets/www/lib/touch/src/platform/src/data/Request.js
+SHA1-Digest: IFRwRC7vMuHdCJWcluGnLOtcRII=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/panels/SpecStackTrace.js
+SHA1-Digest: 3wH7gMkAdd6+n/tf26de+GcZSq8=
+
+Name: assets/www/lib/touch/resources/sass/bb6.scss
+SHA1-Digest: I8eb7AotslhWv/eSM9lDAyoIjwo=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/panels/SpecInfos.js
+SHA1-Digest: BYyHJoKNCD0mBVibqJ353VNwCa0=
+
+Name: assets/www/resource/method/stir-fry-5.jpg
+SHA1-Digest: XQ4smGTVHRmTqbYd77gkLWkvYyQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/HasMany
+ Association.js
+SHA1-Digest: 1LqZvyCeqIc0PcMpDnQmQXxQQy0=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/reporter.css
+SHA1-Digest: xeizpn9pSSZWjQ3mI/prhhU+lpU=
+
+Name: assets/www/lib/touch/src/platform/src/layout/component/Component
+ Layout.js
+SHA1-Digest: 3byBXneLnWzRrR9zP40zlE1TD/U=
+
+Name: assets/www/lib/touch/src/platform/src/scaffold/Index.js
+SHA1-Digest: DWp9Lv3xm0fm3WDJ5/bnXibNPoI=
+
+Name: assets/www/lib/touch/src/widgets/IndexBar.js
+SHA1-Digest: QMGyw9wiBSwMwWFjX+VkOEfVqIk=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/AjaxProxy.js
+SHA1-Digest: Bzc0bkcEbCUQmYjrjVcyh+CEZLY=
+
+Name: assets/www/lib/touch/src/platform/src/scaffold/New.js
+SHA1-Digest: v2ybOsYWraPI/kcDXCZh8BPZ0HE=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-1.0.1
+ /jasmine.js
+SHA1-Digest: 3uNMXfP7D7GZHgoQ8zpFbBYJaEg=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/resources/FakeSco
+ pe.js
+SHA1-Digest: MZLD9VGiWSPABXovUl+Wf0Pf5nA=
+
+Name: assets/www/app/views/morecard.js
+SHA1-Digest: Z3d+BKnwFMkF8F/Q5tV7xqjQeJo=
+
+Name: assets/www/lib/touch/resources/themes/images/default/select_mask
+ .png
+SHA1-Digest: SzN8RBSGKXS2C/r9A2uJPqOQW7o=
+
+Name: assets/www/lib/touch/src/widgets/Picker.js
+SHA1-Digest: Qks2WZFY5W862yaMvGyIWwgmFOo=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/ModelMg
+ r.js
+SHA1-Digest: C7xEzNUWklzJVFUDHxzJW0RUkSQ=
+
+Name: assets/www/lib/touch/pkgs/plugins.js
+SHA1-Digest: 8Meow60vdq/AugXgJ8Kg+pqr7H8=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /AjaxProxy.js
+SHA1-Digest: AMs1uCyX05IXEfltu01fhaXMEVw=
+
+Name: assets/www/resource/bnr/beef-curry.jpg
+SHA1-Digest: cD/L2S/N8ZjLDow22dBRi4PFj7s=
+
+Name: assets/www/resource/method/stir-fry-2.jpg
+SHA1-Digest: uVeul6XjvM7RjCJW+EjfOJdB5l4=
+
+Name: assets/www/lib/touch/resources/themes/lib/theme_images.rb
+SHA1-Digest: QHo7EB323aZ7NlAy3kCgfNNwY6Q=
+
+Name: assets/www/lib/touch/pkgs/dom.js
+SHA1-Digest: hXMMq9BVZlqgkPkrPmVsRv09F5E=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/dom_sandbox.png
+SHA1-Digest: hoUnzfGGAwTruWbWckK15jz3uto=
+
+Name: assets/www/lib/touch/src/platform/src/data/HasManyAssociation.js
+SHA1-Digest: bywpro5jYhV2mp8ISwkLC7BL2iQ=
+
+Name: assets/www/lib/touch/src/platform/src/data/readers/XmlReader.js
+SHA1-Digest: PBrrjVoatKqJRnvd6mvbtaH22Ic=
+
+Name: assets/www/lib/touch/src/widgets/form/FormPanel.js
+SHA1-Digest: JbK88b86pSBEgNJTAUyOV4lhmFY=
+
+Name: assets/www/lib/touch/src/platform/src/misc/DataViewSelectionMode
+ l.js
+SHA1-Digest: esjJFixxGNm2Yl4u3dXezopF8ic=
+
+Name: assets/www/lib/touch/src/platform/src/core/Element.fx.js
+SHA1-Digest: QHwrhWVdmXh+adyqJ+uXCX+djyY=
+
+Name: assets/www/app/app.js
+SHA1-Digest: oyG6HG0pL5t4oOHegFLANyjDVKQ=
+
+Name: assets/www/app/models/recipeListItem.js
+SHA1-Digest: qiyyjUAJjTzEVrmO69pf46IPk5A=
+
+Name: assets/www/lib/touch/src/platform/src/data/SortTypes.js
+SHA1-Digest: 4vFu9NURG9krX0hxKf0bhtfSisE=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Abstrac
+ tStore.js
+SHA1-Digest: 9439880YdH+1V7ysPUsxKhyO4eg=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/StringPrettyPrinter.js
+SHA1-Digest: BQC9QmyW1GIvokCwSTwUV8mm9go=
+
+Name: assets/www/lib/touch/src/platform/src/app/ApplicationManager.js
+SHA1-Digest: RAPbdBUlahvr/237gzzMlvyjnOs=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: zuWztGPWhKNnlKrRH+mKr9GSUws=
+
+Name: assets/www/lib/touch/src/widgets/DatePicker.js
+SHA1-Digest: 4gQGIk3S8hARB0OS5ArXsIKdMMw=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/Config.js
+SHA1-Digest: 7BAIfbLMBI7DYRGFIx2sORCJFqU=
+
+Name: assets/www/lib/touch/src/widgets/SegmentedButton.js
+SHA1-Digest: KVSFJeK9DKk9o4gFwyokqW204ro=
+
+Name: assets/www/lib/touch/src/platform/src/util/XTemplate.js
+SHA1-Digest: 9+FsmMPDD0/VLMb/kgHK5+gDhns=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/stack_trace.png
+SHA1-Digest: lt7ukwU4Lcq0HLPKMK/cDZ4qhE8=
+
+Name: assets/www/app/models/generalListItem.js
+SHA1-Digest: vkMXVBNd/3czqxiKNBWlu5tdt/E=
+
+Name: assets/www/lib/touch/src/platform/src/layout/Layout.js
+SHA1-Digest: lVTbscw/vGcWW6Ck4dJZZi1h3H8=
+
+Name: assets/www/lib/touch/pkgs/platform/data-xml.js
+SHA1-Digest: AiyQ3V0Doo9rWbNxuTkR7lRk7E0=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/UUIDGenerator.js
+SHA1-Digest: KtAlwP3TgB+O4b2z+ae8DHH6m8w=
+
+Name: assets/www/lib/touch/src/platform/src/data/stores/XmlStore.js
+SHA1-Digest: 3qMzsmEaBoW3sGyKYg47IOUZ2uc=
+
+Name: assets/www/lib/touch/src/widgets/Media.js
+SHA1-Digest: m/dVheFQSHrZPsgN9aFlaK5Bt9I=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/Utils.js
+SHA1-Digest: 8S9cumB8C5LGQK6nOxSjVttXRmI=
+
+Name: assets/www/lib/touch/src/platform/src/chart/CartesianSeries.js
+SHA1-Digest: oMvejjLsm5UCAAKusLW8kNW/gVA=
+
+Name: assets/www/lib/touch/resources/themes/images/default/pullarrow.p
+ ng
+SHA1-Digest: BGTeKJZfMDhkBb1MOPk/5JeJn00=
+
+Name: assets/www/lib/touch/src/widgets/form/Slider.js
+SHA1-Digest: ebH8wBQw5jgTTQgv+k8Gx3qBYns=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/SyncModel.js
+SHA1-Digest: wVfeNfY/ZV/TwOBK7RQ7bMbMdWg=
+
+Name: assets/www/resource/method/shepherds-pie-6.jpg
+SHA1-Digest: 7XQpB54/WIkkZcYx9PAbwfGChSw=
+
+Name: assets/www/lib/touch/src/platform/src/core/Element.traversal.js
+SHA1-Digest: NQDQtRw8rjZGLg1RUqIny1zHjeg=
+
+Name: assets/www/resource/icon/cramming-food.png
+SHA1-Digest: N5plUQjVQ+pwLQOEs8s8Iuwpm/M=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/SyncProxy.js
+SHA1-Digest: NxZSCO7jGrMHgnG0jUI387Jg/Ms=
+
+Name: assets/www/lib/touch/src/platform/src/util/OfflineDebug.js
+SHA1-Digest: oRWWVxuk9Mq5P8572snNWDd/P4A=
+
+Name: assets/www/app/views/aboutcard.js
+SHA1-Digest: D8DwdPPgE97RxrJW2yVTE515twc=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/BadGlobals.js
+SHA1-Digest: Gi3XeyqlSaHQjCeMk0E3FNpg2Oo=
+
+Name: assets/www/lib/touch/src/platform/src/core/Element.scroll.js
+SHA1-Digest: BlBZPrlrsJ3ZjvnMrne3wYih5FM=
+
+Name: assets/www/app/views/creditcard.js
+SHA1-Digest: 1v8qgVB90NnFRKZov+s1HEoKbeo=
+
+Name: assets/www/resource/method/shepherds-pie-option.jpg
+SHA1-Digest: Z6Cl6Rwvf8qyYnG53RFC+W2sUUU=
+
+Name: assets/www/app/views/dontpaniccard.js
+SHA1-Digest: 35ei9kbnyD2UBRI5bCPf1oeYAmA=
+
+Name: assets/www/lib/touch/src/platform/src/layout/component/DockLayou
+ t.js
+SHA1-Digest: l+r1Y1TnEi5eIXncHOECMhHbdNQ=
+
+Name: assets/www/lib/touch/src/widgets/DataPanel.js
+SHA1-Digest: Pu+fld4TZv7gewbz8LKtl5No2XI=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/DatabaseDefiniti
+ on.js
+SHA1-Digest: olc3cC2Az48cmlmCEQpN8EWkpDs=
+
+Name: assets/www/app/stores/linkStore.js
+SHA1-Digest: CS1AC1c1IIdnd57sT7f6lWSPJAY=
+
+Name: assets/www/lib/touch/resources/sass/config.rb
+SHA1-Digest: SZWkfqv0+2+TuCqqOAF8nnfyggY=
+
+Name: assets/www/lib/touch/src/platform/src/data/Store.js
+SHA1-Digest: 7+VFwwzsKnv9//saQ/pE7ViI5Mg=
+
+Name: assets/www/lib/touch/src/widgets/form/Checkbox.js
+SHA1-Digest: 9jkxscGlNWEORH5wmjip6cz38Us=
+
+Name: assets/www/lib/touch/src/platform/src/util/DelayedTask.js
+SHA1-Digest: vny+5KoBMF+E6KLWotzqb7qa68Y=
+
+Name: assets/www/lib/touch/src/platform/src/util/Sorter.js
+SHA1-Digest: oKhpPDP3sjvvOsi9FVVp8y/Ejpk=
+
+Name: assets/www/lib/touch/src/platform/src/fx/Animator.js
+SHA1-Digest: uHSl1a/+Vmb6AHVi7ZNaoVl55e8=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/spec_sources.png
+SHA1-Digest: KH+6fse/6HGTDuY7sIv3/cX7NC0=
+
+Name: assets/www/lib/touch/pkgs/layouts.js
+SHA1-Digest: TUfKTO7B8WJgCDlrG0ARoJrEiB8=
+
+Name: assets/www/lib/touch/src/platform/src/ComponentMgr.js
+SHA1-Digest: mZ/ZagWJoz3ubllwP1O0U+CW+gg=
+
+Name: assets/www/lib/touch/src/platform/src/data/writers/JsonWriter.js
+SHA1-Digest: aiR9IqxCsObOcDSNXT+UHasCVr8=
+
+Name: assets/www/lib/touch/src/platform/src/Container.js
+SHA1-Digest: ELeLc4TFvo+0lb9npBJu9TLKdXs=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/SpecRunner.ht
+ ml
+SHA1-Digest: Tre+mjPvWyL4IKFTJVPeBFIYPrs=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/CodeHighLighter.js
+SHA1-Digest: iBmovu4Xkwds7Q+KbDkkH+RTrDY=
+
+Name: assets/www/lib/touch/src/platform/src/core/Template.js
+SHA1-Digest: 2jzDjEYv3uSB93HHjBrjc6y/MHM=
+
+Name: assets/www/resource/logo-twitter.png
+SHA1-Digest: hRYKxpVqTa42X7dxhyvc6ydposQ=
+
+Name: assets/www/resource/method/shepherds-pie-4.jpg
+SHA1-Digest: nu1QdacWufbUjTLoofEYi87f7DI=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/file.png
+SHA1-Digest: HIP+8MSgSs4Ot9DDX/WjhsTei+s=
+
+Name: assets/www/lib/touch/src/platform/src/scaffold/Edit.js
+SHA1-Digest: BF/KwRd0rQA7x1W1og2QGQVxuAI=
+
+Name: assets/www/lib/touch/src/platform/src/util/Template.js
+SHA1-Digest: zw4D56GKLI/Xpa4vAS7uTnpsmOc=
+
+Name: assets/www/lib/touch/src/util/EventRecorder.js
+SHA1-Digest: yHAdWJ0z+UkCgYO0imI8BgTT6V4=
+
+Name: assets/www/resource/method/stir-fry-1.jpg
+SHA1-Digest: lsJxPxXeLZfVFyNWH8JKZ58HTqA=
+
+Name: assets/www/lib/touch/src/platform/src/util/HashMap.js
+SHA1-Digest: ua8N4fwmoiuhlrjLR3RpAEHnpDk=
+
+Name: assets/www/lib/touch/src/platform/src/fx/TransformHandler.js
+SHA1-Digest: oqeRQGMqjJNomnC6++WqUImGClY=
+
+Name: assets/www/lib/touch/src/platform/src/data/ProxyMgr.js
+SHA1-Digest: VxQi4dgXYXeT2G3nJmDszgF54bY=
+
+Name: assets/www/lib/touch/resources/themes/images/default/tip.png
+SHA1-Digest: by7aB/2Nc5BgzvMr/sMVmvsl0GM=
+
+Name: res/drawable-ldpi/splash.jpg
+SHA1-Digest: k8Ib/bd26+04b+39c25r4p+0Qsk=
+
+Name: assets/www/lib/touch/src/core/Element.js
+SHA1-Digest: 2k7czLuxx/ow02s5VflgaP3qBV8=
+
+Name: assets/www/lib/touch/src/platform/src/Component.js
+SHA1-Digest: Dt7Njx2AZtLXjM+nZM9a6PPgo9w=
+
+Name: assets/www/lib/touch/src/platform/src/layout/LayoutManager.js
+SHA1-Digest: 378UU+HpUUKe/a1l/+Al8ioJBIw=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/core/Element
+ .js
+SHA1-Digest: m55yC8NfjNZ8+HxeDBnKIKFd/a8=
+
+Name: assets/www/lib/touch/src/core/Anim.more.js
+SHA1-Digest: RJnFlsxXU+xubI5gKaPrLKI5byQ=
+
+Name: assets/www/lib/touch/resources/themes/templates/project/manifest
+ .rb
+SHA1-Digest: Xdmz1wobyPKAjobYrM5m1GMBUFs=
+
+Name: assets/www/resource/icon/takeaway.png
+SHA1-Digest: 21CN/c/xQw/jBqP5SaTUPZUapkw=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Polymor
+ phicAssociation.js
+SHA1-Digest: Y26tP9tsVX/0HCpppzd/GmFc27I=
+
+Name: assets/www/app/views/cookingreheatingcard.js
+SHA1-Digest: Dn3rsDIJWvNv/Cn3WVyZXq2QoaQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/Container.js
+SHA1-Digest: wBoJw2ODYEpKS9FxHRI4Ocj/pfU=
+
+Name: assets/www/resource/method/beef-curry-1.jpg
+SHA1-Digest: 2uUGDpcyAZ1UzaIeeBiPtYz8GUE=
+
+Name: assets/www/lib/touch/src/widgets/DataView.js
+SHA1-Digest: g83S61m5IqKca5Q2q90A2Ke0OB0=
+
+Name: assets/www/lib/touch/src/platform/src/data/ModelMgr.js
+SHA1-Digest: WAELbLt7d6P50QiOmFkMukXBLhw=
+
+Name: assets/www/lib/touch/pkgs/platform/core.js
+SHA1-Digest: 3AZC3Hprj4sqR/lvVKAvWu0Vx4U=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Templat
+ e.js
+SHA1-Digest: oWgX5JAzd++hI0aeBY9vCewr11s=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: W1a0Ch5zqBdpMl1h1Rc7Oz6kQwQ=
+
+Name: assets/www/lib/touch/src/widgets/form/Radio.js
+SHA1-Digest: hnne1+5CpZ+zeiBHmXPDjw+WKR0=
+
+Name: assets/www/lib/touch/src/platform/src/Panel.js
+SHA1-Digest: aRkBqlr5A5QXdW+xdl6CPwi9ts4=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/Support.js
+SHA1-Digest: CWcq31nr+xdqj83qwb5CLZurOxs=
+
+Name: assets/www/lib/touch/pkgs/core.js
+SHA1-Digest: x6ut/DGOF22TwPugMZDNb5dmZyY=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Reader.
+ js
+SHA1-Digest: be3ajYPsicW5HjiICAb/2GuBhX8=
+
+Name: assets/www/lib/touch/src/core/CompositeElement.js
+SHA1-Digest: rUnVG2YgZZIF2QBoWxsHJ23SCVk=
+
+Name: assets/www/lib/touch/src/platform/src/data/readers/JsonReader.js
+SHA1-Digest: EX7erEWN5d2hzOYby12+5gSRRGo=
+
+Name: assets/www/lib/touch/src/platform/src/fx/Manager.js
+SHA1-Digest: wtyrZIoz11t3/9DcwA7Th6k+64U=
+
+Name: assets/www/app/stores/healthStore.js
+SHA1-Digest: W2JkL1ztqm0RReOcC+3B84I/U54=
+
+Name: assets/www/resource/bnr/pasta-sm.jpg
+SHA1-Digest: BEK6MY/CoF9y91evTOq75hv+icc=
+
+Name: assets/www/lib/touch/src/widgets/form/Spinner.js
+SHA1-Digest: FAHX3yZx4DoxmtZzorazeYzHR4w=
+
+Name: assets/www/lib/touch/src/platform/src/draw/Sprite.js
+SHA1-Digest: R98jVTDlpxZWYsFidHFRo4HH9Pg=
+
+Name: assets/www/lib/touch/src/platform/src/chart/Axis.js
+SHA1-Digest: iihpQJZXWK8osa8VStdrVHlLM6o=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/block.png
+SHA1-Digest: 3i3RJ5ffVXcPKR75HrfuRk36PUc=
+
+Name: assets/www/lib/touch/src/platform/src/chart/Chart.js
+SHA1-Digest: JaDOVZCaA9DC+14OAv10kv1M+XM=
+
+Name: assets/www/resource/method/shoulder-lamb-3.jpg
+SHA1-Digest: hLC/2Aw3UI+MPay0PeNj1CuO3LQ=
+
+Name: assets/www/lib/touch/src/platform/src/fx/Target.js
+SHA1-Digest: o5GGhXQT/b6MPvm9FDe54pCqGCM=
+
+Name: assets/www/resource/method/shepherds-pie-2.jpg
+SHA1-Digest: 632BWZsiKr7XQo/Ldu4wQ5CBCN8=
+
+Name: assets/www/lib/touch/src/plugins/list/PullRefresh.js
+SHA1-Digest: uakM/HITTVAK1nv2zZxBe1lYHBA=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/CSGenerator.js
+SHA1-Digest: A1QT6+BTHw/EqZUYDSfQHUqyLfg=
+
+Name: assets/www/resource/bnr/pizza-sm.jpg
+SHA1-Digest: 52NPK1CvfX/UDOReYAnFWO/X6l8=
+
+Name: assets/www/lib/touch/src/widgets/Container.js
+SHA1-Digest: J98bslHhNCsocTj8JQnRwphSwVE=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/after_each.png
+SHA1-Digest: D1tilSYU84GXZfCk7AIyHQRbaH8=
+
+Name: assets/www/lib/touch/src/layout/container/BoxLayout.js
+SHA1-Digest: InORnmNJhtER9orDFSWTZurXFmU=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/Component.js
+SHA1-Digest: vwctz9HQCf6EEIZOtNBNGtBS5b4=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Statefu
+ l.js
+SHA1-Digest: yQPEUz7Bo5gWLqE013k0lm0s0XI=
+
+Name: assets/www/lib/touch/src/platform/src/misc/DataView.js
+SHA1-Digest: y2Dk6CMZbi0tnsQVabWTmrygJyQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/fail.png
+SHA1-Digest: ny6GbGM3Tg7vz4lrtvv5RJhIAF0=
+
+Name: assets/www/lib/touch/src/gestures/Pinch.js
+SHA1-Digest: urNr4UqVYABvmed0MFhHGHi8Wf0=
+
+Name: assets/www/lib/touch/src/widgets/form/Toggle.js
+SHA1-Digest: KcUnmLNDMlUevD7xgPSGIjQ/B1w=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/HashMap
+ .js
+SHA1-Digest: K5UxPCsJYLj/CyN5oNVrBJVfnVs=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/core/Element
+ .static.js
+SHA1-Digest: 6gv0lOLXbCHfDsPJjhI5mWLXOOk=
+
+Name: assets/www/lib/touch/src/platform/src/util/MixedCollection.js
+SHA1-Digest: jSyRQRz69NM7Qo6u+jdqqvq3kWw=
+
+Name: assets/www/lib/touch/src/gestures/Manager.js
+SHA1-Digest: ijArOQxruOPoy+l0Ip55FLRrF1c=
+
+Name: assets/www/lib/touch/src/platform/build
+SHA1-Digest: JdNxLXY1h5NYyfX378FXG2d6i98=
+
+Name: assets/www/lib/touch/src/platform/src/data/stores/SyncStore.js
+SHA1-Digest: 5CxDd1W/xqMjDkaOlC4xKAWEzcw=
+
+Name: assets/www/lib/touch/src/platform/src/layout/container/CardLayou
+ t.js
+SHA1-Digest: oWS3BNz3KMSxjyZonECWJe7pX1s=
+
+Name: assets/www/lib/touch/src/platform/src/data/TreeStore.js
+SHA1-Digest: W19ySOh6gLZqKE0grmCd4HJcb40=
+
+Name: assets/www/lib/touch/src/core/Element.alignment.js
+SHA1-Digest: J60ZnTkuPh3uOMmgi9eswfJLpcI=
+
+Name: assets/www/app/views/Viewport.js
+SHA1-Digest: CkuG/gkskz0mL3epgL8j1FnYkdY=
+
+Name: assets/www/resource/icon/quick-snack.png
+SHA1-Digest: UVKem9rwbNXLQl4kO5mqXypsOBg=
+
+Name: assets/www/lib/touch/src/platform/src/app/Dispatcher.js
+SHA1-Digest: bSy43w31vdxMkmt3XTE48KcOyTk=
+
+Name: assets/www/lib/touch/src/gestures/Swipe.js
+SHA1-Digest: sgzDBHlfvW9k1xe5Nng+ORdLi0w=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/Proxy.js
+SHA1-Digest: ECEwe/hQcKSEyJHZZ74vdl1tByo=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/before_each.png
+SHA1-Digest: zc/0ko6A8qeoDb/msf8PqaWMuv0=
+
+Name: assets/www/lib/touch/src/core/Anim.js
+SHA1-Digest: SBKEDA/6f5lDXaz+4B7gL11zOSk=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/CSV.js
+SHA1-Digest: 93CS7kDP/Hky8LPM/w7WXUwtVK0=
+
+Name: assets/www/lib/touch/src/widgets/form/Url.js
+SHA1-Digest: w/hYih7YMEwshY+3wPKczKUAgtc=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /MemoryProxy.js
+SHA1-Digest: M01Q5wFTidjd/6OvhIQUBJ6zaiY=
+
+Name: assets/www/app/models/linkListItem.js
+SHA1-Digest: jjpWVGcELyY2qB8NFAuI7VzUK4w=
+
+Name: assets/www/lib/touch/src/util/Droppable.js
+SHA1-Digest: iiChNuUVLZpJel6GNug4kKL+FJ0=
+
+Name: assets/www/resource/icon/date-night.png
+SHA1-Digest: f2CS+sFCvg7xYT8iQQLr2Dg4SNM=
+
+Name: assets/www/lib/touch/src/platform/src/util/LoadMask.js
+SHA1-Digest: U+c78LWW2RNOkI76y33ZZVUEQtA=
+
+Name: assets/www/lib/touch/pkgs/gestures.js
+SHA1-Digest: 7wH4AU0uHgu9HH1Lu7mQJAkjh08=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Route.j
+ s
+SHA1-Digest: CkA66TsskAN0uZTy+0voYA1yqLA=
+
+Name: assets/www/lib/touch/src/platform/src/View.js
+SHA1-Digest: WA9UeeSs4vTthYTBt9Ys45D9i8Q=
+
+Name: assets/www/lib/touch/src/platform/src/util/Observable.js
+SHA1-Digest: mBNtPn4veijVZMehcnxdmopeqVY=
+
+Name: assets/www/resource/method/shoulder-lamb-2.jpg
+SHA1-Digest: ZKG8QXLdrMsuMBBpm0a3wvl8W3g=
+
+Name: assets/www/lib/touch/src/platform/src/data/Validations.js
+SHA1-Digest: jEaw5SGFiYqX3+XDWHQYYA6XFMs=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/RestProxy.js
+SHA1-Digest: 5H1lS7GFTBKl6Np1sbMoI55PTq4=
+
+Name: assets/www/resource/bnr/burgers-sm.jpg
+SHA1-Digest: HIe2wr5fxx5uab8z5VUKEgMEJhU=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Observa
+ ble.js
+SHA1-Digest: VMbsC1BW6nUeEhJKzcFzGPHXYBQ=
+
+Name: assets/www/lib/touch/src/gestures/Drag.js
+SHA1-Digest: 6hChpqWw33G7JGAI8zYSPIL+d78=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/CS.js
+SHA1-Digest: ixhC/zUw6oqb+NESdSV39gpz9KI=
+
+Name: assets/www/lib/touch/src/platform/src/data/Connection.js
+SHA1-Digest: 40k8N/JO2SmY2kZgS3WsBj0S2lk=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/Clock.js
+SHA1-Digest: uqJCA75iK8pmRMsX7/JCleuM//o=
+
+Name: assets/www/lib/touch/src/core/TouchEventManager.js
+SHA1-Digest: rr5geo94lKtfBEzhqLzQhHoW+3Q=
+
+Name: assets/www/lib/touch/src/widgets/MessageBox.js
+SHA1-Digest: 4lhDK6uYg0TyPf4ejW1NiVNu0wY=
+
+Name: assets/www/app/stores/moreStore.js
+SHA1-Digest: gcKtxabwHO5UwjqfcykJRfX5bKY=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /SessionStorageProxy.js
+SHA1-Digest: jfDY+wtI52IEiyVACDfjP2l5uPY=
+
+Name: assets/www/lib/touch/src/util/Sortable.js
+SHA1-Digest: fDzWhXm2L0xM+86IohhjEUXf4/g=
+
+Name: assets/www/lib/touch/pkgs/platform/data-foundation.js
+SHA1-Digest: maA00gYYG/1qz86ysfj1jJxG5Sc=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/fx/Anim.js
+SHA1-Digest: M2ueljoARn9JA1iWLEZdoha51fw=
+
+Name: assets/www/lib/touch/src/platform/src/chart/ColumnSeries.js
+SHA1-Digest: VIcpMoEiOltARHsk7PB0JIY1CfY=
+
+Name: assets/www/lib/touch/src/util/Draggable.js
+SHA1-Digest: ppuQzcfTSv6or2iXqtFd28LZyq0=
+
+Name: assets/www/resource/bnr/beef-curry-sm.jpg
+SHA1-Digest: TU+IuHkejZJQIx//sHTajhjo1kk=
+
+Name: assets/www/lib/touch/src/platform/src/chart/BarSeries.js
+SHA1-Digest: UqVWf00pD6c6d0U4WzH9I48hc+A=
+
+Name: assets/www/lib/touch/src/platform/src/app/Router.js
+SHA1-Digest: z7IKrE5MdUUhzdxWA3FOkRbe1oQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/panels/SpecBlocks.js
+SHA1-Digest: CIIhor9TaV6QkDu2+86f8/diYhQ=
+
+Name: assets/www/lib/touch/src/platform/src/draw/engines/Canvas.js
+SHA1-Digest: 5tECWQPLLl/cjw+ANySOmA3r8yk=
+
+Name: assets/www/lib/touch/src/plugins/list/ListPaging.js
+SHA1-Digest: wDSRNnVb1Q9ZoGGXxXjFbmi7/dU=
+
+Name: assets/www/lib/touch/resources/css/android.css
+SHA1-Digest: 3qyvJnUu1v8/Qxv6quGAzO6WZTc=
+
+Name: assets/www/lib/touch/src/platform/src/core/Element.js
+SHA1-Digest: 9UGMnH5Za4eXCPLP8ut8c3hFdcg=
+
+Name: assets/www/resource/method/shepherds-pie-5.jpg
+SHA1-Digest: PtPEOThfR/tMqY+/qU82+36LsJ4=
+
+Name: assets/www/lib/touch/src/platform/src/core/Element.insertion.js
+SHA1-Digest: IpKKSE3wGPYY0AkCKlx1fSV/3vw=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Field.j
+ s
+SHA1-Digest: ZJZ3hNHkipdfjZIvInEuJlxyGn0=
+
+Name: assets/www/lib/touch/src/platform/src/draw/engines/VML.js
+SHA1-Digest: 8VwiwPCBrlhjUrfxkZzsOysYPVY=
+
+Name: assets/www/lib/touch/src/widgets/form/Hidden.js
+SHA1-Digest: qPsR/wt6kKVA/8S7oWz7T5T+pHA=
+
+Name: assets/www/lib/touch/src/widgets/ProgressBar.js
+SHA1-Digest: oOyOrmYgTMyexuNPPZLRNBxaNiw=
+
+Name: res/drawable-hdpi/splash.jpg
+SHA1-Digest: s/+ic3/vTE2fb90dsIVRPs0tVs4=
+
+Name: assets/www/lib/touch/src/platform/src/chart/Legend.js
+SHA1-Digest: GEEHI0Jo4xCE1RNEVPUGny0e5MI=
+
+Name: resources.arsc
+SHA1-Digest: cZbSo+6Ag2RUlQocdAL76jDObVA=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/infos.png
+SHA1-Digest: 35QeJLBtHHNHogyu15B8cgW+VZA=
+
+Name: assets/www/lib/touch/src/layout/component/FieldLayout.js
+SHA1-Digest: 25WBhnTzqYufd+mYpYFeBNPa05Y=
+
+Name: assets/www/config.xml
+SHA1-Digest: W7uw9CoNNLNPA5I3qcUxAMa8auk=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/ArrayRe
+ ader.js
+SHA1-Digest: fwOev9C+Nrx38cH2lJRzyI1YwXQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /RestProxy.js
+SHA1-Digest: U5ghzGaJAKDOuNi3W3MkmUiaNk0=
+
+Name: assets/www/app/views/cleanitcard.js
+SHA1-Digest: IbGs+Cn3YTPOEgZPZjlyH3nUddI=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/panels/TabPanel.js
+SHA1-Digest: 8HQdBS8PXur7UXxdKd41xIT+NUY=
+
+Name: assets/www/lib/touch/src/platform/src/core/Element.static.js
+SHA1-Digest: liym/SNIIggFNr3aM5u1K0CTLsI=
+
+Name: assets/www/resource/bnr/shoulder-lamb-sm.jpg
+SHA1-Digest: ESGCRgq/w1qw3fcsEYN9jSmwEcQ=
+
+Name: assets/www/app/views/essaydeadlinecard.js
+SHA1-Digest: hOOemzxIi7h6550xcxlaZY8QCnc=
+
+Name: assets/www/lib/touch/src/platform/src/core/CompositeElementLite.
+ js
+SHA1-Digest: thGZXJBwy4Spx4nDi2ykkcsQ7fw=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/BadGlobals.js
+SHA1-Digest: FAWXbXl4RuXEro25vObWaLC9SwY=
+
+Name: assets/www/resource/method/shepherds-pie-1.jpg
+SHA1-Digest: iWpTO0Dxj8qp2BIdtK3OAjegTD4=
+
+Name: assets/www/resource/icon/show-off.png
+SHA1-Digest: sSIp5lv8ah/NuZfP324s6yHRJRA=
+
+Name: assets/www/lib/touch/src/platform/src/core/Ext.js
+SHA1-Digest: uwqFfNU+GHlDPC6MkgWUGS9KGRM=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Errors.
+ js
+SHA1-Digest: 8QtC4iIqS48JdGieCpClpts4/Hs=
+
+Name: assets/www/lib/touch/src/widgets/form/Select.js
+SHA1-Digest: iHBY32ADvwUKw1dgdUmiSY6fl7U=
+
+Name: assets/www/lib/touch/resources/sass/android.scss
+SHA1-Digest: HathHoz9zcJkc0gQtpL7NMxkYt8=
+
+Name: assets/www/lib/touch/src/platform/src/data/StoreMgr.js
+SHA1-Digest: CBccYnemrLCj5nQN6OZ67r80aYY=
+
+Name: assets/www/lib/touch/src/widgets/form/Number.js
+SHA1-Digest: /tplYgDqitMByFGjZZl0TLzKfD4=
+
+Name: assets/www/lib/touch/src/platform/src/Ext.js
+SHA1-Digest: K6bD+HM7HhcSchJxZX8rEgAztcQ=
+
+Name: assets/www/lib/touch/src/platform/README.md
+SHA1-Digest: s2jU+j3kbxhN+RndF8PLA6U+LbY=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/ProxyMg
+ r.js
+SHA1-Digest: qF/Q+D3/B2eo/uXWzFyk1ORPOoE=
+
+Name: assets/www/lib/touch/src/platform/src/Support.js
+SHA1-Digest: S6EiWlj5vvnr1ZawoyktE2pOsQ0=
+
+Name: assets/www/lib/touch/src/core/Ext.js
+SHA1-Digest: 2J4BcB1Sc4YtfijvIQV5fJOqT8o=
+
+Name: assets/www/lib/touch/resources/themes/images/default/tip_right.p
+ ng
+SHA1-Digest: 1BC1785E79WA/2Xev8kpeXPMHLo=
+
+Name: assets/www/lib/touch/src/platform/src/util/Point.js
+SHA1-Digest: uji70E2Vs08Ka5aTYy8B4/zWID4=
+
+Name: assets/www/lib/touch/src/platform/src/data/readers/ArrayReader.j
+ s
+SHA1-Digest: 3fMjyw47+fU9CDWVJlUWM66p068=
+
+Name: assets/www/lib/touch/src/platform/src/data/WriterMgr.js
+SHA1-Digest: eXhQAr0GsKkBzMn9tWdNkF3P7bc=
+
+Name: assets/www/app/stores/tipStore.js
+SHA1-Digest: IAZsnOkXhYJ1grkocxnSzYGE7ic=
+
+Name: assets/www/lib/touch/src/util/JSON.js
+SHA1-Digest: t3Uqqu5ItiILUD0oyfdFEn/HDrE=
+
+Name: assets/www/lib/touch/resources/themes/images/default/tip_horizon
+ tal.png
+SHA1-Digest: rlnRC7N7trKEymkHdYPlMwhf/Js=
+
+Name: assets/www/lib/touch/src/platform/src/util/Region.js
+SHA1-Digest: XtNEIYTtbn+W1QdUe8D50mxyBkU=
+
+Name: assets/www/lib/touch/src/touch-beta-legacy.js
+SHA1-Digest: Qg7CcBhC7KQeo8ij6dGaeD381b4=
+
+Name: assets/www/resource/ajax-loader.gif
+SHA1-Digest: f2j5ieoEXLNVYmtTO5gXQmJLKlw=
+
+Name: assets/www/lib/touch/src/platform/src/data/writers/Writer.js
+SHA1-Digest: OyoySH2gsypPiP9Q3tOKVvMxbMw=
+
+Name: assets/www/lib/touch/src/platform/src/data/Operation.js
+SHA1-Digest: F14INkZbFSD4H57n0tgiVWe0nq4=
+
+Name: assets/www/lib/touch/src/util/EventSimulator.js
+SHA1-Digest: SG1RP14LXAz1j148nj+Oome8rx8=
+
+Name: assets/www/resource/icon/home-sick.png
+SHA1-Digest: UVclG+VAXibuO0cuGcHhvtwq8r8=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Node.js
+SHA1-Digest: zHBi8mA7HIOlHWw3yelHSOwr6MM=
+
+Name: assets/www/lib/touch/src/util/JSONP.js
+SHA1-Digest: FU6W+fui4MeKHYGemLaXKORfqTQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/reporter/reso
+ urces/images/spec.png
+SHA1-Digest: TNzNdrmm0ItaaPaL/sFspvnuusk=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/XTempla
+ te.js
+SHA1-Digest: s8nM1gftpOuaRIGCDoTaJIozt7Y=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /ScriptTagProxy.js
+SHA1-Digest: EgrgPAb0gt9AL9TNDsYuEKapF8U=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/spec/jasmine-
+ extensions/Dom.js
+SHA1-Digest: SL7vE5OVzKLcJKkEJp4ZLKeudhU=
+
+Name: assets/www/resource/method/stir-fry-4.jpg
+SHA1-Digest: QQ2zQ5mZdXJFauxwSSGeKqlGfVs=
+
+Name: assets/www/resource/method/shepherds-pie-3.jpg
+SHA1-Digest: BpthrDFpTIUuLrJTs4PC1TC4ZJ8=
+
+Name: assets/www/app/views/stockupcard.js
+SHA1-Digest: 32X18bZnBgrdk/FoFC1GQQCMq2Y=
+
+Name: assets/www/lib/touch/resources/themes/images/default/togglethumb
+ .png
+SHA1-Digest: xyszh3J8b4fnsH/cgLgthlmBk80=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/proxies
+ /ServerProxy.js
+SHA1-Digest: UrQb1xmyOUIpThzqzpf0MNmgkHk=
+
+Name: res/layout/main.xml
+SHA1-Digest: lk54ki6f09YOOgscqZIdPgUa0ho=
+
+Name: assets/www/lib/touch/pkgs/sync.js
+SHA1-Digest: keAVS+sKuaBKide0dy8hNwdNybY=
+
+Name: assets/www/lib/touch/src/platform/src/util/Date.js
+SHA1-Digest: u7gCnoObVfLmURxz539YwyWEl5c=
+
+Name: assets/www/lib/touch/resources/css/bb6.css
+SHA1-Digest: GxZHslPKEXGg+cJmlgvz2LaZ2nM=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/MemoryProxy.j
+ s
+SHA1-Digest: it5NoDpk0jg6Il3oNc92heS17eg=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/XmlRead
+ er.js
+SHA1-Digest: B060Fs5Fj3JKM7b74J6ndie7ZK0=
+
+Name: assets/www/lib/touch/src/platform/src/data/NestedSetStore.js
+SHA1-Digest: OygIEUCKXMa0qZRW0K/g3BxUt2s=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/lib/jasmine-exten
+ sions/Utils.js
+SHA1-Digest: ssvrCqoL96i0JYJ7Hyf7uQW2zwA=
+
+Name: assets/www/lib/touch/src/platform/src/util/Format.js
+SHA1-Digest: hLIVGzQ6EUWzAyiOOrmKkxUG37k=
+
+Name: assets/www/lib/touch/src/platform/src/util/Filter.js
+SHA1-Digest: 7FMOjFQ2jtbAQgj9sKpkH5Tn7nc=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/native/Array
+ .js
+SHA1-Digest: Vnxx+2YU6xnW0qKkA7l2pU54Tt8=
+
+Name: assets/www/lib/touch/pkgs/widgets.js
+SHA1-Digest: /CQgq24xbd6Ag8wlbiy3YtBoxaE=
+
+Name: assets/www/lib/touch/src/platform/src/PluginMgr.js
+SHA1-Digest: lDTwYojW9EdC9gO8xg1XAOQlaMQ=
+
+Name: assets/www/lib/touch/src/platform/src/fx/DefaultPropHandler.js
+SHA1-Digest: G/uxKJS4NZda4BmuZrmFd1TulVU=
+
+Name: assets/www/lib/touch/src/platform/src/layout/container/Container
+ Layout.js
+SHA1-Digest: +YVoKBV5fjjgJCZTK/j2+US9EvU=
+
+Name: assets/www/lib/touch/src/platform/src/draw/DrawComponent.js
+SHA1-Digest: 8mg1svVU+kA5sDh+Vf7HSvPcMYw=
+
+Name: assets/www/lib/touch/src/platform/src/data/Types.js
+SHA1-Digest: OI5WGwQlgPjpZeapxTjSHa0fmpg=
+
+Name: assets/www/lib/touch/src/platform/src/data/sync/Array.js
+SHA1-Digest: KYd3wWnxSHIBtgfRU+KEgwSTN9k=
+
+Name: assets/www/lib/touch/src/core/Element.traversal-more.js
+SHA1-Digest: IyXBB3c03rnAOdJ7mnzBhRWpFMQ=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Operati
+ on.js
+SHA1-Digest: sc+OInJA+U7vJC+b8+tVyhzhlnw=
+
+Name: assets/www/resource/method/shoulder-lamb-serve.jpg
+SHA1-Digest: 1z9PAHjdmySN5h+L/uRvZkohM3I=
+
+Name: assets/www/lib/touch/src/locale/ext-lang-en.js
+SHA1-Digest: gKhos0YE4fcAjJe6kSNznWX63BM=
+
+Name: assets/www/lib/touch/src/widgets/form/Password.js
+SHA1-Digest: qb0J/W1gXOvO9PuTX+qVmw8zdgQ=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/SyncStoragePr
+ oxy.js
+SHA1-Digest: XB4MwNtFla9KeaBN6aQOom1HoOk=
+
+Name: assets/www/lib/touch/resources/themes/images/default/togglethumb
+ mask.png
+SHA1-Digest: U0oNbtlp0iHju1XeCB2/FpDRMpg=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Date.js
+SHA1-Digest: 2g76YVvmSmSlairA/cFZRAxLqM4=
+
+Name: assets/www/lib/touch/src/platform/src/EventManager.js
+SHA1-Digest: 3x5oFQuEO6hb4XWpgRX3RcqeR/A=
+
+Name: assets/www/lib/touch/src/platform/src/data/ReaderMgr.js
+SHA1-Digest: bMkqPQILY/xMDkbYm0PDpvOJtrM=
+
+Name: assets/www/lib/touch/resources/themes/images/default/togglebg.pn
+ g
+SHA1-Digest: z2QsjZqO3duA7ZMihkdcgDkmHOQ=
+
+Name: assets/www/lib/touch/src/platform/src/data/Model.js
+SHA1-Digest: 61OUrsVOIwkVPL6PkKQlqSwhuzw=
+
+Name: assets/www/lib/touch/src/data/Connection.js
+SHA1-Digest: /8jG4heea2r0JaccD9TfPgGTLbw=
+
+Name: assets/www/resource/bnr/shepherds-pie.jpg
+SHA1-Digest: 1o3jnx+C97a4mAuwnFEFi7I4zhY=
+
+Name: assets/www/resource/app.css
+SHA1-Digest: WwuJowGdZnA991EmQIkc/tJSC4s=
+
+Name: assets/www/lib/touch/src/platform/src/data/stores/ArrayStore.js
+SHA1-Digest: NB/7W9OWgNc9kt5UpJ1llveRxBA=
+
+Name: assets/www/resource/icon/movie-night.png
+SHA1-Digest: 7eYmkjqc2/dlZhHox2SQX6dMVuM=
+
+Name: assets/www/resource/method/shoulder-lamb-pour.jpg
+SHA1-Digest: +2CawWGaGK6gbKq5KptWI3qN+u0=
+
+Name: assets/www/lib/touch/src/platform/src/data/proxies/ScriptTagProx
+ y.js
+SHA1-Digest: ASKyNXGk5iIxFbn1+6mlkZHUvXM=
+
+Name: assets/www/resource/logo-youtube.png
+SHA1-Digest: zg+CZ4q7+T+dpGKyLCJZFqOAARk=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/util/Sorter.
+ js
+SHA1-Digest: Qtdr8SbRA0y97UM7JCOlpkvctp0=
+
+Name: assets/www/lib/touch/resources/sass/config-release.rb
+SHA1-Digest: iF8qBMW7XnxkJ13bxATuPDM6/KE=
+
+Name: assets/www/lib/touch/resources/sass/config-debug.rb
+SHA1-Digest: ZIO0XXV+0fUIKQBJQl4llFNa+RY=
+
+Name: assets/www/lib/touch/src/platform/test/jasmine/spec/data/Request
+ .js
+SHA1-Digest: WRNNFpBODE3S7dN9seYohpHdzPo=
+

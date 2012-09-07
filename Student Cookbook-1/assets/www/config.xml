@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "com.phonegap.cookingapp"
+	version 	= "1.0.0">
+
+	<name>Cooking for Students</name>
+
+	<description>Cooking for Students - First Degree</description>
+
+	<author href="http://www.creo.co.uk"
+		email="robert@creo.co.uk">
+		Robert Kinsella
+	</author>
+
+</widget>

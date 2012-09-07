@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Car Rental</title>
+    
+    <!-- Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    
+    <!-- Main App -->
+    <script type="text/javascript" charset="utf-8" src="./app-android.js"></script>
+    
+    <script type="text/javascript">
+        function onBodyLoad() {
+            //Runs when Cordova is ready
+            document.addEventListener('deviceready', CarRental.mainLaunch, false);
+            
+            if (CarRental) {
+                //Start the scheduler that processes Google Analytics events
+                CarRental.utils.GoogleAnalytics.startScheduler();
+            }
+        }
+    </script>
+</head>
+<body style="background-color: #125574" onload="onBodyLoad();"></body>
+</html>

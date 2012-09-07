@@ -1,0 +1,183 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_29 (Apple Inc.)
+
+Name: assets/www/rsc/icn-pin-off.png
+SHA1-Digest: bmIvnGwS4oVCBds1d9Uw7YvmuZU=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: obd2ezGDYthfjSE5E40KnuNB26U=
+
+Name: assets/www/css/application.css
+SHA1-Digest: jbSNehRldKwjdWfr5m0M2Zb+z7Q=
+
+Name: assets/www/js/Flurry.js
+SHA1-Digest: Eh+IbXq92YsumN/hPdfoKRdrrHc=
+
+Name: assets/www/js/sencha-touch.js
+SHA1-Digest: iYq5X9ytoziic6GzV0YarHrQgaY=
+
+Name: assets/www/rsc/icn-journal-placeholder.png
+SHA1-Digest: hoZ4PM/ZKiHmdkhL+tBXA7EhBbU=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: spZe3wi7W8ujkdt+DenPgXKFMC0=
+
+Name: assets/www/rsc/icn-load-events.png
+SHA1-Digest: 1pJARzNxOxBrM1OmpDI6QJEcM2Q=
+
+Name: assets/www/rsc/icn-sync.png
+SHA1-Digest: qm0dOwGwYTZ+tZYnlxw2vnPFMws=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: GBvi0ovWrtCm6S1XhHst61RG2LE=
+
+Name: assets/www/rsc/btn-next-post.png
+SHA1-Digest: WXfkrlA7C/iPH08jri7xJGoU5f8=
+
+Name: assets/www/js/Badge.js
+SHA1-Digest: CDXDFsrOSKG5eUGUeNy+Hpg+C3A=
+
+Name: assets/www/rsc/bg-journal-detail.png
+SHA1-Digest: fi/kY+Rr7INOdHa0N2gFJGE2MAc=
+
+Name: assets/www/rsc/icn-reminder.png
+SHA1-Digest: n01Eamq3F063khzUvkkIDOYVm9o=
+
+Name: assets/www/rsc/icon.hdpi.png
+SHA1-Digest: QxPrTLFDbfSqMs/4BA+fQHclIjc=
+
+Name: assets/www/js/journals.js
+SHA1-Digest: cPnFxTqFpZwIXlTkOtr/8UH0+e8=
+
+Name: assets/www/rsc/icn-events2.png
+SHA1-Digest: 8LyqZqk901q2abZ07ALdEEmQP8Y=
+
+Name: assets/www/rsc/icon.mdpi.png
+SHA1-Digest: ej1X9kVRX44/0cXtTV+TX29DUX0=
+
+Name: assets/www/rsc/icn-journal2.png
+SHA1-Digest: iFN2jU5uhNDDklSP40GNYYxPiJg=
+
+Name: assets/www/rsc/icn-task-placeholder.png
+SHA1-Digest: riMLfsAk2BJZG+JLRlBkoPBQXJg=
+
+Name: assets/www/js/tasks.js
+SHA1-Digest: HsBv+YJ5/S5LXKV1/96h8oU1og8=
+
+Name: assets/www/rsc/icn-dashb.png
+SHA1-Digest: EKPqLA7jakaxVlTvCHTxV50y/r8=
+
+Name: assets/www/rsc/phone_startup.png
+SHA1-Digest: rqJrkHiMDW4U7ZJ6Hqlo9NxX9Rk=
+
+Name: assets/www/rsc/icn-anniversary.png
+SHA1-Digest: bou9f1w9PO9HYkh0/KarhR/QxaI=
+
+Name: assets/www/js/index.js
+SHA1-Digest: SY6y6n5AYEry+R7SmQ9SbyrqMKk=
+
+Name: res/layout/main.xml
+SHA1-Digest: 7Mkidr0Hm5FFekZ3eg6bNUWNH9o=
+
+Name: assets/www/rsc/icn-birthdays.png
+SHA1-Digest: 51QHEUzjrkL3w0NTdvwKAspiM3s=
+
+Name: assets/www/rsc/icn-tasks.png
+SHA1-Digest: rVKkJxUy0Tlpnlk0TCrZLzjkFYw=
+
+Name: assets/www/rsc/icn-settings.png
+SHA1-Digest: yvfbFSa+jSa+rgjnPli5gpecCvw=
+
+Name: assets/www/js/events.js
+SHA1-Digest: amVnxsx+8qqb0+TFfDJ18vQbrNY=
+
+Name: assets/www/rsc/icn-dashboard-journal.png
+SHA1-Digest: CxEw5YDNmtZFOnCX8Ff2f3+8KYo=
+
+Name: assets/www/js/PhoneGapPluginWrapper.js
+SHA1-Digest: gMs5KatNgQYZiJ8IwGPSodgDJog=
+
+Name: assets/www/index.html
+SHA1-Digest: TKbaEFpS+eeVgnQ06/IK/H8Fm5Y=
+
+Name: assets/www/js/mobile.js
+SHA1-Digest: Q76YABt7QGwAP4Bh/3l9xlbN9A4=
+
+Name: assets/www/rsc/icn-dash.png
+SHA1-Digest: 7v7vwLojnHajjkOXXRMaA4Ak7CE=
+
+Name: assets/www/rsc/icn-pin-on.png
+SHA1-Digest: P8aO21yYJQg+1JPI8OhOfqa+k4Q=
+
+Name: assets/www/rsc/btn-add-pic.png
+SHA1-Digest: 5srHTtp5t/bGkuYLCGiPz52HXno=
+
+Name: assets/www/rsc/icn-event.png
+SHA1-Digest: tleDsEREtM37CrF9iJcccLOXL8I=
+
+Name: assets/www/js/custom-sencha-components.js
+SHA1-Digest: w8nVfcVLFWb5jHF/+DXr7XDEhq4=
+
+Name: resources.arsc
+SHA1-Digest: AYlAi8nh8znSfjYPrSIJDNL8tQw=
+
+Name: assets/www/phonegap-1.0.0.js
+SHA1-Digest: AJpbg2nV8mPJ90Qt0A64m9FEMqg=
+
+Name: assets/www/rsc/icn-events.png
+SHA1-Digest: UNsrabBEbC7zhwyQy0O1Oiry49M=
+
+Name: AndroidManifest.xml
+SHA1-Digest: cZtkdWye9R3iICFnTF3LOpkP9+o=
+
+Name: assets/www/rsc/btn-new-entry.png
+SHA1-Digest: 5NBtCpAEnxug4MUFW5eupjR7epQ=
+
+Name: assets/www/rsc/icn-dashboard-task.png
+SHA1-Digest: XvPjpBqORDfOhsB9ZNujYgdXRq4=
+
+Name: assets/www/rsc/bg-journal-detail-date3.png
+SHA1-Digest: PKag+5dB6TzwN/br7SbHkpVMsik=
+
+Name: assets/www/rsc/icn-location.png
+SHA1-Digest: VibF1kpPtxi5YXV8cAlZS4EiBxY=
+
+Name: assets/www/css/sencha-touch.css
+SHA1-Digest: mFGxlAQDIKYfcF4vGQvo2kfz5pA=
+
+Name: assets/www/rsc/tablet_startup.png
+SHA1-Digest: DNcCjkBU2yk6xB7vIBzMDj1wRFg=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: xU2aexvS4i6/5gYMQISTHlchtVM=
+
+Name: assets/www/rsc/btn-prev-post.png
+SHA1-Digest: 1mssz3eUezcpB1XeGQO0nyep8As=
+
+Name: assets/www/rsc/icn-dashboard-event.png
+SHA1-Digest: FE1oykZ4DgR6JT/ft0xHLNvz7qo=
+
+Name: classes.dex
+SHA1-Digest: W86gUUt3OkUeihq5jENBYmQoWgU=
+
+Name: assets/www/rsc/task-tickbox-sprite.png
+SHA1-Digest: aCdGYzCKNW2I2ytQeDzKnrnM38Y=
+
+Name: assets/www/rsc/icon.ldpi.png
+SHA1-Digest: oYvGi4Ly5U+AYEkjiAieZzpNtvo=
+
+Name: assets/www/js/environment.js
+SHA1-Digest: 3gUvfhE8q36cszj20Bcjom3ao/U=
+
+Name: assets/www/rsc/icn-eventNote.png
+SHA1-Digest: ofEK7cEWl4uhYNtsn6lOi3Q8Afg=
+
+Name: assets/www/rsc/loading.png
+SHA1-Digest: TxDEAq16I774OjAxLVyA6Psk6XA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: w2CbYcJ7ndkRdGk+PRbrng355X0=
+
+Name: assets/www/js/LocalNotification.js
+SHA1-Digest: wOmwAOWKdeitYxLTkoqnlG86p9Q=
+

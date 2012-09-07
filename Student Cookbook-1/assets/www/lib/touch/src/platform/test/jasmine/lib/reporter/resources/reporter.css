@@ -1,0 +1,362 @@
+body {
+    font-family: "Helvetica Neue Light", "Lucida Grande", "Calibri", "Arial", sans-serif;
+    margin: 0;
+    width: 100% !important;
+    overflow-y: auto !important;
+    color: #2e3436;
+}
+
+.jasmine_reporter > * {
+    margin: 10px;
+}
+
+.banner {
+    position: relative;
+    padding: 4px 0 6px 6px;
+    margin: 0 0 10px 0;
+}
+
+.banner .logo {
+    width: 120px;
+    height: 50px;
+    background: url(images/logo-sencha-sm.png) no-repeat;
+}
+
+.banner .options {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    color: #666;
+    font-size: 10px;
+}
+
+.banner .options {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    color: #666;
+    font-size: 10px;
+}
+
+.banner .options .show {
+    text-align: right;
+}
+
+.banner .options .show label {
+    margin-right: 3px;
+}
+
+.runner, .suite, .spec, .warning {
+    border: 1px solid #babdb6;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background-color: #d3d7cf;
+    box-shadow: inset 0 1px 3px #eeeeec, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -o-box-shadow: inset 0 1px 3px #eeeeec, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -webkit-box-shadow: inset 0 1px 3px #eeeeec, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -moz-box-shadow: inset 0 1px 3px #eeeeec, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    padding: 10px;
+    margin: 4px;
+}
+
+.suite, .spec, .warning {
+    text-shadow: 0 1px 1px #fff;
+}
+
+.runner a, .suite a.run_spec, .spec a.run_spec {
+    display: inline-block;
+    color: #eee;
+    font-size: 11px;
+    text-decoration: none;
+    text-shadow: 0 1px 1px #2e3436;
+    border: 1px solid #111;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background-color: #555753;
+    box-shadow: inset 0 1px 3px #888a85, inset 0 -5px 10px #555753, 0 1px 1px #2e3436;
+    -o-box-shadow: inset 0 1px 3px #888a85, inset 0 -5px 10px #555753, 0 1px 1px #2e3436;
+    -webkit-box-shadow: inset 0 1px 3px #888a85, inset 0 -5px 10px #555753, 0 1px 1px #2e3436;
+    -moz-box-shadow: inset 0 1px 3px #888a85, inset 0 -5px 10px #555753, 0 1px 1px #2e3436;
+    background-clip: padding-box; 
+    padding: 1px 4px 2px 4px;
+}
+
+.runner .finished_at {
+    font-size: 10px;
+    padding-top: 6px;
+    padding-left: 2px;
+}
+
+.runner.running .finished_at{
+    display: none;
+}
+
+.failed a.run_spec,
+.failed a.description {
+    border-color: #660000;
+    background-color: #cc0000;
+    box-shadow: inset 0 1px 3px #ef2929, inset 0 -5px 10px #a40000, 0 1px 1px #2e3436;
+    -o-box-shadow: inset 0 1px 3px #ef2929, inset 0 -5px 10px #a40000, 0 1px 1px #2e3436;
+    -webkit-box-shadow: inset 0 1px 3px #ef2929, inset 0 -5px 10px #a40000, 0 1px 1px #2e3436;
+    -moz-box-shadow: inset 0 1px 3px #ef2929, inset 0 -5px 10px #a40000, 0 1px 1px #2e3436;
+}
+
+.passed a.run_spec,
+.passed a.description {
+    border-color: #006600;
+    background-color: #73d216;
+    box-shadow: inset 0 1px 3px #8ae234, inset 0 -5px 10px #4e9a06, 0 1px 1px #2e3436;
+    -o-box-shadow: inset 0 1px 3px #8ae234, inset 0 -5px 10px #4e9a06, 0 1px 1px #2e3436;
+    -webkit-box-shadow: inset 0 1px 3px #8ae234, inset 0 -5px 10px #4e9a06, 0 1px 1px #2e3436;
+    -moz-box-shadow: inset 0 1px 3px #8ae234, inset 0 -5px 10px #4e9a06, 0 1px 1px #2e3436;
+}
+
+.run_spec {
+    float: right;
+    font-size: 10px;
+}
+
+.warning .messages {
+    border: 1px solid #babdb6;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background: #f1f1f1;
+    -webkit-box-shadow: 0 0 10px #babdb6;
+    -moz-box-shadow: 0 0 10px #babdb6;
+    box-shadow: 0 0 10px #babdb6;
+    margin: 4px;
+    padding: 10px;
+}
+
+.description {
+    padding-left: 20px;
+    color: #cc0000;
+}
+
+.suite .description {
+    background: url(images/suite.png) no-repeat left center;
+}
+
+.spec .description {
+    background: url(images/spec.png) no-repeat left center;
+}
+
+.passed .description  {
+    color: #4e9a06;
+}
+
+.warning .description {
+    color: #ef2929;
+}
+
+.runner_message .description {
+    color: #fff;
+}
+
+.resultMessage {
+    padding: 5px 5px 5px 28px;
+    border-top: 1px dotted #eeeeec;
+}
+
+.resultMessage.first {
+    border: none;
+}
+
+.resultMessage.fail {
+    background: url(images/fail.png) no-repeat 5px 5px;
+    background-color: #a40000;
+    color: #fff;
+}
+
+.resultMessage.pass {
+    background: url(images/pass.png) no-repeat 5px 5px;
+    background-color: #4e9a06;
+    color: #fff;
+}
+
+.warning .description {
+    background: url(images/warning.png) no-repeat left center;
+}
+
+div.blockTitle {
+    background-position: 5px 50%;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    margin: 5px;
+}
+
+.blocks div.specSources {
+    background-image: url(images/spec_sources.png);
+}
+
+.blocks div.beforeEach {
+    background-image: url(images/before_each.png);
+}
+
+.blocks div.afterEach {
+    background-image: url(images/after_each.png);
+}
+
+div.toolBar {
+    margin-top: 4px;
+}
+
+.toolBar span {
+    padding: 8px 20px 8px 30px;
+    margin: 0;
+    display: inline-block;
+    background-position: 5px 50%;
+    background-repeat: no-repeat;
+    text-shadow: 0 1px 1px #fff;
+    border: 1px solid #babdb6;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background-color: #babdb6;
+    box-shadow: inset 0 1px 3px #d3d7cf, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -o-box-shadow: inset 0 1px 3px #d3d7cf, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -webkit-box-shadow: inset 0 1px 3px #d3d7cf, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -moz-box-shadow: inset 0 1px 3px #d3d7cf, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    margin-right: 8px;
+    margin-bottom: 4px;
+}
+
+.toolBar span:hover,
+div.inspectStackTrace:hover {
+    cursor: pointer;
+}
+
+.toolBar span.selected {
+    background-color: #d3d7cf;
+    box-shadow: inset 0 1px 3px #eeeeec, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -o-box-shadow: inset 0 1px 3px #eeeeec, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -webkit-box-shadow: inset 0 1px 3px #eeeeec, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+    -moz-box-shadow: inset 0 1px 3px #eeeeec, inset 0 -5px 10px #babdb6, 0 1px 1px #888a85;
+}
+
+.toolBar span.infos {
+    border-left: 1px solid #babdb6;
+    background-image: url(images/infos.png);
+}
+
+.toolBar span.blocks {
+    background-image: url(images/block.png);
+}
+
+.toolBar span.stackTrace {
+    background-image: url(images/stack_trace.png);
+}
+
+.toolBar span.domSandbox {
+    background-image: url(images/dom_sandbox.png);
+}
+
+.toolPanel {
+    text-shadow: none;
+}
+
+.panels div.panel {
+    border: 1px solid #babdb6;
+    text-shadow: none;
+    background-color: #d3d7cf;
+}
+
+.panels div.domSandbox {
+    background: #fff;
+    padding: 3px;
+}
+
+.panels .hideMe {
+    position: absolute;
+    left: -50000px;
+}
+
+.prettyPrint {
+    white-space: pre;
+    margin: 0;
+}
+
+.stackTrace .fileSources,
+.panel .sources {
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    font-family: monospace;
+    background-color: #2e3436;
+    border: 1px solid #babdb6;
+    margin: 5px;
+    position: relative;
+    overflow: auto;
+}
+
+.stackTrace .fileSources {
+    height: 250px;    
+}
+
+.toolPanel .lineNumbers {
+    margin: 0;
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 20px;
+}
+
+.toolPanel .lineNumbers .lineNumber {
+    background-color: #fce94f;
+    color: #2e3436;
+    width: 40px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+
+.toolPanel .code {
+    white-space: pre;
+    margin: 0;
+    top: 0;
+    left: 48px;
+    position: absolute;
+    z-index: 1;
+}
+
+.toolPanel .lineNumbers .lineBackground.error {
+    background-color: #cc0000;
+}
+
+.stackTraceLine .fileName {
+    background: url(images/file.png) no-repeat left center;
+    color: #2e3436;
+    padding-left: 20px;
+    margin: 5px;
+}
+
+div.inspectStackTrace {
+    color: #fce94f;
+    font-size: 11px;
+    text-decoration: underline;
+    padding-bottom: 4px;
+}
+
+.jsHlComment {
+  color: #d3d7cf !important;
+}
+
+.jsHlKeyword {
+  color: #729fcf !important;
+}
+
+.jsHlOperator {
+  color: #ad7fa8 !important;
+}
+
+.jsHlNumber {
+  color: #edd400 !important;
+}
+
+.jsHlString {
+  color: #fce94f !important;
+}

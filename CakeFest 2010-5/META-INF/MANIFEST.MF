@@ -1,0 +1,1275 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/images/39-spraycan.png
+SHA1-Digest: r7ip5IwBEGJR0eDzpNPsMntvTyA=
+
+Name: assets/www/images/55-network.png
+SHA1-Digest: B8zAaIWXPr/bNmWQA4IROZ4uk9Y=
+
+Name: assets/www/images/icon_controls_4.png
+SHA1-Digest: 58sKu0KKC+13u3sIaD3Pyrv/CYA=
+
+Name: assets/www/js/CakeFest/Views/Map.js
+SHA1-Digest: KTyfFKqc4K36AWSNwtCnRggUGEU=
+
+Name: assets/www/images/icon_rss.png
+SHA1-Digest: m8TXEMtnsS1gWRrJgaSjWtIMnbs=
+
+Name: assets/www/images/07-map-marker.png
+SHA1-Digest: h/DilpZw0mxPu6bh/44JQC23u6A=
+
+Name: assets/www/images/109-chicken.png
+SHA1-Digest: r7R9Z1DTd4PQN7Qo0Q+WBCOPTlk=
+
+Name: assets/www/images/icon_danger.png
+SHA1-Digest: dPbXnjRwJ6XBekz63TSVx82kd6M=
+
+Name: assets/www/images/icon_graph_down.png
+SHA1-Digest: 6yYIKkTXBn1qegGpwJsYEE3h86c=
+
+Name: assets/www/images/57-download.png
+SHA1-Digest: W5T9YIme5XNLcqRMVQabAQPn1os=
+
+Name: assets/www/sencha/resources/img/tabicons/time.png
+SHA1-Digest: 2JTd2BwbvTLnMxn8XUBHsVB3pOU=
+
+Name: assets/www/images/icon_court.png
+SHA1-Digest: sMOzVYd8N3/m115ddPyQgjy476E=
+
+Name: assets/www/images/94-pill.png
+SHA1-Digest: uLIYblDHhOCuavjh1+okTYFzLY8=
+
+Name: assets/www/images/icon_refresh.png
+SHA1-Digest: eOfsu/XLHA+QG9S305wLJAkbsRI=
+
+Name: assets/www/sencha/ext-touch.js
+SHA1-Digest: IkTjIHuc5obAjMalP082n+wFIc8=
+
+Name: assets/www/sencha/resources/img/tabicons/refresh.png
+SHA1-Digest: tjH1n7MR4FpfA+yW2rO+r//d+C8=
+
+Name: assets/www/images/icon_manage.png
+SHA1-Digest: YwuH4ibpNkE4N7iS0qioXgkhU5w=
+
+Name: assets/www/images/icon_font_regular.png
+SHA1-Digest: rFSWMHEIiFz44SIaGT3gXt/ehgs=
+
+Name: assets/www/images/icon_mute.png
+SHA1-Digest: kz0A44X+Ol/3QHMpLFJeeGxXpdA=
+
+Name: assets/www/images/icon_window.png
+SHA1-Digest: eEmlkcbjgfIpQrTczzf1WW6KcZw=
+
+Name: assets/www/images/60-signpost.png
+SHA1-Digest: /rqp4yP4HXqWP+iyT+5rSG60Ktc=
+
+Name: assets/www/images/72-pin.png
+SHA1-Digest: GZ5o6vsOdwV5b2xfuFqhli0UvjY=
+
+Name: assets/www/images/68-paperclip.png
+SHA1-Digest: dhhXc6lByNcOomgIMh14TJQ6Izs=
+
+Name: assets/www/images/icon_piechart.png
+SHA1-Digest: KZuEvSHa/h5hYTz70lXyqX31MVg=
+
+Name: assets/www/sencha/resources/img/togglethumbbg.png
+SHA1-Digest: 5K0HxsyzADacwo1fNoveSTIl5Tw=
+
+Name: assets/www/sencha/resources/css/src/core.css
+SHA1-Digest: 7Rfm4zuqVGZKBZbMBJeQFX/CTwc=
+
+Name: assets/www/sencha/resources/img/tabicons/team.png
+SHA1-Digest: mGH7ADvuEMDQ7AnhP1Rd2n2w/5g=
+
+Name: assets/www/images/sponsors/github.png
+SHA1-Digest: dZpqQ+EQ3BM62IYM/djqkoSeZ5M=
+
+Name: assets/www/images/32-iphone.png
+SHA1-Digest: ggDGdT936f475O4k2tHEixI4QEA=
+
+Name: assets/www/sencha/resources/img/toolbaricons/settings.png
+SHA1-Digest: VF5KC/8W5X0tPMZQ581WuO/JXVw=
+
+Name: assets/www/js/CakeFest/Views/Schedule.js
+SHA1-Digest: VYt2m5uoSv4Nwg1ADpzAbiO0U8E=
+
+Name: assets/www/images/91-beaker2.png
+SHA1-Digest: oQuMOxwYfi4WTFCc+jkfQBohcS4=
+
+Name: assets/www/images/icon_tag.png
+SHA1-Digest: fuss8TUd/kp/Tpiaex0Ph0PQ0MQ=
+
+Name: assets/www/images/icon_command_line.png
+SHA1-Digest: 6MbymmVU1s4f4mHOUOgI3wQ0QlU=
+
+Name: assets/www/images/47-fuel.png
+SHA1-Digest: dKT49yAm0nyQz5ERmBehjvwnqCI=
+
+Name: assets/www/images/icon_box_full.png
+SHA1-Digest: ejfmT/rAogy27ZhNpGvaegy8328=
+
+Name: assets/www/sencha/resources/img/tabicons/bookmarks.png
+SHA1-Digest: Ul6bZg+jf46fk4daZBZxlh501b4=
+
+Name: assets/www/images/icon_window_globe.png
+SHA1-Digest: 11wf1YqIUhukUDeM5YHaCIjQGXk=
+
+Name: assets/www/images/66-microphone.png
+SHA1-Digest: PdLreAOqXNcHafX4s17b0oAgt9w=
+
+Name: assets/www/images/54-lock.png
+SHA1-Digest: CpwlNME44QoEQ8V6w8CxT2dyJxA=
+
+Name: assets/www/images/icon_font_italic.png
+SHA1-Digest: b4RVyjw3cYuKHO8fUQ8Ruq8/5mk=
+
+Name: assets/www/images/84-lightbulb.png
+SHA1-Digest: HqVR7Z7egjWBKRXymcWIqJ2MXew=
+
+Name: assets/www/images/sponsors/microsoft.png
+SHA1-Digest: C9sKMAmbJ18thbBtysdc85fLeRA=
+
+Name: assets/www/images/05-shuffle.png
+SHA1-Digest: hWRN5D+Cq9N3tscPpIxS9P2h99g=
+
+Name: assets/www/sencha/resources/css/ext-touch.css
+SHA1-Digest: xv7p7yKfuJndt5F6eKqMGWvaW+s=
+
+Name: assets/www/images/icon_call.png
+SHA1-Digest: SUBfTx50F1ANBt1zFlScMryZFnc=
+
+Name: assets/www/images/30-key.png
+SHA1-Digest: A9CDF9sXhasJGWraRzQkgxlW4f0=
+
+Name: assets/www/images/icon_computer_off.png
+SHA1-Digest: Ox6bArmEcizhpWcQgAsArQ4MZ8I=
+
+Name: assets/www/sencha/resources/css-debug/src/layout.css
+SHA1-Digest: WVmV+bQSo9MeiP69iyfQWzw77yc=
+
+Name: assets/www/images/icon_add.png
+SHA1-Digest: 88CMiAIWxILeOuPJBmuT/bni8u8=
+
+Name: assets/www/images/icon_post.png
+SHA1-Digest: PEzI8Vke0JQjTIOeUuOoJEoCfeQ=
+
+Name: assets/www/sencha/resources/css/ext-touch-debug.css
+SHA1-Digest: cQDxnEOS73m913th0CdmXzpwHsE=
+
+Name: assets/www/sencha/resources/img/tabicons/info.png
+SHA1-Digest: AfJJKG0EPHIDubSzzY6HcLpB1oE=
+
+Name: assets/www/sencha/resources/img/toolbaricons/search.png
+SHA1-Digest: r/ZW99uX+ZjAeMcQwJHkQ334NbI=
+
+Name: assets/www/sencha/resources/img/tabicons/more.png
+SHA1-Digest: XStyMATE8EpA0y5P+61MDuJX8H4=
+
+Name: assets/www/images/sponsors/activestate.png
+SHA1-Digest: 6V1MAdB7jnYLb1BUOQ6KCWShEnM=
+
+Name: assets/www/sencha/resources/css/src/form.css
+SHA1-Digest: /GKFsfuXNlM+mGb8n6PSG/SY9hk=
+
+Name: assets/www/images/90-lifebuoy.png
+SHA1-Digest: V3p+/HR4XneKrtnH/ECD6rTGNl4=
+
+Name: assets/www/js/dateformat.js
+SHA1-Digest: nQagoQqKwoJqnisGVraVfIVyAWA=
+
+Name: assets/www/sencha/resources/img/tip_horizontal.png
+SHA1-Digest: mlwKbZgIzGx5gZre6zmFc7GzUiw=
+
+Name: assets/www/images/icon_folder_bookmark.png
+SHA1-Digest: Xa8Xw+kcn6oxgotnYr+L9G+N408=
+
+Name: assets/www/images/03-loopback.png
+SHA1-Digest: hsKOoKVZ+8vyepuOX8pn0i8szDk=
+
+Name: assets/www/sencha/resources/img/trackmask_outer.png
+SHA1-Digest: mCspxSomRXnE3EVhy84UigjLgaw=
+
+Name: assets/www/js/CakeFest/Stores/Sponsors.js
+SHA1-Digest: Htg2WruEO75g/2STuOvbo+NBMvg=
+
+Name: assets/www/images/icon_upload.png
+SHA1-Digest: uVk/ei9yD/iE2Nt74ZL0YpvFjQk=
+
+Name: assets/www/images/icon_document_blank.png
+SHA1-Digest: 3TLQH7iCTKw4Hufg3eSWon074QI=
+
+Name: assets/www/images/74-location.png
+SHA1-Digest: UWS9eGZ0/3VxA/g4Xh7x3IE8208=
+
+Name: assets/www/images/icon_text_align_right.png
+SHA1-Digest: dxBhCuPhvtNo0IfBcfMBtQZGke8=
+
+Name: assets/www/sencha/resources/img/toolbaricons/home.png
+SHA1-Digest: TmoIIkybhZU1wL4Ht4i6f1/3yLY=
+
+Name: assets/www/images/83-calendar.png
+SHA1-Digest: SAnMoQo1aQWO5GlXshoaYBN7PQc=
+
+Name: assets/www/sencha/resources/sass/src/toolbar.scss
+SHA1-Digest: xqQhhcMQofJR43ooUuxiSrDJowQ=
+
+Name: assets/www/images/icon_arrow_up.png
+SHA1-Digest: AUSWkUdiAnSamINBpvvleKYqg78=
+
+Name: assets/www/images/18-envelope.png
+SHA1-Digest: j/o0rOV+VLAsEkuPOxKGCJdgR3g=
+
+Name: assets/www/images/76-baby.png
+SHA1-Digest: ITeBY4vUIiYfGafK4sKBsk/IFQ0=
+
+Name: assets/www/images/101-gameplan.png
+SHA1-Digest: tAVKo9LlligYaW85PuQjYNSbPRc=
+
+Name: assets/www/images/116-controller.png
+SHA1-Digest: fp04Z9/xKgPqYWgflpOn8dhC7bw=
+
+Name: assets/www/images/86-camera.png
+SHA1-Digest: UW3kjd2Axab2KJGKlnjItNrXjsc=
+
+Name: assets/www/images/02-redo.png
+SHA1-Digest: rWjz6TmzR37EYOgRqLRuXiX0D/k=
+
+Name: assets/www/images/121-lanscape.png
+SHA1-Digest: VlPzEcYC8LU3b4aH7o+WjLNIPI0=
+
+Name: assets/www/images/21-skull.png
+SHA1-Digest: WtwHokQL/DADTCDVdz8PKXhARyg=
+
+Name: assets/www/images/sponsors/tt_white.png
+SHA1-Digest: MN2g4MV0OVPoTi5LAslm5Pr5+KE=
+
+Name: assets/www/images/icon_settings.png
+SHA1-Digest: QsrVSTCh0ddnMD7528hHw0jE4n0=
+
+Name: assets/www/images/icon_zoom_out.png
+SHA1-Digest: s4CTlC3cG5XmIi40wNujLB/camU=
+
+Name: assets/www/images/icon_flag_1.png
+SHA1-Digest: Lwb6BtH/ns/dQ0kVIFT3cAuQ+MM=
+
+Name: assets/www/images/icon_text_align_left.png
+SHA1-Digest: nzWbCD8xj0/XNuXFk6yd7CPuF70=
+
+Name: assets/www/images/95-equalizer.png
+SHA1-Digest: woLcD1DFz4h84ZTcHZDyfibWQ2I=
+
+Name: assets/www/sencha/resources/img/toolbaricons/trash.png
+SHA1-Digest: afQKy4v0WvdMlkhIvP/kp2wEBsQ=
+
+Name: assets/www/images/icon_attach.png
+SHA1-Digest: NAzJ6Dfw8jJrmRaSRWOwP6V6Htc=
+
+Name: assets/www/sencha/resources/css/src/indexbar.css
+SHA1-Digest: 0IMvnIlSZ2m3I1VCmERoLClumb8=
+
+Name: assets/www/images/36-toolbox.png
+SHA1-Digest: jH+johDVuYpfS/yHyKQD6lznk/o=
+
+Name: assets/www/images/67-tshirt.png
+SHA1-Digest: 58LyqDvrKUfHRLotdjb4KMNrTHs=
+
+Name: assets/www/images/29-heart.png
+SHA1-Digest: 2B63RICwepa671XD/uy9fVknPfE=
+
+Name: assets/www/sencha/resources/css-debug/src/panel.css
+SHA1-Digest: pw+i3b51rVIWobxKUQ6iPUtsNBc=
+
+Name: assets/www/sencha/resources/img/toolbaricons/bookmarks.png
+SHA1-Digest: 6An7pnteMFqdiSfoYlJCH7PzrqU=
+
+Name: assets/www/images/icon_list_numbers.png
+SHA1-Digest: q9FBnv6XVdbI8uOHaJsjU/J4818=
+
+Name: assets/www/images/icon_disk.png
+SHA1-Digest: 5dAMJAk+bILyjFhwnHOumY4A/44=
+
+Name: assets/www/images/icon_folder_goto.png
+SHA1-Digest: jOdJEB3bSC891OUPrHYWlc6dyGw=
+
+Name: assets/www/images/icon_graph_lines.png
+SHA1-Digest: GToNUrnmg7C5+99frC8fovO7WR8=
+
+Name: assets/www/sencha/resources/img/togglemask.png
+SHA1-Digest: fHSTswGv6w0KDiWv+Q3hDYA9+xM=
+
+Name: assets/www/images/icon_comment_delete.png
+SHA1-Digest: p5gmbi+9qJSHSDur9g6J/gc8hIo=
+
+Name: assets/www/sencha/resources/img/togglethumb.png
+SHA1-Digest: LGjo4xE9AySBvnQmRyNmTxAC6Ws=
+
+Name: assets/www/images/44-shoebox.png
+SHA1-Digest: 9Hz3Uhk6srdWU/EclcLi2KM2nh8=
+
+Name: assets/www/sencha/resources/css-debug/src/button.css
+SHA1-Digest: e5JJh/+f2WSbpPmpU57auJ7UJhE=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: ecReEMVbXlke8MM6A/FO9zrjeM4=
+
+Name: assets/www/sencha/resources/img/toolbaricons/tag.png
+SHA1-Digest: H/8GxLrPAIPguIFGa27wTy6Pkzo=
+
+Name: assets/www/sencha/resources/sass/src/list.scss
+SHA1-Digest: SXH6zpJG+vaqACdwNpYjV6xyMC0=
+
+Name: assets/www/images/99-umbrella.png
+SHA1-Digest: 9/rJK9yXdRLmwOx70w1IgIsJ4Nc=
+
+Name: assets/www/sencha/resources/img/tabs.png
+SHA1-Digest: gnzIsXwyrl+li1ZXsm6gbHUmfV0=
+
+Name: assets/www/js/CakeFest/Views/Sponsors.js
+SHA1-Digest: uCW4EYcNWx/wEGhYoqP2lLYyyOA=
+
+Name: assets/www/images/64-zap.png
+SHA1-Digest: oHct2sVlPvARJ/a+EFYY8Xpe9uM=
+
+Name: assets/www/js/CakeFest/Models/ScheduleItem.js
+SHA1-Digest: JG4V+QThRJH4f7DtuV+hvefDY/I=
+
+Name: assets/www/sencha/resources/sass/src/core.scss
+SHA1-Digest: AP/GiXQh4Pa7/Lv0X+wer9exIfM=
+
+Name: assets/www/images/51-outlet.png
+SHA1-Digest: njII88GDhpE9NDqL7lz/VSxH/2o=
+
+Name: assets/www/images/08-chat.png
+SHA1-Digest: NCB9+6279PseZWGSF1vq5bQUwpw=
+
+Name: assets/www/images/sponsors/affilorama_white.png
+SHA1-Digest: xUfmA2kWL3o6wd3eyJaBVUNeTfc=
+
+Name: assets/www/images/20-gear2.png
+SHA1-Digest: yG91sU5gFN8pho3iYxb1pd65aus=
+
+Name: assets/www/images/icon_laptop.png
+SHA1-Digest: dl8+OThjtFHRluvO69RcCObifQo=
+
+Name: assets/www/images/117-todo.png
+SHA1-Digest: m9X+0xWBFCSb3gU2Ifqr/p7uj4U=
+
+Name: assets/www/images/icon_lock.png
+SHA1-Digest: pXNA22ep4H/uFgtKXDWqzRaEu0g=
+
+Name: assets/www/images/icon_graph_up.png
+SHA1-Digest: rPeCcUFm9So3CE/Ce11YSg8lMTw=
+
+Name: assets/www/images/34-coffee.png
+SHA1-Digest: CmeIeY6Xyq5I2P1JB5JRez1yt4Y=
+
+Name: assets/www/images/icon_text_align_center.png
+SHA1-Digest: tMBHM44Bw4Fy2zN9S1Bq5Wsu1WQ=
+
+Name: assets/www/sencha/resources/img/toolbaricons/refresh.png
+SHA1-Digest: 94LEnFK5aarr7vQ8JZ3NTnRkP9I=
+
+Name: assets/www/images/65-note.png
+SHA1-Digest: PL7PtzDL2KcIuxYoKqwds10+6uA=
+
+Name: assets/www/images/icon_paperclip.png
+SHA1-Digest: 2fSjMFjF3lt8oDhsGOPU6Bl9YFc=
+
+Name: assets/www/images/icon_case.png
+SHA1-Digest: ornVyWvTLb2xAsAkIRqMBLs/V0c=
+
+Name: assets/www/images/icon_download.png
+SHA1-Digest: wUKO+WTEqXl/n90XmkzmcNEIvKE=
+
+Name: assets/www/images/icon_measures.png
+SHA1-Digest: ASl5k4qHV1QPtrDqrxzEEvXPToY=
+
+Name: assets/www/images/icon_sort_az.png
+SHA1-Digest: bawA/ck0YqqX5jywaTHJy2P5Wq8=
+
+Name: assets/www/images/icon_comment_add.png
+SHA1-Digest: q+rXYaep4ib5/yUTT09UXkLjE2Y=
+
+Name: assets/www/sencha/resources/img/toolbaricons/compose.png
+SHA1-Digest: 18w0vGvwJjQu+Y9aK0yf7koI3i8=
+
+Name: assets/www/images/icon_circle_arrow_right.png
+SHA1-Digest: 6666BNAVoDjwpfId/TqEnt7cte8=
+
+Name: assets/www/images/127-sock.png
+SHA1-Digest: qoqLNnl7I18GnJMgVaCJ+cLLheY=
+
+Name: assets/www/images/icon_keyboard.png
+SHA1-Digest: 5pbOyhD7UsFw8xhnb8C0Cqo2lmA=
+
+Name: assets/www/js/CakeFest/Views/Information.js
+SHA1-Digest: Z2cpG2/fJVuD5h3i6oFouR9J8e0=
+
+Name: assets/www/sencha/resources/img/tabicons/download.png
+SHA1-Digest: 9upzR+Voy+Fu7oad1pOY9dE+O4s=
+
+Name: assets/www/sencha/resources/css/robot.css
+SHA1-Digest: w7/jbFLeNt7CccG/TaP8f/K3a0w=
+
+Name: assets/www/images/78-stopwatch.png
+SHA1-Digest: Qv6LxuUrCIzbmWTQYamzVdEzpnk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: y04w7CvqiQtQTxWKQGnVHXZGp1c=
+
+Name: assets/www/images/81-dashboard.png
+SHA1-Digest: phdMSt2BfvfC7zFSRCA1IUH2Nnw=
+
+Name: assets/www/images/105-piano.png
+SHA1-Digest: sy5rDSbhBMBweVuIljXZj0ks+OU=
+
+Name: assets/www/sencha/resources/psd/tabs.psd
+SHA1-Digest: VPkbZdSrFjSCrSHWbRo1UZ3yeVw=
+
+Name: assets/www/images/87-wineglass.png
+SHA1-Digest: mAEHsC3wYqP/G0y8ZXNzX4Ng5DY=
+
+Name: assets/www/sencha/resources/sass/robot.scss
+SHA1-Digest: 34AgY+Mwb+NMke76y9QCVCqpDME=
+
+Name: assets/www/images/icon_list_bullets.png
+SHA1-Digest: 0y/roU66BShBnT9pu2/s4cABvL0=
+
+Name: assets/www/images/icon_flash.png
+SHA1-Digest: fm2DbLrzhFFkHAxR4EvHw/Ftx8s=
+
+Name: assets/www/images/icon_box_mail.png
+SHA1-Digest: LjeyZImkCz4kCBRccq74QbNazXI=
+
+Name: assets/www/js/CakeFest/Stores/Schedule.js
+SHA1-Digest: HZk5mn93POzj+oeUgpm3Cl2+h8M=
+
+Name: assets/www/images/icon_window_error.png
+SHA1-Digest: 3JREaE+Yw5XlpkLhc0iPDe2yc2M=
+
+Name: classes.dex
+SHA1-Digest: TFG0BvjGEVXpsYX++pymIWUe2Tg=
+
+Name: assets/www/images/10-medical.png
+SHA1-Digest: J8ApOA4MRG1crisYVUfxjrxcHfQ=
+
+Name: assets/www/images/icon_forum.png
+SHA1-Digest: U1rmV6I7gj7frM8iA+VydLXNb0U=
+
+Name: assets/www/images/icon_graph_bars_down.png
+SHA1-Digest: LfOOerLYaz0LsFKGXM1mpOdIpgM=
+
+Name: assets/www/images/icon_arrow_down.png
+SHA1-Digest: 4ujGO/1kPinQPRQUQsOgGEIIGIk=
+
+Name: assets/www/images/77-ekg.png
+SHA1-Digest: Za/5ywanwj4j6352mi86uVKWJPc=
+
+Name: assets/www/images/icon_user.png
+SHA1-Digest: Uosa9naR8aD3PpuCbu+vK/BBSzU=
+
+Name: assets/www/sencha/resources/img/toolbaricons/organize.png
+SHA1-Digest: 8GWh9+jhdewy+ZCdcjMDfXFFhio=
+
+Name: assets/www/images/69-display.png
+SHA1-Digest: 3lSuQTnR8tMy+EW0DlwtJyEw3OE=
+
+Name: assets/www/images/icon_circle_arrow_left.png
+SHA1-Digest: 6iR0WF+aIMWoXizc8gj6wfdhTkw=
+
+Name: assets/www/images/icon_volume_down.png
+SHA1-Digest: D4tBg6uuJDIE7e5P9YGYQwRpes8=
+
+Name: assets/www/sencha/resources/sass/src/layout.scss
+SHA1-Digest: UX1C+ZJLhR/lVUYV82Nn/8iZ83g=
+
+Name: assets/www/images/01-refresh.png
+SHA1-Digest: Q31Ma7Dsdzq42Lv8wDtTFTYXK3A=
+
+Name: assets/www/images/28-star.png
+SHA1-Digest: cGtCJMdPry/L+ZqN5ptqn1ox8kM=
+
+Name: assets/www/images/icon_calculator.png
+SHA1-Digest: aSXa1Ty0CoHCC/4UnZpm+WZJzVU=
+
+Name: assets/www/images/icon_bookmark.png
+SHA1-Digest: 2oXwCLDKaEwGNu5pF678hZN9W7M=
+
+Name: assets/www/images/icon_hat.png
+SHA1-Digest: qan08ZdBvfm5chzwIoOzg1hf+XY=
+
+Name: assets/www/sencha/resources/sass/src/tabs.scss
+SHA1-Digest: OvuVb1rSP/d9ZdhvbLCTumbLADU=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: ecReEMVbXlke8MM6A/FO9zrjeM4=
+
+Name: assets/www/sencha/resources/img/toolbaricons/chat.png
+SHA1-Digest: 7k8dX//ckObo2CRvgkm8L8mItZs=
+
+Name: assets/www/images/icon_font_underline.png
+SHA1-Digest: OLDEeUqsxgwzP4AuXRqWGc/aMoQ=
+
+Name: assets/www/images/icon_controls_7.png
+SHA1-Digest: XnIydRMyNmta7SiGF6sPhACkOBE=
+
+Name: assets/www/images/icon_graph_bars.png
+SHA1-Digest: nK8N9oxvldn/Cy3lEwV01SKdXMw=
+
+Name: assets/www/images/123-id-card.png
+SHA1-Digest: ILt3ie7WfULfYmEr5iV2MzRu8ig=
+
+Name: assets/www/images/icon_fonts.png
+SHA1-Digest: YNmXH1CZ5vZUHSx4499e96tFrf4=
+
+Name: assets/www/sencha/resources/img/toolbaricons/reply.png
+SHA1-Digest: 1OPKVt0CqyCOINRDwCzxEZ64aV4=
+
+Name: assets/www/images/48-fork-and-knife.png
+SHA1-Digest: JtfTtDlj+bIvl6/C32rGw3qGHlw=
+
+Name: assets/www/images/icon_key.png
+SHA1-Digest: zdVGedrg0q/AU4iOteXRrsPZXvE=
+
+Name: assets/www/images/icon_brush.png
+SHA1-Digest: rCILcC8zbwRHYbcgcfAKt2GjWV0=
+
+Name: assets/www/images/27-planet.png
+SHA1-Digest: FGHRQiTH99NYiNA7yFB683VBlXs=
+
+Name: assets/www/images/19-gear.png
+SHA1-Digest: +SvLO8w26Ff9t9b/puAeB63sbdE=
+
+Name: assets/www/images/icon_users.png
+SHA1-Digest: Apx4zb9OGbMMgzH+ZcAD/ThdGIY=
+
+Name: assets/www/index.html
+SHA1-Digest: dgbzY2HXJd9AVvlqR3xHdbY9qvw=
+
+Name: assets/www/images/icon_photo.png
+SHA1-Digest: dBK1wm3YSPzMVrMfoyn3o5okcVA=
+
+Name: assets/www/images/icon_warning.png
+SHA1-Digest: I5iIZGfQsq1wQaN6qMM+BsJRPN0=
+
+Name: assets/www/images/13-target.png
+SHA1-Digest: UpFKVkeZgsIUnd9aIUpBLtQ400g=
+
+Name: assets/www/images/25-weather.png
+SHA1-Digest: i9XGhVpl+oIG4tWU5GZ6ojtaB9o=
+
+Name: assets/www/sencha/resources/css-debug/robot.css
+SHA1-Digest: WS/QDOI95PnmG2lN4e9cVV5b1jM=
+
+Name: assets/www/sencha/resources/css/src/carousel.css
+SHA1-Digest: kY6HYzY+IoHkQgylp/qTtdH8+mc=
+
+Name: assets/www/sencha/resources/sass/src/panel.scss
+SHA1-Digest: 9n8puJQefkUGu1tkVGiEuC9GgwA=
+
+Name: assets/www/images/129-golf.png
+SHA1-Digest: 3EjmhYoyl+8lbaodIkkTP9XSkMc=
+
+Name: assets/www/images/46-movie2.png
+SHA1-Digest: G0wfiLgXMfGCxhcqtMf3GjHcbWU=
+
+Name: assets/www/sencha/resources/css-debug/src/carousel.css
+SHA1-Digest: WkY4dFUv1Kq/3MfEejdmCxoQe/A=
+
+Name: assets/www/images/icon_arrow_right.png
+SHA1-Digest: 3ZdonAGfCs7U1XgF3F8LEMCmf3c=
+
+Name: assets/www/images/icon_paint.png
+SHA1-Digest: hiYZ1irDhXFnXuGPRSYxJC+EqnY=
+
+Name: assets/www/images/icon_error.png
+SHA1-Digest: RHHEp6EenoFP6qJo3ErUVmmT660=
+
+Name: assets/www/images/icon_favorities_remove.png
+SHA1-Digest: wA9Z0E282qClgpoHUWvGCLnV9lM=
+
+Name: assets/www/sencha/resources/sass/ext-touch.scss
+SHA1-Digest: 1VuB/XLahQm0GsRQh3CN3ErgDTU=
+
+Name: assets/www/sencha/resources/css-debug/src/toolbar.css
+SHA1-Digest: c1zYDwPxXJwOSC+uoxwxR3Zimq8=
+
+Name: assets/www/images/124-bullhorn.png
+SHA1-Digest: TK4zruRn1vlfRjvSY0xL5x416b0=
+
+Name: assets/www/images/icon_sort_za.png
+SHA1-Digest: qoBvZUPneK4tl3zLaLCJkzTVXzY=
+
+Name: assets/www/sencha/resources/sass/src/reset.scss
+SHA1-Digest: y1qnBUzTe6bIqCCMh0SXyxgcX4c=
+
+Name: assets/www/images/icon_volume.png
+SHA1-Digest: 9JP3mSO4cgoI5clacflYFJSpd2I=
+
+Name: assets/www/images/icon_controls_3.png
+SHA1-Digest: 6U+tMSdCyGkRHkTPva66EgBxrPg=
+
+Name: assets/www/images/icon_contrast.png
+SHA1-Digest: XY4rRIzfdnaNV2X4BlvlEN3pIoY=
+
+Name: assets/www/images/icon_sim.png
+SHA1-Digest: qy/4KBonnU8880vU0RYbX/IQJro=
+
+Name: assets/www/images/37-suitcase.png
+SHA1-Digest: e2FwC0ccjny+Qr//CHDbcMsdYIw=
+
+Name: assets/www/sencha/resources/img/tip.png
+SHA1-Digest: azJIPD0tbXuIzB7nFSYh/DxMEJU=
+
+Name: assets/www/images/09-chat2.png
+SHA1-Digest: Xa2VlOx4Twhk40OsPSjKW9net5Y=
+
+Name: assets/www/js/CakeFest/Views/Twitter.js
+SHA1-Digest: T1aE8LZYxRclAvPN83p3OMQxnFU=
+
+Name: assets/www/images/107-widescreen.png
+SHA1-Digest: a5h/pqvfDzucYhN4vkGnNgT/9qM=
+
+Name: assets/www/js/CakeFest/TwitterUtils.js
+SHA1-Digest: +sL580Sr4HsN6L8lUn7LB7a/meo=
+
+Name: assets/www/sencha/ext-touch-debug.js
+SHA1-Digest: rBzTLI1KT+TJPXNJozatvqYwC6E=
+
+Name: assets/www/sencha/resources/css/src/list.css
+SHA1-Digest: 10bd4ws6P/QA8fy/TyY5L+Qs49g=
+
+Name: assets/www/images/103-map.png
+SHA1-Digest: ozwTAdzF4mKgC4M4Ha+XBgPiXBY=
+
+Name: assets/www/sencha/resources/css-debug/ext-touch.css
+SHA1-Digest: o4jpwBvEm5m4jHBk0obNSzOW3vs=
+
+Name: assets/www/images/icon_tag_delete.png
+SHA1-Digest: 78+GF7SY3TaweEu6KJCG99c82Ss=
+
+Name: assets/www/images/45-movie1.png
+SHA1-Digest: UBbVpp22a3zSFeEKOG95e76k5vU=
+
+Name: assets/www/images/61-brightness.png
+SHA1-Digest: H41Nbw2Pv479lgrmgP9mhVcRemU=
+
+Name: assets/www/images/24-gift.png
+SHA1-Digest: 0hEZI68cKHwK+fCG3FLQtinUZ50=
+
+Name: assets/www/images/icon_computer_on.png
+SHA1-Digest: bn5jobSBmokJNptgzNSvFaDgz4U=
+
+Name: assets/www/sencha/resources/css/src/reset.css
+SHA1-Digest: JqAy9BagA2nD95dywUJX8HpDzmE=
+
+Name: assets/www/sencha/resources/css/src/picker.css
+SHA1-Digest: mZnVJrWbTUeu58Qat1pURxZwamw=
+
+Name: assets/www/images/icon_folder.png
+SHA1-Digest: hM+cEF5NRxUxuINO5COMt1tLhzY=
+
+Name: assets/www/images/06-magnifying-glass.png
+SHA1-Digest: F8ljdAS4CPm1qIDhp87imnKqI9g=
+
+Name: assets/www/images/40-inbox.png
+SHA1-Digest: Vnl/JZnVedqY2JCEYdc3jGn7WMs=
+
+Name: assets/www/images/icon_star.png
+SHA1-Digest: mJdH5uuQSuHVHav6UE0ORHcZbwg=
+
+Name: assets/www/images/icon_copy.png
+SHA1-Digest: fzbtVqmOC2kwzdNXWfXQd9UJnN8=
+
+Name: assets/www/images/markers/cakephp.png
+SHA1-Digest: TdPcODYSe1MAi04gUJu3+mxB2kc=
+
+Name: assets/www/images/sponsors/oreilly.png
+SHA1-Digest: QyLd+L5OzVcKiqQL3DtmW8635lY=
+
+Name: assets/www/images/63-runner.png
+SHA1-Digest: +bq+42nLeZBnlpCYBF+STvKEdy0=
+
+Name: assets/www/sencha/resources/img/toolbaricons/action.png
+SHA1-Digest: 9Zq8cALBxxbbULqrALeXvyvvdr8=
+
+Name: assets/www/images/icon_tag_add.png
+SHA1-Digest: l73nohNHpRqzq6EM3kD2rJ4JgKQ=
+
+Name: assets/www/images/icon_font_capital.png
+SHA1-Digest: EcoSRwuuiJfumZpp98MHsriE3zU=
+
+Name: assets/www/images/icon_sad_face.png
+SHA1-Digest: tajoNP+lVCDR5Hbc8FgTqrxnJTM=
+
+Name: assets/www/sencha/resources/img/disclosure.png
+SHA1-Digest: MVrX6XnztQvw7Q4cXdFN3Ap6VG8=
+
+Name: assets/www/sencha/resources/css-debug/src/form_sliders.css
+SHA1-Digest: y7r/19mawCPvua2Qmi7tFyLRpVY=
+
+Name: assets/www/images/96-book.png
+SHA1-Digest: OQXGD6J8ZFy3i9Vwv5xIGjnoP2I=
+
+Name: assets/www/images/75-phone.png
+SHA1-Digest: sOlZfLfqoa1uNxAAfmlrWOtxCrk=
+
+Name: assets/www/images/icon_shopping_bag.png
+SHA1-Digest: vVKPRcI+RdEEHWGnlEPgaiKagjo=
+
+Name: assets/www/images/icon_mail.png
+SHA1-Digest: ehpxPPG1t0WL20+rOJxplwZVfU8=
+
+Name: assets/www/images/58-bookmark.png
+SHA1-Digest: 5oioEaPAmIJO2LD/4iDQ5I9hOpg=
+
+Name: assets/www/images/82-dogpaw.png
+SHA1-Digest: Tqv29EeRap4qb0MiOu08yMuNlGA=
+
+Name: assets/www/sencha/resources/img/tabicons/settings.png
+SHA1-Digest: x2iJu5ABLsL2jv/1djuM19zN45c=
+
+Name: assets/www/images/icon_trash.png
+SHA1-Digest: 9912MlyfDZZL3rG6r3Y4cj7P7vY=
+
+Name: assets/www/images/17-bar-chart.png
+SHA1-Digest: pWaAJ2DfwGQknEbh8yVHC6ePCOo=
+
+Name: assets/www/images/31-ipod.png
+SHA1-Digest: E0yMRu/ncX9Cgc7HAjnQcQI1Wdk=
+
+Name: assets/www/images/icon_safe.png
+SHA1-Digest: mh4iEqzwdhVM1a63wCK0aA83c3A=
+
+Name: assets/www/images/icon_book.png
+SHA1-Digest: nMC+EwNa8Zu295Fyo9xmNpnQeH4=
+
+Name: assets/www/images/markers/bar.png
+SHA1-Digest: MtfasslSSo5Y9/et2CRSPWOxrxU=
+
+Name: assets/www/images/icon_controls_2.png
+SHA1-Digest: kvzs1jNB1Oa0fiCrwMcrNiTGhw0=
+
+Name: assets/www/images/icon_zoom_in.png
+SHA1-Digest: sIx1j5exS0cYyW1S3pmqJdKiOqY=
+
+Name: assets/www/images/icon_bulb_on.png
+SHA1-Digest: m3mnA4gS44F0pYiJSJ4xXl1iRlk=
+
+Name: assets/www/js/CakeFest/Dates.js
+SHA1-Digest: sbo7alqp6p11QaDj79VQQousNN4=
+
+Name: assets/www/images/98-palette.png
+SHA1-Digest: 3LGuCCeuKhKomjPHlv+2DI9sMGU=
+
+Name: assets/www/images/icon_flag.png
+SHA1-Digest: YHxRgbcOYQqAFRCMnlKX0m97990=
+
+Name: assets/www/images/sponsors/guestlist.png
+SHA1-Digest: VJQ9U8XWDlXMKmICR4dXgWCiVAo=
+
+Name: assets/www/images/icon_favorities_add.png
+SHA1-Digest: s4f8/+PHiOHcEk/lyaLmbhWyb70=
+
+Name: assets/www/js/CakeFest/Models/Sponsor.js
+SHA1-Digest: SypGFqrd0MgqZxfKtfCzpUE8GIU=
+
+Name: assets/www/sencha/resources/img/toolbaricons/bolt.png
+SHA1-Digest: hN9LoCJtSL18eT1A5lbttswL1j4=
+
+Name: assets/www/sencha/resources/sass/src/form_sliders.scss
+SHA1-Digest: mRPf6dWobbLQcVylErmAfFguyW4=
+
+Name: assets/www/images/icon_brightness.png
+SHA1-Digest: wxKJxPB5uAaY9DdQDiozC8WMnLI=
+
+Name: assets/www/images/icon_comment_ok.png
+SHA1-Digest: AvGmq5Q2KECJ+A4c6UISuG0iNEY=
+
+Name: assets/www/images/icon_film.png
+SHA1-Digest: DgYPAN0SyZi4Mh9IwBBavIKtyZQ=
+
+Name: assets/www/images/35-shopping-bag.png
+SHA1-Digest: zGaa89MlzbuETQy7xLpA4SMsaP8=
+
+Name: assets/www/images/110-bug.png
+SHA1-Digest: 3BNK2lbmBabnuIrPtWWSWI5NXQk=
+
+Name: assets/www/images/108-badge.png
+SHA1-Digest: dfUJolFF5vL1mNSEQUZvWeVrPHo=
+
+Name: assets/www/images/icon_paper_trash.png
+SHA1-Digest: 9w7TIujVL+0rcQBlhtbeico+fls=
+
+Name: assets/www/sencha/resources/img/toolbaricons/locate.png
+SHA1-Digest: kRyA9zhDYPGdAB5fKb50exmOy1g=
+
+Name: assets/www/images/icon_auction.png
+SHA1-Digest: s1QbZDLvG0Fi5N72vtL5a2/ffp8=
+
+Name: assets/www/images/icon_mic_1.png
+SHA1-Digest: A2TaGgPRgC3eF5LeETfAxen5ENo=
+
+Name: assets/www/images/icon_text_align_justify.png
+SHA1-Digest: NB4uLKONaEEJvxA9EjJ2lSiIOQQ=
+
+Name: assets/www/images/map_markers.png
+SHA1-Digest: nw6Yd1/W1w/AFuLemzfKzY+Usfc=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: ecReEMVbXlke8MM6A/FO9zrjeM4=
+
+Name: assets/www/images/125-food.png
+SHA1-Digest: zDUTFiDRh9NQstPONeHyyDBu1aU=
+
+Name: assets/www/sencha/resources/sass/config-debug.rb
+SHA1-Digest: DVmsCMUxzibFsdgo7+Db9fPhCf4=
+
+Name: assets/www/images/38-airplane.png
+SHA1-Digest: zaxkN198Uwx6kcxLMllYrtJvpsU=
+
+Name: assets/www/images/icon_controls_6.png
+SHA1-Digest: MS8Aui8dYkLiEcr1vssZ/r1mWBU=
+
+Name: assets/www/images/icon_magnify_glass.png
+SHA1-Digest: 8uBVdNRtwhW6oKNSqX7ahju27xA=
+
+Name: assets/www/sencha/resources/css/src/toolbar.css
+SHA1-Digest: BTcJ3LgI2vJNUlxvVR5hFhscHAc=
+
+Name: assets/www/images/sponsors/loadsys.png
+SHA1-Digest: f27+R+pYw4Unria+Lo9tl9Dgis8=
+
+Name: assets/www/images/icon_switch.png
+SHA1-Digest: 4EjpK9seGSnq+558VzEdOiTM2pI=
+
+Name: assets/www/images/markers/airport.png
+SHA1-Digest: eiucGAC7QfLcLplbjr+pnoEhxrw=
+
+Name: assets/www/images/icon_checkmark.png
+SHA1-Digest: OE7FzuxpijpEq3ZhVYbNzDAken8=
+
+Name: assets/www/images/130-dice.png
+SHA1-Digest: XwQO9yuSbmsnFh33MSmPGXuXw/k=
+
+Name: assets/www/images/12-eye.png
+SHA1-Digest: /L0MoZ5JCSedHe2QuL6v/WhE+dM=
+
+Name: assets/www/images/icon_paragraph.png
+SHA1-Digest: f6dBJap60jSzxZD6G6K7mKZEVDs=
+
+Name: assets/www/sencha/resources/img/togglethumbmask.png
+SHA1-Digest: 70cB90CTHIJAlrjNTOgImXIy3o8=
+
+Name: assets/www/sencha/resources/css-debug/src/core.css
+SHA1-Digest: HGRUXpibgVk8qhAEgf6zffP9gVc=
+
+Name: assets/www/images/112-group.png
+SHA1-Digest: aYESwTXMyG6HqTB/6KWyTr/NnWU=
+
+Name: assets/www/images/icon_delete.png
+SHA1-Digest: rHNRiJp2kDSyCKsTBJG0UroTngY=
+
+Name: assets/www/images/icon_controls_8.png
+SHA1-Digest: spAfuLD2bjUxjZDH2j8JLnREEak=
+
+Name: assets/www/sencha/resources/css/src/layout.css
+SHA1-Digest: IsfiMYX2FlLC4GvFXwZh16ImzvA=
+
+Name: assets/www/sencha/resources/img/tabicons/chat.png
+SHA1-Digest: y77XkFTgcxQpHdyr+x0ecW/d27k=
+
+Name: assets/www/images/126-moon.png
+SHA1-Digest: y4+jgZoY3ptdRlSPZGkYduSqF+E=
+
+Name: assets/www/images/markers/food.png
+SHA1-Digest: 4+YLfIb+Yswil2Q2RjBp0xQzJZw=
+
+Name: assets/www/images/26-bandaid.png
+SHA1-Digest: QyuIRLhra9yQLpVx5Y008b1mvBk=
+
+Name: assets/www/images/icon_filming.png
+SHA1-Digest: wUE2nySZfnB/Kz4ZYLsmx31WGiE=
+
+Name: assets/www/sencha/resources/img/tabicons/favorites.png
+SHA1-Digest: abfG+PL3tIqhnxhh9Wj+p3RjTwE=
+
+Name: assets/www/images/56-cloud.png
+SHA1-Digest: 8j4kCPKEfy2b36l7SciCvMwoxl8=
+
+Name: assets/www/sencha/resources/css-debug/src/picker.css
+SHA1-Digest: Ea6F2kwFsAA15121FVrZn9+PVIE=
+
+Name: assets/www/sencha/resources/img/togglebg.png
+SHA1-Digest: 79dRZSAoMUgABQ0ScnEAhpNhuYM=
+
+Name: assets/www/images/icon_first_aid.png
+SHA1-Digest: cGYKTIBYLYysDz/8XH2cvun8pLE=
+
+Name: assets/www/images/icon_storage.png
+SHA1-Digest: 0LLko8kfVNBsnsId+ofUA0uievY=
+
+Name: assets/www/images/icon_wifi.png
+SHA1-Digest: IBg0VsvFKQWpLB8S56z3SeElViI=
+
+Name: assets/www/sencha/resources/css-debug/src/indexbar.css
+SHA1-Digest: 1vgsjzbo85qmmqvSbZ00u2CQTG8=
+
+Name: assets/www/images/114-balloon.png
+SHA1-Digest: 9cVzZg7+ZLOOYW4JdFWeQu/zUbU=
+
+Name: assets/www/images/icon_bookmark_add.png
+SHA1-Digest: BYHNZAlb1Ci1LmStTELJesEiJlA=
+
+Name: assets/www/images/icon_minus.png
+SHA1-Digest: yD14lJnubQaLIVAWrMtNBvhwO8E=
+
+Name: assets/www/sencha/resources/css-debug/src/list.css
+SHA1-Digest: eaXcvQUBDM4ctVvqytFXAEcP2Vw=
+
+Name: assets/www/images/85-trophy.png
+SHA1-Digest: 252BzqjNQZzJla00PgYXxv6CEyc=
+
+Name: assets/www/images/sponsors/FL_Logo_266x112.png
+SHA1-Digest: fDL5ngC0fMkEiq3K51pHm9TUyxA=
+
+Name: assets/www/images/icon_help.png
+SHA1-Digest: xCrajfcDJnCvcagX8Y7d4yoLmyY=
+
+Name: assets/www/images/icon_information.png
+SHA1-Digest: zM9PFXjeYrQ3rdn2SREMELVS9lU=
+
+Name: assets/www/images/41-picture-frame.png
+SHA1-Digest: OE776r0KNON9v+1IU/VgiO+5MQY=
+
+Name: assets/www/images/icon_shopping_cart.png
+SHA1-Digest: r88V4qgQUjmWjbm1fAnkqPK8gTU=
+
+Name: assets/www/images/97-puzzle.png
+SHA1-Digest: 0TERnKREl9Qa5SBLHSN4oAJIovY=
+
+Name: assets/www/images/icon_credit_card.png
+SHA1-Digest: rvVs2A1APecto4oU3oOwwPKfRAw=
+
+Name: assets/www/images/icon_dollar.png
+SHA1-Digest: tTgV0WgfaFRbhVMsLHO8YsAUseU=
+
+Name: assets/www/images/icon_favorities.png
+SHA1-Digest: ZT9ZzwLcW8UHsbjyVNKXLltv8Ig=
+
+Name: assets/www/images/04-squiggle.png
+SHA1-Digest: E7E1j5DXm/JcAmWCh8qWhEC6FmQ=
+
+Name: assets/www/images/icon_tag_cancel.png
+SHA1-Digest: xl4wdduKJfMX0nkmHfktDG9LjcQ=
+
+Name: assets/www/images/70-tv.png
+SHA1-Digest: B5W6HbKhxmIM/br1PVVlw5XnqfU=
+
+Name: assets/www/images/11-clock.png
+SHA1-Digest: NxUARR7ybMR3aweE2ihRYLz/iDE=
+
+Name: assets/www/images/113-navigation.png
+SHA1-Digest: TMyhY57uJNonQXB7HwpOD3InmZ8=
+
+Name: assets/www/images/88-beermug.png
+SHA1-Digest: 7EHQJUmMJ8zma6v0Igjh0PQQrss=
+
+Name: assets/www/images/16-line-chart.png
+SHA1-Digest: w7khy6IkJwaKsXeJvJHRCQxxsu0=
+
+Name: assets/www/images/icon_shopping_heavy.png
+SHA1-Digest: Wine82Z2B3x1GtCWqU3ixLHOBMI=
+
+Name: assets/www/images/icon_cut.png
+SHA1-Digest: jWdtToOxwB9gf+OWFyszukEOHqI=
+
+Name: assets/www/images/icon_controls_1.png
+SHA1-Digest: OFtiui1LVeG6Zchpyaj5ZZNH190=
+
+Name: assets/www/images/111-user.png
+SHA1-Digest: tmbbPDqztdyRxKlX/V4oLSjWQlg=
+
+Name: assets/www/images/icon_frame.png
+SHA1-Digest: dGwtQK/LGJZLOjK4+kdeKpRfafE=
+
+Name: assets/www/images/93-thermometer.png
+SHA1-Digest: Gq0oSfrDnp6mRlwwLsYCcuUXsWQ=
+
+Name: assets/www/images/80-shopping-cart.png
+SHA1-Digest: kxwhohfH2ZEVnD+HGK+5xctvQuQ=
+
+Name: assets/www/images/122-stats.png
+SHA1-Digest: c6muN+0zU5jT0XZASO806uFEApo=
+
+Name: assets/www/images/79-medical-bag.png
+SHA1-Digest: xvr2WzNw1leh0zSAIOieH4Wh6EA=
+
+Name: assets/www/images/icon_resize.png
+SHA1-Digest: griweYpOP8UnP+/vbmkTIdrMVwM=
+
+Name: assets/www/sencha/resources/img/tabicons/mail.png
+SHA1-Digest: wEFeo2rNdwXLrv69svpR00+J0/U=
+
+Name: assets/www/images/icon_controls_5.png
+SHA1-Digest: PeZzc+vXdeBTKCej5SDF95ol6kQ=
+
+Name: assets/www/images/119-piggybank.png
+SHA1-Digest: bVyVXVv46mDiihf5oruUJYxSdAE=
+
+Name: assets/www/css/cakefest.css
+SHA1-Digest: ap+G/4OvZabvzRjyR9Xnkv+pm78=
+
+Name: assets/www/images/icon_save.png
+SHA1-Digest: 9AblbKq0zDw+44yJ8baZDfv3JTM=
+
+Name: assets/www/images/118-coathanger.png
+SHA1-Digest: 89dWF48khU1NP+o1+HOjoYRAloc=
+
+Name: assets/www/images/50-beaker.png
+SHA1-Digest: E2hyZ/izvThPKmy3RyIxsTqFpqo=
+
+Name: assets/www/images/icon_arrow_left.png
+SHA1-Digest: zzWYeGSlCHBiMNavUTTOsVRdMLI=
+
+Name: assets/www/images/icon_bell_off.png
+SHA1-Digest: QgpHHthpIp6zZnuAZzX4urkdLAQ=
+
+Name: assets/www/images/icon_bulb_off.png
+SHA1-Digest: 0/Mt1qxDSzhlKlyQQrZRZKxKgK4=
+
+Name: assets/www/images/sponsors/widget_press.png
+SHA1-Digest: +w1U8jKreDuONpNcSDOuiVO1RX0=
+
+Name: assets/www/sencha/resources/css/src/button.css
+SHA1-Digest: 3pho7eyM+8QRX3AX0R4VrclkbgQ=
+
+Name: assets/www/sencha/resources/css-debug/src/reset.css
+SHA1-Digest: nzOLVM2rMw0RZXsd1h+eUHZ2iWM=
+
+Name: assets/www/images/52-pinetree.png
+SHA1-Digest: d1/lvyG+uzFTh316g8HoIJQ7zXQ=
+
+Name: assets/www/sencha/resources/sass/src/indexbar.scss
+SHA1-Digest: vZrseNb9F5LBXyzkwDLH5nw3x0w=
+
+Name: assets/www/images/icon_book_marked.png
+SHA1-Digest: Ekr5z8cXu1v/js3sUKWuWAK6piE=
+
+Name: assets/www/images/icon_time.png
+SHA1-Digest: 7UjwEtyiPkNrnv4O57FIDfGUmcM=
+
+Name: assets/www/images/73-radar.png
+SHA1-Digest: MsibD/G7Md1uAHEVpw7H27KZaJA=
+
+Name: assets/www/images/icon_cancel.png
+SHA1-Digest: QcN7CHMSsY4AO9Ri1YPlCTIBHfI=
+
+Name: assets/www/images/62-contrast.png
+SHA1-Digest: gCzU87E6goH+JP0ACokLnV57ggI=
+
+Name: resources.arsc
+SHA1-Digest: 6d97DKa18XmKRe+0aK8XqQgJ0q0=
+
+Name: assets/www/sencha/resources/img/toolbaricons/add.png
+SHA1-Digest: +x3HamgocTYR5sYxwddMqZWx7qQ=
+
+Name: res/layout/preview.xml
+SHA1-Digest: fFIp7J/zVKM6XyXF4UBbNFPUV94=
+
+Name: assets/www/js/CakeFest/cakefest.js
+SHA1-Digest: BgPWJd+D5uFPbnj3+z1xLGD/iCg=
+
+Name: assets/www/images/sponsors/cakedc.png
+SHA1-Digest: BWnuDUQ4lYo6+TpMVf5ls0vgQSo=
+
+Name: assets/www/images/icon_bell.png
+SHA1-Digest: jr/I2BneYudPVhQwwVfWlwzdX+U=
+
+Name: assets/www/sencha/resources/css-debug/src/tabs.css
+SHA1-Digest: B4CZUAVmQ/Vxx/4j2o7B3HHewik=
+
+Name: assets/www/images/icon_timer.png
+SHA1-Digest: /2FBX3K/aFLEwJYnZk7pnP+IrxQ=
+
+Name: assets/www/sencha/resources/img/tabicons/home.png
+SHA1-Digest: m34Avtu5QHcKIG75b6SiVFLsC5o=
+
+Name: assets/www/images/33-cabinet.png
+SHA1-Digest: UP556aCk/QwDKLleRrGEGYJ6z6M=
+
+Name: assets/www/images/43-film-roll.png
+SHA1-Digest: sr4EYS/wOSsd2WGjdwXaiFZnFyo=
+
+Name: assets/www/images/49-battery.png
+SHA1-Digest: vwK2FjmLpkkI/DEMihpdTRJQ8JM=
+
+Name: assets/www/images/icon_profile.png
+SHA1-Digest: x8XZP96wx/IF+VUdS2+oN1wQQek=
+
+Name: assets/www/sencha/resources/css/src/form_sliders.css
+SHA1-Digest: VjL6bnSSIVCScgtkbQaoNcWQtsk=
+
+Name: assets/www/images/icon_graph_bars_up.png
+SHA1-Digest: Sx412JZQb1+glvZlZEprFw/DTvA=
+
+Name: assets/www/images/icon_font.png
+SHA1-Digest: oXw0EdpoEIhpiBeCbsOFjFK5nUQ=
+
+Name: assets/www/images/icon_calendar.png
+SHA1-Digest: 7D7ROlfYPzC8UuwB8WB+aVQm8Ow=
+
+Name: assets/www/js/jquery-1.4.2.min.js
+SHA1-Digest: Zcv/Tp2V1HpvMdlqtOo2HB9Tins=
+
+Name: assets/www/images/59-flag.png
+SHA1-Digest: JzunRgswL3sx6p001JmvM2OG6t4=
+
+Name: assets/www/sencha/resources/sass/src/button.scss
+SHA1-Digest: xRsWeiLHb84MHatzq2oGAiQ+Vwk=
+
+Name: assets/www/images/icon_graph_areas.png
+SHA1-Digest: 6eB42qqfX7a4eiGQLDkc36pDnwQ=
+
+Name: assets/www/sencha/resources/img/toolbaricons/delete.png
+SHA1-Digest: WB0BipGpczP9pBhGlgAyXsVFV5w=
+
+Name: assets/www/images/102-walk.png
+SHA1-Digest: 5TZB2m+a41fMwZipIZt6aasT78E=
+
+Name: assets/www/images/15-tags.png
+SHA1-Digest: 8DCfAkxcB0wThQI8uy3CCD2mIJo=
+
+Name: assets/www/images/42-photos.png
+SHA1-Digest: VCZ9JMmzujYgUkytBLvZ0ToSPbw=
+
+Name: assets/www/images/106-sliders.png
+SHA1-Digest: DVb5fPLqq9nC2gSaTaXY3zZp1hc=
+
+Name: assets/www/images/23-bird.png
+SHA1-Digest: ZWK+LrLz1sjeixWf4JbICzmuaUU=
+
+Name: assets/www/sencha/resources/img/tabicons/user.png
+SHA1-Digest: dODKj/LWByXGh2lgcR2Efqbz0uc=
+
+Name: assets/www/images/icon_unlock.png
+SHA1-Digest: jsapH1mGMnKV5t2rC+DrhZGOcM0=
+
+Name: assets/www/images/icon_volume_up.png
+SHA1-Digest: 9D7v1B72a7YaoRbu6lXa3uAAWM4=
+
+Name: assets/www/images/104-index-cards.png
+SHA1-Digest: xROZoSd1zDdrx69gU7tYFVZ1XIo=
+
+Name: assets/www/images/22-skull-n-crossbones.png
+SHA1-Digest: N20YeaGPGZJVVlE51zqSjmGYXeI=
+
+Name: assets/www/sencha/resources/sass/src/picker.scss
+SHA1-Digest: R6A2lij5Alx90ZAOdmEm7+0jacs=
+
+Name: assets/www/sencha/resources/img/toolbaricons/attachment.png
+SHA1-Digest: kr3NymvV+heeR+RDuJH8p6L5uF8=
+
+Name: assets/www/images/icon_flash_arrow.png
+SHA1-Digest: XpEJTdG3Mt/9XX/Tzp/clf44L2k=
+
+Name: assets/www/images/53-house.png
+SHA1-Digest: pu26xIkoXNGQHAXfoS7bUzDAoAc=
+
+Name: assets/www/images/icon_window_lock.png
+SHA1-Digest: R+dbmdyGh52eGcq3r/ZD7e5pciA=
+
+Name: assets/www/images/icon_link.png
+SHA1-Digest: CW7UndBuf60D1ZKI9teBcPlh1Zs=
+
+Name: assets/www/images/icon_smile_face.png
+SHA1-Digest: XVwGqmbirxP+0M3uTxC+PaeUBo8=
+
+Name: assets/www/sencha/resources/img/toolbaricons/maps.png
+SHA1-Digest: vzFIehViqQD6WEmSrLm2mhoRbzE=
+
+Name: assets/www/images/115-bow-and-arrow.png
+SHA1-Digest: l74ymEuiqEysYcBq/Oq2KiceIhE=
+
+Name: assets/www/images/sponsors/empty.png
+SHA1-Digest: knCNg9bcZmSrWoODmGLS16inUYs=
+
+Name: res/layout/main.xml
+SHA1-Digest: lT7mTG9UpP3lj/CU0QYUyRRgRNc=
+
+Name: assets/www/images/icon_mic.png
+SHA1-Digest: SX8KqapJ1Wr/qXpkqDi4GpPTKrk=
+
+Name: assets/www/images/71-compass.png
+SHA1-Digest: HVvBp/2kAgpzQtENpkCMT3V4IdQ=
+
+Name: assets/www/images/icon_twg.png
+SHA1-Digest: n0KVs+9+ILYfRUzprURTQRoRKLg=
+
+Name: assets/www/images/icon_measure.png
+SHA1-Digest: y2VRm0rk11XR4XV9dLwPtV2clSY=
+
+Name: assets/www/sencha/resources/sass/src/carousel.scss
+SHA1-Digest: lT0Chk44MGlLgoA4xLxghrz7aEI=
+
+Name: assets/www/images/icon_buzzer.png
+SHA1-Digest: JEZzF1nXuWN6HDO8T8x+mj+awMs=
+
+Name: assets/www/images/icon_wallet.png
+SHA1-Digest: mduzKgo4piHGMAeRzJeQmRUiEw4=
+
+Name: assets/www/sencha/resources/css/src/tabs.css
+SHA1-Digest: 1lKXNQjv46Mlxu4wwL0ZniwritM=
+
+Name: assets/www/images/14-tag.png
+SHA1-Digest: 6ffwmX72PhowywhKs25J2JvdpCA=
+
+Name: assets/www/images/icon_box.png
+SHA1-Digest: VdsbyASS5U1CRivlTdj2CiPyGFw=
+
+Name: assets/www/sencha/resources/sass/config.rb
+SHA1-Digest: nq7gSYkPPAbj3zYu3UyKX2wbEuY=
+
+Name: assets/www/images/icon_paper_plane.png
+SHA1-Digest: NOV0GqvkKBBwUL/0l1Xc27H6w/U=
+
+Name: assets/www/images/128-bone.png
+SHA1-Digest: DNOc2zBpFGhyXTs8Uf8GbI/lpFE=
+
+Name: assets/www/images/100-coffee.png
+SHA1-Digest: Ryc9OITbE1LaTkfj/Jn7Su/AAr8=
+
+Name: assets/www/images/icon_home.png
+SHA1-Digest: tSY1UWxxZ4pv9PBuhWJQhcvzsjg=
+
+Name: assets/www/images/120-headphones.png
+SHA1-Digest: r6J1UjPXjSCWGMtrXtI5kKJ3t6M=
+
+Name: assets/www/images/89-dumbbell.png
+SHA1-Digest: QTgR+fNIywc9P5BYze7pi0/sSU0=
+
+Name: assets/www/images/92-testtube.png
+SHA1-Digest: pSGi1YYyGbR03ZDgile4VpV7NDc=
+
+Name: assets/www/sencha/resources/css/src/panel.css
+SHA1-Digest: iG+WFMl7TszqgeCGQzTTxhmsn3c=
+
+Name: assets/www/sencha/resources/css-debug/src/form.css
+SHA1-Digest: 4gDlm754E1xwyV/8EWIUrvX5sGw=
+
+Name: assets/www/images/icon_document.png
+SHA1-Digest: +k0BwNRPhi4NBWumOcGx+5npYog=
+
+Name: assets/www/images/icon_pencil.png
+SHA1-Digest: 3kXKiH5brD+JnnxTpLI9sAbHsVM=
+
+Name: assets/www/images/icon_blog.png
+SHA1-Digest: sR5zfqzPytgsu/udnjRsvE9vSfM=
+
+Name: assets/www/sencha/resources/sass/src/form.scss
+SHA1-Digest: lzxUTIhZXkFmYPnLxGeMnoA2s20=
+
+Name: assets/www/sencha/resources/img/tabicons/search.png
+SHA1-Digest: WUXHMb1ZTwxnoUIQ3RAbHZEHXbI=
+
